@@ -191,6 +191,7 @@ def main():
         fe.title(row['title'])
         fe.link(href=row['original_link'])
         fe.description(f"<p><strong>Summary:</strong> {row['summary']}</p><p><strong>Tags:</strong> {row['tags']}</p><img src='{row['image_url']}'/><br/><p><small>Source: {row['article_source_domain']} via {row['email_source']}</small></p>")
+        fe.content(content=row['content'], type='CDATA')
         
         # Handle date parsing
         try:
