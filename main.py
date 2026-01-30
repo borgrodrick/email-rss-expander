@@ -188,10 +188,23 @@ def main():
     articles = db.get_non_spam_articles(limit=50)
     for row in articles:
         fe = fg.add_entry()
-        fe.title(row['title'])
         fe.link(href=row['original_link'])
-        fe.description(f"<p><strong>Summary:</strong> {row['summary']}</p><p><strong>Tags:</strong> {row['tags']}</p><img src='{row['image_url']}'/><br/><p><small>Source: {row['article_source_domain']} via {row['email_source']}</small></p>")
-        fe.content(content=row['content'], type='CDATA')
+        
+        # Construct rich content for the feed
+        # Description is often used for the "excerpt" view
+        description_html = f"<p><strong>Summary:</strong> {row['summary']}</p><p><strong>Tags:</strong> {row['tags']}</p><img src='{row['image_url']}' style='max-width:100%;'/><br/><p><small>Source: {row['article_source_domain']} via {row['email_source']}</small></p>"
+        fe.description(description_html)
+        
+        # Content is the full view: Prepend summary and image to the main text
+        full_content_html = f"""
+        <div style="font-style: italic; background-color: #f9f9f9; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
+            <strong>Summary:</strong> {row['summary']}
+        </div>
+        <img src='{row['image_url']}' style='max-width:100%; margin-bottom: 20px;'/>
+        <hr/>
+        {row['content']}
+        """
+        fe.content(content=full_content_html, type='CDATA')
         
         # Handle date parsing
         try:
