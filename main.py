@@ -188,6 +188,7 @@ def main():
     articles = db.get_non_spam_articles(limit=50)
     for row in articles:
         fe = fg.add_entry()
+        fe.title(row['title'])
         fe.link(href=row['original_link'])
         
         # Construct rich content for the feed
