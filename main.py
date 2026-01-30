@@ -106,6 +106,11 @@ def main():
             
         html_content = content_tag.text # BeautifulSoup automatically decodes entities
         
+        # Extract feed entry date (prefer updated, fallback to published)
+        entry_date = entry.find('updated').text if entry.find('updated') else None
+        if not entry_date:
+            entry_date = entry.find('published').text if entry.find('published') else datetime.now().isoformat()
+
         # Link Extraction
         link_soup = BeautifulSoup(html_content, 'html.parser')
         links = link_soup.find_all('a', href=True)
@@ -167,7 +172,8 @@ def main():
                     'image_url': image,
                     'original_link': url,
                     'content_hash': content_hash,
-                    'published_date': publish_date
+                    'published_date': publish_date,
+                    'feed_source_date': entry_date
                 }
                 
                 db.save_article(article_data)

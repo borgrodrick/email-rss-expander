@@ -33,10 +33,18 @@ def init_db():
             original_link TEXT UNIQUE,
             content_hash TEXT,
             published_date TEXT,
+            feed_source_date TEXT,
             crawl_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
             FOREIGN KEY(feed_entry_id) REFERENCES entries(entry_id)
         )
     ''')
+    
+    # Simple migration: Add feed_source_date if it doesn't exist
+    try:
+        cursor.execute("ALTER TABLE articles ADD COLUMN feed_source_date TEXT")
+    except sqlite3.OperationalError:
+        # Column likely already exists
+        pass
     
     conn.commit()
     conn.close()
@@ -83,8 +91,8 @@ def save_article(article_data):
         cursor.execute('''
             INSERT INTO articles (
                 feed_entry_id, email_source, article_source_domain, title, 
-                content, summary, tags, image_url, original_link, content_hash, published_date
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                content, summary, tags, image_url, original_link, content_hash, published_date, feed_source_date
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         ''', (
             article_data.get('feed_entry_id'),
             article_data.get('email_source'),
@@ -96,7 +104,8 @@ def save_article(article_data):
             article_data.get('image_url'),
             article_data.get('original_link'),
             article_data.get('content_hash'),
-            article_data.get('published_date')
+            article_data.get('published_date'),
+            article_data.get('feed_source_date')
         ))
         conn.commit()
         logger.info(f"Saved article: {article_data.get('title')}")
@@ -111,11 +120,11 @@ def get_non_spam_articles(limit=50):
     cursor = conn.cursor()
     
     # Filter out articles that have 'spam' in their tags
-    # This is a simple string check, might need to be more robust if tags are JSON
+    # Sort first by the actual email arrival time (feed_source_date), then by article time
     cursor.execute('''
         SELECT * FROM articles 
         WHERE tags NOT LIKE '%spam%' 
-        ORDER BY published_date DESC, crawl_date DESC
+        ORDER BY feed_source_date DESC, published_date DESC, crawl_date DESC
         LIMIT ?
     ''', (limit,))
     
