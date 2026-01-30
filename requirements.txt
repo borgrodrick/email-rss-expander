@@ -3,6 +3,6 @@ newspaper4k
 feedgen
 lxml
 requests
-google-generativeai
+google-genai
 adblockparser
 python-dotenv

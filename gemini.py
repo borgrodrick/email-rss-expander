@@ -1,26 +1,27 @@
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 import os
 import logging
 import json
 
 logger = logging.getLogger(__name__)
 
-def configure_gemini():
+def get_client():
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         logger.error("GEMINI_API_KEY not found.")
-        return False
-    genai.configure(api_key=api_key)
-    return True
+        return None
+    return genai.Client(api_key=api_key)
 
 def analyze_article(title, content_snippet):
     """
     Analyzes the article content using Gemini to generate a summary and tags.
     """
-    if not configure_gemini():
+    client = get_client()
+    if not client:
         return {"summary": "Gemini API not configured.", "tags": []}
 
-    model = genai.GenerativeModel('gemini-3-flash-preview')
+    model_id = 'gemini-3-flash-preview'
     
     prompt = f"""
     You are an intelligent RSS feed curator. 
@@ -42,7 +43,13 @@ def analyze_article(title, content_snippet):
     """
     
     try:
-        response = model.generate_content(prompt, generation_config={"response_mime_type": "application/json"})
+        response = client.models.generate_content(
+            model=model_id,
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                response_mime_type="application/json"
+            )
+        )
         result = json.loads(response.text)
         return result
     except Exception as e:
