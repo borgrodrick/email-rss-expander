@@ -1,0 +1,8 @@
+beautifulsoup4
+newspaper4k
+feedgen
+lxml
+requests
+google-generativeai
+adblockparser
+python-dotenv
