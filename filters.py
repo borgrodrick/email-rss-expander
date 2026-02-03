@@ -2,7 +2,7 @@ from adblockparser import AdblockRules
 import logging
 import os
 import requests
-from urllib.parse import urlparse, parse_qsl, urlencode, urlunparse
+from urllib.parse import urlparse, parse_qsl, urlencode, urlunparse, unquote
 
 logger = logging.getLogger(__name__)
 
@@ -24,6 +24,33 @@ class LinkFilter:
         self.blocked_extensions = [
             ".png", ".jpg", ".jpeg", ".gif", ".svg", ".css", ".js", ".ico"
         ]
+        # Common query parameters used for redirects
+        self.redirect_keys = [
+            'url', 'target', 'web_url', 'link', 'dest', 'destination', 'furl', 'return_url', 'redirect_url'
+        ]
+
+    def unwrap_redirect(self, url):
+        """
+        Attempts to extract the target URL from a redirect URL's query parameters.
+        Recursive to handle nested redirects.
+        """
+        try:
+            parsed = urlparse(url)
+            query_params = dict(parse_qsl(parsed.query))
+            
+            for key in self.redirect_keys:
+                if key in query_params:
+                    candidate = unquote(query_params[key])
+                    # Basic validation: candidate should look like a URL
+                    if candidate.startswith(('http://', 'https://')):
+                        # Recursively unwrap in case of nested redirects
+                        return self.unwrap_redirect(candidate)
+            
+            # If no known parameter found, return original
+            return url
+        except Exception as e:
+            logger.warning(f"Error unwrapping URL {url}: {e}")
+            return url
 
     def _load_rules(self):
         if not os.path.exists(EASYLIST_PATH):

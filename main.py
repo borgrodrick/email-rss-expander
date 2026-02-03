@@ -118,9 +118,12 @@ def main():
         unique_urls = set()
         for link in links:
             raw_url = link['href']
+            # Unwrap potential redirects
+            unwrapped_url = link_filter.unwrap_redirect(raw_url)
+            
             link_text = link.get_text(strip=True)
-            if link_filter.is_valid_url(raw_url, link_text=link_text):
-                normalized_url = link_filter.normalize_url(raw_url)
+            if link_filter.is_valid_url(unwrapped_url, link_text=link_text):
+                normalized_url = link_filter.normalize_url(unwrapped_url)
                 unique_urls.add(normalized_url)
         
         logger.info(f"Found {len(unique_urls)} potential article links in email '{email_title}'")
