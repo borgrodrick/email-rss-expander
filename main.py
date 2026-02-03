@@ -130,9 +130,13 @@ def main():
         
         # Crawl Articles
         for url in unique_urls:
-            # Check if URL exists in DB
+            # Check if URL exists in DB or has failed previously
             if db.article_exists(url=url):
                 logger.info(f"Skipping duplicate URL: {url}")
+                continue
+            
+            if db.is_crawl_failed(url):
+                logger.info(f"Skipping previously failed URL: {url}")
                 continue
             
             logger.info(f"Crawling article: {url}")
@@ -184,6 +188,10 @@ def main():
                 
             except Exception as e:
                 logger.error(f"Failed to process article {url}: {e}")
+                error_msg = str(e)
+                if "403" in error_msg or "401" in error_msg:
+                    logger.warning(f"Marking URL as failed (403/401): {url}")
+                    db.mark_crawl_failed(url, "403/401 Forbidden/Unauthorized")
         
         # Mark entry as processed
         db.mark_entry_processed(entry_id)

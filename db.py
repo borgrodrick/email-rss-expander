@@ -39,6 +39,18 @@ def init_db():
         )
     ''')
     
+    # Table to store failed crawls to verify before retrying
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS failed_crawls (
+            url TEXT PRIMARY KEY,
+            error_code TEXT,
+            attempted_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+        )
+    ''')
+    
+    # Ensure index on url for fast lookups (though PRIMARY KEY implies it, explicit index ensures intent)
+    cursor.execute('CREATE INDEX IF NOT EXISTS idx_failed_url ON failed_crawls(url)')
+
     # Simple migration: Add feed_source_date if it doesn't exist
     try:
         cursor.execute("ALTER TABLE articles ADD COLUMN feed_source_date TEXT")
@@ -49,6 +61,27 @@ def init_db():
     conn.commit()
     conn.close()
     logger.info(f"Database initialized at {DB_PATH}")
+
+def is_crawl_failed(url):
+    """Check if a URL has previously failed crawling."""
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+    # Efficient lookup using the index/primary key
+    cursor.execute("SELECT 1 FROM failed_crawls WHERE url = ?", (url,))
+    exists = cursor.fetchone() is not None
+    conn.close()
+    return exists
+
+def mark_crawl_failed(url, error_code):
+    """Mark a URL as failed to prevent retries."""
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+    cursor.execute(
+        "INSERT OR REPLACE INTO failed_crawls (url, error_code) VALUES (?, ?)", 
+        (url, str(error_code))
+    )
+    conn.commit()
+    conn.close()
 
 def entry_exists(entry_id):
     conn = sqlite3.connect(DB_PATH)
