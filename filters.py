@@ -42,21 +42,27 @@ class LinkFilter:
         
         return AdblockRules(raw_rules)
 
-    def is_valid_url(self, url):
+    def is_valid_url(self, url, link_text=None):
         # 1. Check basic file extensions
         if any(url.lower().endswith(ext) for ext in self.blocked_extensions):
             return False
 
-        # 2. Check heuristics (substrings)
+        # 2. Check heuristics (substrings) in URL
         url_lower = url.lower()
         if any(sub in url_lower for sub in self.blocked_substrings):
             return False
 
-        # 3. Check blocked domains (simple check, could use tldextract for better precision)
+        # 3. Check heuristics (substrings) in Link Text
+        if link_text:
+            text_lower = link_text.lower()
+            if any(sub in text_lower for sub in self.blocked_substrings):
+                return False
+
+        # 4. Check blocked domains (simple check, could use tldextract for better precision)
         if any(domain in url_lower for domain in self.blocked_domains):
             return False
 
-        # 4. Check Adblock rules
+        # 5. Check Adblock rules
         if self.rules and self.rules.should_block(url):
             return False
 

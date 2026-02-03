@@ -124,7 +124,7 @@ def get_non_spam_articles(limit=50):
     cursor.execute('''
         SELECT * FROM articles 
         WHERE tags NOT LIKE '%spam%' 
-        ORDER BY feed_source_date DESC, published_date DESC, crawl_date DESC
+        ORDER BY crawl_date DESC
         LIMIT ?
     ''', (limit,))
     
