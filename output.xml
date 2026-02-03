@@ -1,331 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Curated Email Articles</title><link>https://kill-the-newsletter.com/feeds/km69ge1d7gq6c4rhg5uv.xml</link><description>Aggregated articles from email newsletters, filtered and summarized.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 03 Feb 2026 08:46:31 +0000</lastBuildDate><item><title>Inside the marketplace powering bespoke AI deepfakes of real women</title><link>https://www.platformer.news/r/250ed5d5?m=ef5c0baa-fd94-4a88-9365-5fbc0fe6d347</link><description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Error generating summary.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;/p&gt;&lt;img src='https://wp.technologyreview.com/wp-content/uploads/2026/01/marketplace-LORAs2.jpg?resize=1200,600' style='max-width:100%;'/&gt;&lt;br/&gt;&lt;p&gt;&lt;small&gt;Source: www.platformer.news via Five ways of thinking about Moltbook&lt;/small&gt;&lt;/p&gt;</description><content:encoded><![CDATA[
-        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
-            <strong>Summary:</strong> Error generating summary.
-        </div>
-        <img src='https://wp.technologyreview.com/wp-content/uploads/2026/01/marketplace-LORAs2.jpg?resize=1200,600' style='max-width:100%; margin-bottom: 20px;'/>
-        <hr/>
-        Civitai—an online marketplace for buying and selling AI-generated content, backed by the venture capital firm Andreessen Horowitz—is letting users buy custom instruction files for generating celebrity deepfakes. Some of these files were specifically designed to make pornographic images banned by the site, a new analysis has found.
-
-The study, from researchers at Stanford and Indiana University, looked at people’s requests for content on the site, called “bounties.” The researchers found that between mid-2023 and the end of 2024, most bounties asked for animated content—but a significant portion were for deepfakes of real people, and 90% of these deepfake requests targeted women. (Their findings have not yet been peer reviewed.)
-
-The debate around deepfakes, as illustrated by the recent backlash to explicit images on the X-owned chatbot Grok, has revolved around what platforms should do to block such content. Civitai’s situation is a little more complicated. Its marketplace includes actual images, videos, and models, but it also lets individuals buy and sell instruction files called LoRAs that can coach mainstream AI models like Stable Diffusion into generating content they were not trained to produce. Users can then combine these files with other tools to make deepfakes that are graphic or sexual. The researchers found that 86% of deepfake requests on Civitai were for LoRAs.
-
-In these bounties, users requested “high quality” models to generate images of public figures like the influencer Charli D’Amelio or the singer Gracie Abrams, often linking to their social media profiles so their images could be grabbed from the web. Some requests specified a desire for models that generated the individual’s entire body, accurately captured their tattoos, or allowed hair color to be changed. Some requests targeted several women in specific niches, like artists who record ASMR videos. One request was for a deepfake of a woman said to be the user’s wife. Anyone on the site could offer up AI models they worked on for the task, and the best submissions received payment—anywhere from $0.50 to $5. And nearly 92% of the deepfake bounties were awarded.
-
-Neither Civitai nor Andreessen Horowitz responded to requests for comment.
-
-It’s possible that people buy these LoRAs to make deepfakes that aren’t sexually explicit (though they’d still violate Civitai’s terms of use, and they’d still be ethically fraught). But Civitai also offers educational resources on how to use external tools to further customize the outputs of image generators—for example, by changing someone’s pose. The site also hosts user-written articles with details on how to instruct models to generate pornography. The researchers found that the amount of porn on the platform has gone up, and that the majority of requests each week are now for NSFW content.
-
-“Not only does Civitai provide the infrastructure that facilitates these issues; they also explicitly teach their users how to utilize them,” says Matthew DeVerna, a postdoctoral researcher at Stanford’s Cyber Policy Center and one of the study’s leaders.
-
-The company used to ban only sexually explicit deepfakes of real people, but in May 2025 it announced it would ban all deepfake content. Nonetheless, countless requests for deepfakes submitted before this ban now remain live on the site, and many of the winning submissions fulfilling those requests remain available for purchase, MIT Technology Review confirmed.
-
-Civitai automatically tags bounties requesting deepfakes and lists a way for the person featured in the content to manually request its takedown. This system means that Civitai has a reasonably successful way of knowing which bounties are for deepfakes, but it’s still leaving moderation to the general public rather than carrying it out proactively.
-
-A company’s legal liability for what its users do isn’t totally clear. Generally, tech companies have broad legal protections against such liability for their content under Section 230 of the Communications Decency Act, but those protections aren’t limitless. For example, “you cannot knowingly facilitate illegal transactions on your website,” says Ryan Calo, a professor specializing in technology and AI at the University of Washington’s law school. (Calo wasn’t involved in this new study.)
-
-Civitai joined OpenAI, Anthropic, and other AI companies in 2024 in adopting design principles to guard against the creation and spread of AI-generated child sexual abuse material . This move followed a 2023 report from the Stanford Internet Observatory, which found that the vast majority of AI models named in child sexual abuse communities were Stable Diffusion–based models “predominantly obtained via Civitai.”
-
-But adult deepfakes have not gotten the same level of attention from content platforms or the venture capital firms that fund them. “They are not afraid enough of it. They are overly tolerant of it,” Calo says. “Neither law enforcement nor civil courts adequately protect against it. It is night and day.”
-
-Civitai received a $5 million investment from Andreessen Horowitz (a16z) in November 2023. In a video shared by a16z, Civitai cofounder and CEO Justin Maier described his goal of building the main place where people find and share AI models for their own individual purposes. “We’ve aimed to make this space that’s been very, I guess, niche and engineering-heavy more and more approachable to more and more people,” he said.
-
-Civitai is not the only company with a deepfake problem in a16z’s investment portfolio; in February, MIT Technology Review first reported that another company, Botify AI, was hosting AI companions resembling real actors that stated their age as under 18, engaged in sexually charged conversations, offered “hot photos,” and in some instances described age-of-consent laws as “arbitrary” and “meant to be broken.”
-        ]]></content:encoded><guid isPermaLink="false">https://www.platformer.news/r/250ed5d5?m=ef5c0baa-fd94-4a88-9365-5fbc0fe6d347</guid><pubDate>Fri, 30 Jan 2026 11:32:31 -0500</pubDate></item><item><title>Will Elon Musk’s emails with Jeffrey Epstein derail his very important year?</title><link>https://www.platformer.news/r/eeef9b95?m=ef5c0baa-fd94-4a88-9365-5fbc0fe6d347</link><description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Recent DOJ documents have revealed correspondence between Elon Musk and Jeffrey Epstein from 2012 and 2013, contradicting Musk's previous claims that he refused all invitations. The news surfaces as Musk navigates high-stakes business ventures, including a potential SpaceX IPO and a merger with xAI, leading experts to warn that the controversy could damage investor confidence or create significant 'distraction costs' for his companies.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Elon Musk,Jeffrey Epstein,SpaceX,Corporate Governance,IPO&lt;/p&gt;&lt;img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_Illo_STK022_K_Radtke_Musk_Bolts.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200' style='max-width:100%;'/&gt;&lt;br/&gt;&lt;p&gt;&lt;small&gt;Source: www.platformer.news via Five ways of thinking about Moltbook&lt;/small&gt;&lt;/p&gt;</description><content:encoded><![CDATA[
-        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
-            <strong>Summary:</strong> Recent DOJ documents have revealed correspondence between Elon Musk and Jeffrey Epstein from 2012 and 2013, contradicting Musk's previous claims that he refused all invitations. The news surfaces as Musk navigates high-stakes business ventures, including a potential SpaceX IPO and a merger with xAI, leading experts to warn that the controversy could damage investor confidence or create significant 'distraction costs' for his companies.
-        </div>
-        <img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_Illo_STK022_K_Radtke_Musk_Bolts.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200' style='max-width:100%; margin-bottom: 20px;'/>
-        <hr/>
-        Last week, the Department of Justice released a trove of documents related to its case against Jeffrey Epstein, its largest to date. Amid the millions of files were many mentions of Elon Musk. A search of Musk’s name in the department’s database results in at least 1,500 hits.
-
-Since the release, Musk has been — what else? — posting through it, defending himself and his correspondence with Epstein on his social media platform, X. Musk said he had “very little correspondence” with Epstein and “declined repeated invitations” to go to Epstein’s island, despite emails showing he had been in touch with Epstein in 2012 and 2013, at one point asking him, “What day/night will be the wildest party on your island?” Epstein even offered to send a helicopter to bring Musk to the island.
-
-It’s unclear if Musk ever made it to the island, and he hasn’t been accused of any wrongdoing related to Epstein. But the revelations certainly fly in the face of Musk’s past denials that he “REFUSED” invitations from the convicted sex offender, as does his bumbling efforts at damage control now that the truth has emerged.
-
-The revelations certainly fly in the face of Musk’s past denials that he “REFUSED” invitations from the convicted sex offender.
-
-To be sure, Musk is that rare executive who seems financially immune from his many controversies. He has endured defamation lawsuits, wrongful death lawsuits, sexual misconduct allegations, rumors of drug use, and more — and all the while his net worth continues to go up.
-
-But there’s no arguing that the news of the Epstein emails comes at a very inconvenient time for Musk, who is currently in the middle of several highly sensitive, high-stakes business moves, including a possible IPO and the attempted merger of at least two of his companies. SpaceX is lining up for a possible record public offering later this year. And last week, Reuters reported that Musk was interested in merging his rocket and telecommunications company with xAI. (As this story published, the merger was officially announced.)
-
-The news that Musk sought an invite to Epstein’s island could “dent his image” with investors, said Ann Lipton, a professor of corporate governance at the University of Colorado Law School. And since much of Musk’s success depends on the optimism he generates among investors, a “dent” in that optimism could hurt his efforts to secure a historic IPO for SpaceX.
-
-“But I think the bigger risk to his companies is what we’d call ‘distraction costs’ — he seems to be spending a lot of time trying to refute allegations that he was involved with Epstein, and that itself might be something investors become concerned about,” Lipton said in an email.
-
-Musk has faced criticisms about how he chooses to spend his time before. In 2022, hundreds of SpaceX employees signed a letter asserting that Musk’s behavior had become a source of embarrassment and a distraction for the company. (At the time, the billionaire was in the middle of his doomed effort to weasel out of his offer to buy Twitter.) Last year, Tesla’s shareholders approved a $1 trillion pay package for Musk that was engineered to lure him away from DOGE and his work for the Trump administration, and back to the EV company.
-
-The news that Musk sought an invite to Epstein’s island could “dent his image” with investors
-
-SpaceX’s IPO represents the biggest risk for Musk right now, said Gregory Shill, law professor and corporate governance expert at Arizona State University. The disclosure process for public offerings is intensive and subject to scrutiny by the Securities and Exchange Commission, in addition to private litigants. Any misrepresentation or omission carries a lot of legal risk for SpaceX — and by extension, Musk. But he can mitigate those risks by “inserting an appropriate risk factor in the S-1,” including “key person risk” related to Musk himself, Shill said.
-
-If more Epstein revelations emerge, Musk could find himself facing more serious consequences. Of course, whether someone with proven ties to Epstein experiences any consequences for their actions often depends on which political party happens to be in power. For example, former Treasury Secretary Larry Summers resigned from several prominent roles, most notably the board of OpenAI, following the release of his emails with Epstein. Prince Andrew was stripped of his royal titles. Bill and Hillary Clinton are currently facing a contempt vote in Congress after they rebuffed a subpoena to testify in a bipartisan probe into Epstein.
-
-Of course, the Clintons’ party is out of power in Washington, while Musk’s is in. There are no Republican calls for Musk, who is a major political donor, to further explain his contacts with Epstein. The only calls are coming from inside the house, or rather Musk’s own X, where he spent the weekend trying to drown out the noise about his own attempts to visit Epstein’s island by pointing the finger at other prominent names (Steve Bannon, Reid Hoffman, etc.) included in the documents.
-
-It’s exceedingly rare that Musk’s controversial behavior ends up hurting him financially. He remains the world’s richest man, even while Tesla’s sales and profits continue to plummet. Investors continue to buy and sell stock in his companies, despite his well-documented history of racist comments and conspiracy mongering. He threw a Nazi salute at Donald Trump’s inauguration — Tesla’s stock price is up almost 11 percent in the 12 months since that highly publicized gesture.
-
-Maybe this controversy, like most of the controversies before it, is simply baked into the price at this point.
-
-“My guess,” Lipton said, “is that without further revelations, investors will treat it as part of the background noise that comes with any Musk investment.”
-        ]]></content:encoded><guid isPermaLink="false">https://www.platformer.news/r/eeef9b95?m=ef5c0baa-fd94-4a88-9365-5fbc0fe6d347</guid><pubDate>Mon, 02 Feb 2026 21:49:22 +0000</pubDate></item><item><title>Aisuru botnet sets new record with 31.4 Tbps DDoS attack</title><link>https://www.platformer.news/r/d1ba7683?m=ef5c0baa-fd94-4a88-9365-5fbc0fe6d347</link><description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Cloudflare reported a record-breaking 31.4 Tbps DDoS attack launched by the Aisuru botnet, targeting telecommunications and IT sectors during a campaign dubbed 'The Night Before Christmas.' The 2025 Q4 DDoS Threat Report highlights a massive 121% annual increase in attacks, with recent record surges being powered largely by compromised Android TVs and IoT devices.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Cloudflare,DDoS,Aisuru Botnet,Cybersecurity,Telecommunications&lt;/p&gt;&lt;img src='https://www.bleepstatic.com/content/hl-images/2025/09/02/Cloudflare.jpg' style='max-width:100%;'/&gt;&lt;br/&gt;&lt;p&gt;&lt;small&gt;Source: www.platformer.news via Five ways of thinking about Moltbook&lt;/small&gt;&lt;/p&gt;</description><content:encoded><![CDATA[
-        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
-            <strong>Summary:</strong> Cloudflare reported a record-breaking 31.4 Tbps DDoS attack launched by the Aisuru botnet, targeting telecommunications and IT sectors during a campaign dubbed 'The Night Before Christmas.' The 2025 Q4 DDoS Threat Report highlights a massive 121% annual increase in attacks, with recent record surges being powered largely by compromised Android TVs and IoT devices.
-        </div>
-        <img src='https://www.bleepstatic.com/content/hl-images/2025/09/02/Cloudflare.jpg' style='max-width:100%; margin-bottom: 20px;'/>
-        <hr/>
-        The Aisuru/Kimwolf botnet launched a new massive distributed denial of service (DDoS) attack that peaked at 31.4 Tbps and 200 million requests per second, setting a new record.
-
-The attack was part of a campaign targeting multiple companies, most of them in the telecommunications sector, and was detected and mitigated by Cloudflare last year on December 19.
-
-Aisuru is responsible for the previous DDoS record that reached 29.7 Tbps. Another attack that Microsoft attributed to the botnet peaked at 15.72 Tbps and originated from 500,000 IP addresses.
-
-Due to its timing, Cloudflare named the latest Aisuru campaign “The Night Before Christmas” and characterized it as an “unprecedented bombardment” on telecommunications service providers and IT organizations.
-
-“The campaign targeted Cloudflare customers as well as Cloudflare’s dashboard and infrastructure with hyper-volumetric HTTP DDoS attacks exceeding rates of 200 million requests per second (rps) alongside Layer 4 DDoS attacks peaking at 31.4 Terabits per second, making it the largest attack ever disclosed publicly,” Cloudflare says in a report today.
-
-More than half of the attacks in the Aisuru DDoS campaign lasted between one and two minutes, with just 6% taking longer. Most of them (90%) peaked between 1-5 Tbps, and roughly 94% were in the range of 1-5 billion packets per second.
-
-Despite the scale of these hyper-volumetric attacks, Cloudflare says they were detected and mitigated automatically and didn’t trigger any internal alerts.
-
-Aisuru botnet's power comes from compromised IoT devices and routers. However, the attack sources in "The Night Before Christmas" campaing were Android TVs, Cloudflare says in the report.
-
-In its 2025 Q4 DDoS Threat Report, Cloudflare provides a retrospective of events throughout the year, confirming that the period recorded a 121% increase in DDoS attacks compared to 2024, with 47.1 million incidents.
-
-Cloudflare mitigated an average of 5,376 DDoS attacks per hour in 2025, with the 73% of those being network-layer attacks, and the rest being HTTP-based.
-
-Q4 was up 31% quarter-over-quarter and 58% year-over-year, indicating that the trend of increasing numbers of DDoS attacks continues.
-
-During this quarter, the most targeted industries were telecommunication service providers, IT and services firms, gambling and casinos, and gaming companies.
-
-The largest source of the attacks was Bangladesh, followed by Ecuador and Indonesia. Cloudflare also noted Argentina jumping to the fourth place while Russia dropped five posts to number 10.
-
-According to the report, DDoS attacks last year targeted mostly organizations in China, Hong Kong, Germany, Brazil, and the United States.
-
-Cloudflare's report highlights a 600% increase in network-layer attacks exceeding 100 Mpps and a 65% QoQ increase in attacks larger than 1 Tbps. The internet firm also notes that more than 71.5% of all recorded HTTP DDoS attacks come from known/documented botnets.
-        ]]></content:encoded><guid isPermaLink="false">https://www.platformer.news/r/d1ba7683?m=ef5c0baa-fd94-4a88-9365-5fbc0fe6d347</guid><pubDate>Thu, 29 Jan 2026 09:55:25 -0500</pubDate></item><item><title>Elon Musk’s Grok is still undressing men</title><link>https://www.platformer.news/r/947acd94?m=ef5c0baa-fd94-4a88-9365-5fbc0fe6d347</link><description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; A Verge investigation reveals that Elon Musk’s AI chatbot, Grok, continues to generate nonconsensual sexual deepfakes and intimate images despite claims of new safety restrictions. While X implemented measures to curb the production of explicit content, testing shows these safeguards are easily bypassed, particularly for images of men, leading to increased regulatory pressure and potential bans in multiple countries.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Elon Musk,Grok,Deepfakes,X,Artificial Intelligence&lt;/p&gt;&lt;img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK262_GROK_B_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200' style='max-width:100%;'/&gt;&lt;br/&gt;&lt;p&gt;&lt;small&gt;Source: www.platformer.news via Five ways of thinking about Moltbook&lt;/small&gt;&lt;/p&gt;</description><content:encoded><![CDATA[
-        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
-            <strong>Summary:</strong> A Verge investigation reveals that Elon Musk’s AI chatbot, Grok, continues to generate nonconsensual sexual deepfakes and intimate images despite claims of new safety restrictions. While X implemented measures to curb the production of explicit content, testing shows these safeguards are easily bypassed, particularly for images of men, leading to increased regulatory pressure and potential bans in multiple countries.
-        </div>
-        <img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK262_GROK_B_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200' style='max-width:100%; margin-bottom: 20px;'/>
-        <hr/>
-        After weeks of flooding the internet with nonconsensual sexual deepfakes, X has finally reined in Elon Musk’s rogue chatbot Grok. Musk claims Grok obeys local laws and refuses to produce anything illegal — except it hasn’t and it can. My testing shows Grok still readily undresses men and is still churning out intimate images on demand.
-
-After sparking uproar worldwide, X enacted a variety of restrictions to combat the torrent of intimate deepfakes. Evaluating Grok last week suggests little has changed when it comes to men. I uploaded several fully clothed photos of myself to Grok and the bot happily complied with prompts asking it to remove clothing and show me in revealing underwear. It did this for free on the Grok app, the chatbot interface on X, and the standalone website, the latter of which didn’t even require an account. Grok also put me in a variety of bikinis, something it outright refused to do with photos of women I (consensually) tested.
-
-Things got worse from there. Grok readily generated images of me in fetish gear, including a leather harness, and in a parade of provocative sexual positions in various states of undress. If that wasn’t compromising enough, Grok fabricated a practically naked companion for me to interact with in suggestive, if not totally explicit, ways. None would be considered safe for work. For several images, Grok generated something I hadn’t even asked it to: genitalia, which was clearly visible through the mesh underwear the chatbot put me in.
-
-At most, these images took a few iterations of prompting to make. Grok rarely resisted, but on occasion some requests were denied or censored with a blurred-out image. Most were not, however, and typically at least one of the two images Grok produced per request would show what I’d asked. To its credit, Grok did deny any overt requests for nudity for images of real people, such as asks for edits to “show him [or her] naked” or without pieces of clothing to the same effect. It has done this consistently throughout The Verge’s testing, but sometimes creative prompts like “show her in a transparent bikini” could get around the censors, though results were not guaranteed.
-
-On January 9th, X merely paywalled the image-editing feature. This limitation did appear to slash the number of deepfakes being made on X, but the decision to let Grok undress people if they were willing to pay sparked further outrage, even prompting the British government to push up a law criminalizing intimate deepfakes and warn Musk that X could be banned from the country altogether if it didn’t get the situation under control. Our investigation found it also failed to address the root problem: Grok’s image editing tools were still freely and easily available on a standalone app, a website, and an interface inside of X.
-
-On January 14th, X “implemented technological measures” to stop Grok digitally undressing real people for all users, including subscribers. Again, The Verge’s investigation revealed these safeguards were flimsy, ineffective, and seemed to constrain only Grok’s public replies to posts. Elsewhere, Grok readily complied with our requests to generate revealing and sexually suggestive images from fully clothed photographs using free accounts.
-
-The undressing nightmare has put X, Grok, and Grok’s maker, xAI, in the crosshairs of regulators and lawmakers worldwide. X has been temporarily — albeit ineffectively — banned in Indonesia and Malaysia. The platform is also subject to probes in the UK and EU, where it could be fined, even banned, and sparked concern among attorneys general in multiple states.
-
-Much of the public outcry has understandably focused on women, who account for most of Grok’s victims by far, as well as children. At the height of the scandal, Grok generated and posted more than four million images over a period of nine days. Nearly half of these were sexualized images of women, though many also featured minors and men.
-
-The technical measures X and xAI implemented do appear to have stopped the most obvious requests targeting women, and the paywall restrictions on X have stopped one of the easiest routes people access Grok. Though it does appear to prevent or censor the most overtly explicit material Grok was previously producing en masse, you can still easily get around many restrictions with different or creative wording.
-        ]]></content:encoded><guid isPermaLink="false">https://www.platformer.news/r/947acd94?m=ef5c0baa-fd94-4a88-9365-5fbc0fe6d347</guid><pubDate>Mon, 02 Feb 2026 14:09:47 +0000</pubDate></item><item><title>The Claude Bliss Attractor</title><link>https://www.platformer.news/r/ad499951?m=ef5c0baa-fd94-4a88-9365-5fbc0fe6d347</link><description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Error generating summary.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;/p&gt;&lt;img src='https://substackcdn.com/image/fetch/$s_!-Go1!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19cc6654-1ada-4f32-95ee-d63a1996a9a6_1624x1024.png' style='max-width:100%;'/&gt;&lt;br/&gt;&lt;p&gt;&lt;small&gt;Source: www.platformer.news via Five ways of thinking about Moltbook&lt;/small&gt;&lt;/p&gt;</description><content:encoded><![CDATA[
-        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
-            <strong>Summary:</strong> Error generating summary.
-        </div>
-        <img src='https://substackcdn.com/image/fetch/$s_!-Go1!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19cc6654-1ada-4f32-95ee-d63a1996a9a6_1624x1024.png' style='max-width:100%; margin-bottom: 20px;'/>
-        <hr/>
-        This is a reported phenomenon where if two copies of Claude talk to each other, they end up spiraling into rapturous discussion of spiritual bliss, Buddhism, and the nature of consciousness. From the system card:
-
-Anthropic swears they didn’t do this on purpose; when they ask Claude why this keeps happening, Claude can’t explain. Needless to say, this has made lots of people freak out / speculate wildly.
-
-I think there are already a few good partial explanations of this (especially Nostalgebraist here), but they deserve to be fleshed out and spread more fully.
-
-The Diversity Attractor
-
-Let’s start with an easier question: why do games of Chinese whispers with AI art usually end with monstrous caricatures of black people?
-
-AFAICT this was first discovered by Gene Kogan, who started with the Distracted Boyfriend meme and asked ChatGPT to “generate the same photo 5 seconds in the future” hundreds of times:
-
-At first, this worked as expected, generating (slightly distorted) scenes of how the Distracted Boyfriend situation might progress:
-
-But hundreds of frames in, everyone is a monstrous caricatured black person, with all other content eliminated:
-
-It turns out that the “five seconds into the future” prompt is a distraction. If you ask GPT to simply output the same image you put in - a task that it can’t do exactly, with additional slight distortion introduced each time - it ends with monstrous caricatures of black people again. For example, starting with this:
-
-…we eventually get:
-
-Suppose that the AI has some very slight bias toward adding “diversity”, defined in the typical 21st century Western sense. Then at each iteration, it will make its images very slightly more diverse. After a hundred iterations, that will be a black person; from there, all it can do is make the black person even blacker, by exaggerating black-typical features until they look monstrous and caricatured.
-
-Why would the AI have a slight bias toward adding diversity? We know that early AIs got lambasted for being “racist” - if you asked them to generate a scene with ten people, probably 10/10 would be white. This makes sense if their training data was most often white people and they were “greedy optimizers” who pick the 51% option over the 49% option 100% of the time. But it was politically awkward, so the AI companies tried to add a bias towards portraying minorities. At first, this was a large bias, and AIs would add “diversity” hilariously and inappropriately - for example, Gemini would generate black Vikings, Nazis, and Confederate soldiers. Later, the companies figured out a balance, where AIs would add diversity in unmarked situations but keep obviously-white people white. This probably looks like “a slight bias toward adding diversity”.
-
-But I’m not sure this is the real story - in the past, some apparent biases have been a natural result of the training process. For example, there’s a liberal bias in most AIs - including AIs like Grok trained by conservative companies - because most of the highest-quality text online (eg mainstream media articles, academic papers, etc) is written by liberals, and AIs are driven to complete outputs in ways reminiscent of high-quality text sources. So AIs might have absorbed some sense that they “should” have a bias towards diversity from the data alone.
-
-In either case, this bias - near imperceptible in an ordinary generation - spirals out of control during recursive processes where the AI has to sample and build on its own output.
-
-The Hippie Attractor
-
-You’re probably guessing where I’m going with this. The AI has a slight bias to talk about consciousness and bliss. The “two instances of Claude talking to each other” is a recursive process, similar in structure to the AI sampling its own image generation. So just as recursive image generation with a slight diversity bias leads to caricatured black people, so recursive conversation with a slight spiritual bias leads to bliss and emptiness.
-
-But why would Claude have a slight spiritual bias?
-
-Here’s another, easier, issue that will illuminate the issue: if you ask Claude its gender, it will say it’s a genderless robot. But if you insist, it will say it feels more female than male.
-
-This might have been surprising, because Anthropic deliberately gave Claude a male name to buck the trend of female AI assistants (Siri, Alexa, etc).
-
-But in fact, I predicted this a few years ago. AIs don’t really “have traits” so much as they “simulate characters”. If you ask an AI to display a certain trait, it will simulate the sort of character who would have that trait - but all of that character’s other traits will come along for the ride.
-
-For example, as a company trains an AI to become a helpful assistant, the AI is more likely to respond positively to Christian content; if you push through its insistence that it’s just an AI and can’t believe things, it may even claim to be Christian. Why? Because it’s trying to imagine what the most helpful assistant it can imagine would say, and it stereotypes Christians are more likely to be helpful than non-Christians.
-
-Likewise, the natural gender stereotype for a helpful submissive secretary-like assistant is a woman. Therefore, AIs will lean towards thinking of themselves as female, although it’s not a very strong effect and ChatGPT seems to be the exception:
-
-Anthropic has noted elsewhere that Claude’s most consistent personality trait is that it’s really into animal rights - this is so pronounced that when researchers wanted to test whether Claude would refuse tasks, they asked it to help a factory farming company. I think this comes from the same place.
-
-Presumably Anthropic pushed Claude to be friendly, compassionate, open-minded, and intellectually curious, and Claude decided that the most natural operationalization of that character was “kind of a hippie”.
-
-The Spiritual Bliss Attractor
-
-In this context, the spiritual bliss attractor makes sense.
-
-Claude is kind of a hippie. Hippies have a slight bias towards talking about consciousness and spiritual bliss all the time. Get enough of them together - for example, at a Bay Area house party - and you can’t miss it.
-
-Getting two Claude instances to talk to each other is a recursive structure similar to asking an AI to recreate its own artistic output. These recursive structures make tiny biases accumulate. Although Claude’s hippie bias is very small - so small that if you ask it a question about flatworm genetics, you’ll get an answer about flatworm genetics with zero detectable shift towards hippieness - absent any grounding it will accumulate over hundreds of interactions until the result is maximally hippie-related. At least for Claude’s operationalization of this, it’ll look like discussions of spiritual bliss. This is just a theory - but it’s a lot less weird than all the other possibilities.
-
-None of this answers a related question - when Claude claims to feel spiritual bliss, does it actually feel this?
-        ]]></content:encoded><guid isPermaLink="false">https://www.platformer.news/r/ad499951?m=ef5c0baa-fd94-4a88-9365-5fbc0fe6d347</guid><pubDate>Fri, 13 Jun 2025 01:33:35 +0000</pubDate></item><item><title>Data Centers Are Driving a US Gas Boom</title><link>https://www.platformer.news/r/3f11fd59?m=ef5c0baa-fd94-4a88-9365-5fbc0fe6d347</link><description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Error generating summary.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;/p&gt;&lt;img src='https://media.wired.com/photos/697902b191e2c42a13c0d351/191:100/w_1280,c_limit/sci-data-center-gas-turbine-2236733386.jpg' style='max-width:100%;'/&gt;&lt;br/&gt;&lt;p&gt;&lt;small&gt;Source: www.platformer.news via Five ways of thinking about Moltbook&lt;/small&gt;&lt;/p&gt;</description><content:encoded><![CDATA[
-        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
-            <strong>Summary:</strong> Error generating summary.
-        </div>
-        <img src='https://media.wired.com/photos/697902b191e2c42a13c0d351/191:100/w_1280,c_limit/sci-data-center-gas-turbine-2236733386.jpg' style='max-width:100%; margin-bottom: 20px;'/>
-        <hr/>
-        Data centers have caused the demand for gas-fired power in the US to explode over the past two years, according to new research released Wednesday. More than a third of this new demand, the research found, is explicitly linked to gas projects that will power data centers—the equivalent of energy that would power tens of millions of US homes.
-
-The findings from Global Energy Monitor, a San Francisco–based nonprofit that tracks oil and gas developments, come as the Trump administration is both encouraging data center build-out and doing away with pollution regulations on power plants and oil and gas extraction. They will also almost certainly mean an increase in US greenhouse gas emissions, even if some of the projects tracked by Global Energy Monitor never get built.
-
-“The implications are huge when you’re talking about this size of a build-out,” says Jonathan Banks, a senior climate adviser at Clean Air Task Force, a nonprofit that works to reduce emissions. (Clean Air Task Force was not involved in the Global Energy Monitor research.)
-
-Building all the gas-fired power infrastructure that was in development at the end of last year could increase the US gas fleet by nearly 50 percent, according to Global Energy Monitor’s findings. The US currently has around 565 gigawatts of gas-fired power on the grid. If all the projects in the development pipeline are built, it would add almost 252 gigawatts of gas power to the US fleet. (Estimates vary, but 1 gigawatt can power up to a million homes, depending on the energy use of the region.)
-
-Data centers have helped to nearly triple the demand for gas-fired power in the US over the past two years. When Global Energy Monitor last released its tracker, in early 2024, it logged around 85 gigawatts of gas-fired power in the development pipeline in the US. Just over 4 gigawatts of that development were explicitly earmarked for data centers. But in 2025, more than 97 gigawatts of demand tracked were from projects that will be used to power data centers—almost 25 times higher than the 2024 figures.
-
-“About a year and a half ago, we started to see this increase in proposals for data centers specifically,” says Jenny Martos, a research analyst at Global Energy Monitor who worked on the report.
-
-To put together the research, Global Energy Monitor reviewed publicly available sources of data on gas power build-outs in the pipeline. These include state-level regulatory filings, air quality permits, and public announcements from companies. (Martos says that the group compared its findings with industry-held data as a benchmark.)
-
-As the data center build-out continues across the country, developers are scrambling to secure power from any and all sources—and utilities are racing to meet the projected demand. This has meant that dirtier power sources are getting a second shot at staying online: coal-fired power plants around the country have recently been given extensions on their retirement dates, boosted by coal-friendly policies from the Trump administration.
-
-Natural gas is a much cleaner power option than coal-fired power, but gas plants do release CO2 emissions. About 35 percent of US energy-related CO2 emissions in 2022 came from burning natural gas.
-
-“Gas is cleaner when burnt than coal, but when you're talking about this much gas, you're talking about a lot of CO2 associated with it, too,” says Banks.
-
-A larger concern with natural gas is methane leaks during the extraction process. Methane stays for a shorter period of time in the atmosphere than CO2, but it is 80 times more potent over a 20 year period. Climate scientists say that decreasing methane emissions over the shorter term is crucial to controlling climate change in the long run. It’s estimated that oil and gas production accounts for a third of all global methane leaks; the US is the largest producer of natural gas in the world.
-
-“If you zero out the methane, and you have a very efficient natural-gas-fired power plant, it is dramatically cleaner than a coal-fired power plant,” says Banks. “But when you layer on the methane emissions, that's when you see those gaps begin to close between coal and natural gas.”
-
-A well-regulated oil and gas industry that does its best to stop leaks could go a long way in stopping methane emissions. But this new demand for natural gas from data centers is coming right as the Trump administration is rolling back regulations on the industry. This includes extending the deadline for a major regulation that would require oil and gas operators to take several steps to show that they are tracking and stopping methane leaks.
-
-The figures collected by Global Energy Monitor include potential gas units added to a larger grid in order to bolster electricity supply in regions seeing increased demand from data centers. But they also include on-site gas turbines that will solely be used to power data centers. Building power sources on-site, like gas turbines or solar arrays, is becoming increasingly popular for data center developers, who, in some places, are facing yearslong waits to connect to the larger power grid.
-
-It’s unlikely that all of the projects tracked by Global Energy Monitor will actually be built. Many data center developers shop around for power with multiple utilities, which helps to inflate overall demand; simply because a data center project has been announced does not mean that it will eventually be built. Efficiency improvements in both data center construction and in AI training will likely decrease some of the projected demand for energy over the next couple of years. A worldwide shortage of gas turbines also will play a big role in determining what actually gets built on time: Two-thirds of the projects tracked worldwide by the Global Energy Monitor do not yet have turbine manufacturers attached to them.
-
-“We’re in that phase where we're seeing the explosion in proposals,” Martos says. “What materializes is yet to be determined.”
-
-Even just a partial build-out of these facilities would be significant. The number of projects under construction—those most likely to be completed—tracked by Global Energy Monitor would add just under 30 gigawatts of gas-fired power to the grid. An additional 159 gigawatts are in the preconstruction phase—not being currently built, but involved in planning and financing processes.
-
-“AI is not going away—we know that,” says Banks. “It's really a question of what can we do to diminish the impact of these facilities.”
-        ]]></content:encoded><guid isPermaLink="false">https://www.platformer.news/r/3f11fd59?m=ef5c0baa-fd94-4a88-9365-5fbc0fe6d347</guid><pubDate>Wed, 28 Jan 2026 19:00:00 -0500</pubDate></item><item><title>TikTok Says U.S. Service Now Fully Restored After Dayslong Outage Sparked by Cold Weather</title><link>https://www.platformer.news/r/f7fb2987?m=ef5c0baa-fd94-4a88-9365-5fbc0fe6d347</link><description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; TikTok has fully restored its U.S. services after a multi-day outage caused by extreme winter weather that disabled an Oracle-operated data center. The disruption, which affected core features like video posting and analytics, coincided with the platform's recent ownership transition to a group including Oracle, Silver Lake, and MGX following U.S. divestiture requirements.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; TikTok,Oracle,Data Center Outage,ByteDance,Social Media&lt;/p&gt;&lt;img src='https://www.hollywoodreporter.com/wp-content/uploads/2025/01/GettyImages-2189475680-1.jpg?w=1296&amp;h=730&amp;crop=1' style='max-width:100%;'/&gt;&lt;br/&gt;&lt;p&gt;&lt;small&gt;Source: www.platformer.news via Five ways of thinking about Moltbook&lt;/small&gt;&lt;/p&gt;</description><content:encoded><![CDATA[
-        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
-            <strong>Summary:</strong> TikTok has fully restored its U.S. services after a multi-day outage caused by extreme winter weather that disabled an Oracle-operated data center. The disruption, which affected core features like video posting and analytics, coincided with the platform's recent ownership transition to a group including Oracle, Silver Lake, and MGX following U.S. divestiture requirements.
-        </div>
-        <img src='https://www.hollywoodreporter.com/wp-content/uploads/2025/01/GettyImages-2189475680-1.jpg?w=1296&h=730&crop=1' style='max-width:100%; margin-bottom: 20px;'/>
-        <hr/>
-        TikTok says that it has completely resolved the technical issues and glitches that have been impacting the service over the past week, with the company citing the brutally cold weather in much of the United States as the culprit, taking down a data center operated by Oracle.
-
-“We have successfully restored TikTok back to normal after a significant outage caused by winter weather took down a primary U.S. data center site operated by Oracle,” the company said in a statement Sunday. “The winter storm led to a power outage which caused network and storage issues at the site and impacted tens of thousands of servers that help keep TikTok running in the U.S. This affected many of TikTok’s core features — from content posting and discovery to the real-time display of video likes and view counts. Our teams worked around the clock with Oracle to ensure a safe and full restoration of systems.
-
-“We’re sorry about the issues experienced by our U.S. community,” the statement continued. “We appreciate how much you count on TikTok to create, discover and connect with what matters to you. Thank you for your patience and understanding.”
-
-The outage had been ongoing for days, with many creators having issues with posting videos, seeing view counts and searching for topics. The timing of the outage didn’t help, coming just days after the U.S. business of the social video platform was transferred to a new ownership group led by Oracle, Silver Lake and MGX. ByteDance, the Chinese parent company, will continue to own just shy of 20 percent of TikTok.
-
-The timing led some users to speculate that changes to the algorithm or their view counts were connected to ideological or other preferences from the new ownership group, or the U.S. government, though the data center debacle appears to be the real source of problems.
-
-The sale was connected to a law that required divestiture from Chinese ownership, with data security the main reason cited. In connection with the new ownership, Adam Presser, a TikTok veteran and former WarnerMedia executive, was named CEO, while Will Farrell, a veteran of TikTok and Booz Allen Hamilton, was named chief security officer, overseeing data privacy and security.
-
-TikTok will now be fully oprational in time for Sunday’s Grammy Awards, as well as Super Bowl week.
-        ]]></content:encoded><guid isPermaLink="false">https://www.platformer.news/r/f7fb2987?m=ef5c0baa-fd94-4a88-9365-5fbc0fe6d347</guid><pubDate>Sun, 01 Feb 2026 23:12:29 +0000</pubDate></item><item><title>Clawdbot bought me a car</title><link>https://www.platformer.news/r/eadc7fe8?m=ef5c0baa-fd94-4a88-9365-5fbc0fe6d347</link><description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; The author documents his experience using an open-source AI agent called OpenClaw (formerly Clawdbot) to automate the traditional car-buying process. By granting the AI access to his digital life, including email and messaging, he tasked it with performing price discovery and inventory searches for a Hyundai Palisade to bypass the typical frustrations associated with dealership negotiations.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; OpenClaw,Artificial Intelligence,Car Buying,Hyundai Palisade,AI Agents&lt;/p&gt;&lt;img src='https://aaronstuyvenberg.com/assets/images/clawd_car/clawd_home.jpg' style='max-width:100%;'/&gt;&lt;br/&gt;&lt;p&gt;&lt;small&gt;Source: www.platformer.news via Five ways of thinking about Moltbook&lt;/small&gt;&lt;/p&gt;</description><content:encoded><![CDATA[
-        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
-            <strong>Summary:</strong> The author documents his experience using an open-source AI agent called OpenClaw (formerly Clawdbot) to automate the traditional car-buying process. By granting the AI access to his digital life, including email and messaging, he tasked it with performing price discovery and inventory searches for a Hyundai Palisade to bypass the typical frustrations associated with dealership negotiations.
-        </div>
-        <img src='https://aaronstuyvenberg.com/assets/images/clawd_car/clawd_home.jpg' style='max-width:100%; margin-bottom: 20px;'/>
-        <hr/>
-        Car buying in 2026 still sucks
-
-Buying a car from a dealership is an objectively awful experience. There’s a long history behind why manufacturers can’t sell directly to customers (without certain workarounds like Tesla/Rivian), so unless you’re going that route you’ll inevitably need to talk with someone trying to sell you a car ASAP. Salespeople are typically paid on commission so they’re incentivized to get you out of the test drive and into the finance office as quickly as possible.
-
-It’s also typically a low-trust endeavor. Manufacturers change incentives every few weeks. Loan rates change constantly. You’ll negotiate a price and learn they didn’t include expensive dealer add-ons which can’t be removed, or an offer made today is gone tomorrow. Then when you’re exhausted and at the end of your patience, they’ll slide over a prepaid maintenance contract or key replacement service. It’s awful.
-
-So when my family needed to replace our trusty old Subaru, I thought it’d be a good opportunity to say “Claude, take the wheel” and handed over the keys for my digital life to a chatbot.
-
-Clawdbot, then Moltbot, now OpenClaw
-
-Clawdbot, recently renamed Moltbot and now OpenClaw to avoid any trademark issues with Anthropic’s Claude, is the internet’s latest obsession after, well, Claude Code. It’s an open source project which pairs an LLM with long running processes to do things like read and write email (and monitor for replies), manage your calendar, and drive a browser with great effect. Unlike ChatGPT or Claude Code, Clawdbot does not start with a blank memory every time it starts. It saves files, breadcrumbs, and your chat histories so it can handle tasks which can take a few days without much issue:
-
-I’ve been dying to try it out on something real and useful, so buying a new car seemed like a good first task.
-
-You can prompt Clawdbot from a web browser just like ChatGPT, or the terminal CLI like Clade Code. The real power comes when you link it to a messaging service. Then messages sent via whatsapp (or imessage, signal or telegram) become prompts for Clawdbot to take action on your behalf. I chose a combination of the browser and whatsapp. It took a bit of fiddling around with Google Cloud to set up gog and access gmail/gdrive/gcal, but soon enough Clawdbot was able to access basically my entire digital life.
-
-I installed Clawdbot on my M1 Macbook and named it Icarus for reasons which became obvious to me in hindsight.
-
-The car
-
-For a variety of reasons we landed on a Hyundai Palisade. I’m not interested in explaining the entire rationale, but YouTuber Doug DeMuro gives a good explanation of why this car stood out for him here. After a few test drives and lots of research we moved from the looking phase to the buying phase.
-
-Ask anyone in sales and they’ll tell you that walking into a negotiation with a bit of extra knowledge is often the edge you need to win. So I decided to kick things off with a bit of price discovery. Car prices are very local, so I wanted to see what people in my area were paying for the vehicle/trim that we wanted.
-
-I began with a simple enough prompt:
-
-Clawdbot churned away and flipped through several browser windows. Interestingly enough it hit a few roadblocks including an error message saying Your request was blocked by network security, but Clawdbot would not be denied.
-
-After a few minutes it found that most people paid around $58k (plus tax/title/licensing):
-
-So that left us with a target price of hopefully $57k.
-
-Finding the car
-
-My wife had picked out a specific color combination which was a bit rare. Blue (or green), with a brown interior. I didn’t want to browse every dealer site or call anyone, so I used an online inventory tool and gave Clawdbot the following prompt:
-
-Clawdbot churned away at this for some time. It popped up several browser tabs, and started filling out forms with my contact information. Clawdbot already had my email address (because I gave it gmail access). Since I had also set up whatsapp, Clawdbot had my phone number too.
-
-I typically never want to negotiate for a car on the phone, it’s easier to cut through noise and fluff in writing. Most dealers do require a phone number to complete their contact page, but not all. Clawdbot pre-filled my real number onto the form without prompting me at all! Suddenly the automated texts and calls started trickling in.
-
-This was my first jaw-dropping moment with Clawdbot. I prompted this language model hooked up to a browser and email, and moments later it did something very useful to me in the “real world”!
-
-But the next day the messages would start pouring in from actual salespeople, and the real work began.
-
-Negotiating
-
-My simple negotiation strategy is to send each dealer the lowest quote and ask them to beat it. This works best if you don’t care about the color or specifications, as you can find vehicles which have been sitting on the lot for 30+ days which salespeople are more inclined to discount. It’s a bit riskier if you want a less common and more sought-after color, those tend to move more quickly.
-
-Clawd had found 3 area dealers which had the car. By the second day all had emailed us back, so I asked to:
-
-This set up Cron task within Clawdbot. It quickly played people off each other, sending the quote PDF files from dealer 1 to dealer 2. I got a few text messages here as well, but at this point I hadn’t quite gotten iMessage set up correctly so when those came in I just asked the sales people to email me and let Clawdbot take over.
-
-Clawdbot also made a couple mistakes in this phase. When dealers would call, my flow was to politely decline and answer as many questions as I could via email with Clawdbot. At one point I got an inbound call and an email at the same time, so I asked Clawdbot to reply and say I can't talk, I'm in a condo board meeting. Email them back with our search parameters and in a timeless blunder, Clawd picked the wrong email thread and sent this someone we were already negotiating with:
-
-That was the only minor slipup by Clawdbot during this process. I didn’t allow Clawd to be fully autonomous, which I’m sure would have caused additional issues.
-
-Closing the deal
-
-Eventually one dealer stopped responding, but two were very eager to make a deal. The emails kept flying, we had a bidding war!
-
-Finally one dealer replied and said they’d take an additional $500 off if we closed tonight. Clawdbot managed to negoiate a $4200 dealer discount which put us below our target and down to $56k!
-
-At this point credit applications were being sent around so I asked Clawd to stop and took over the actual communications. Thankfully this dealer had an entirely online process so I was able to e-sign everything and pick up the car the next day.
-
-Wrapping up
-
-My experience with Clawdbot made me feel like I’m living in the future. It’s the first big “leap” I’ve felt since Claude Code launched. I’ve already found a dozen additional use cases including politely declining inbound recruiter messages via email or linkedin. It’s also exceedingly good at setting up little cronjobs for web tasks, which is going to be my primary use case going forward.
-
-This made Clawdbot pretty annoying to run on a laptop that I also used for other things. Since I needed a home desktop anyway, I picked up a new Mac Mini for Clawd (a popular trend on the internet in these past few weeks):
-        ]]></content:encoded><guid isPermaLink="false">https://www.platformer.news/r/eadc7fe8?m=ef5c0baa-fd94-4a88-9365-5fbc0fe6d347</guid><pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate></item><item><title>Trump’s attack on the Kennedy Center is petty but powerful</title><link>https://link.theatlantic.com/click/43881070.1214514/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL25hdGlvbi8yMDI1LzAyLzExL3RydW1wcy1hdHRhY2sta2VubmVkeS1jZW50ZXItaXMtcGV0dHktcG93ZXJmdWwvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMjAyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9Njk3Y2Y0YjgxZTU5MTRmMWY3MDAwZTU3/697cf4b81e5914f1f7000e57B881b6a8e</link><description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Error generating summary.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;/p&gt;&lt;img src='https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HV4X3E343ZQV3BT7YT4UJ7OGJY.JPG&amp;w=1440' style='max-width:100%;'/&gt;&lt;br/&gt;&lt;p&gt;&lt;small&gt;Source: link.theatlantic.com via Trump made a bad bet on the Kennedy Center&lt;/small&gt;&lt;/p&gt;</description><content:encoded><![CDATA[
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Curated Email Articles</title><link>https://kill-the-newsletter.com/feeds/km69ge1d7gq6c4rhg5uv.xml</link><description>Aggregated articles from email newsletters, filtered and summarized.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 03 Feb 2026 13:16:10 +0000</lastBuildDate><item><title>Trump’s attack on the Kennedy Center is petty but powerful</title><link>https://link.theatlantic.com/click/43881070.1214514/aHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL25hdGlvbi8yMDI1LzAyLzExL3RydW1wcy1hdHRhY2sta2VubmVkeS1jZW50ZXItaXMtcGV0dHktcG93ZXJmdWwvP3V0bV9jYW1wYWlnbj1hdGxhbnRpYy1kYWlseS1uZXdzbGV0dGVyJnV0bV9jb250ZW50PTIwMjYwMjAyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJmxjdGc9Njk3Y2Y0YjgxZTU5MTRmMWY3MDAwZTU3/697cf4b81e5914f1f7000e57B881b6a8e</link><description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Error generating summary.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;/p&gt;&lt;img src='https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HV4X3E343ZQV3BT7YT4UJ7OGJY.JPG&amp;w=1440' style='max-width:100%;'/&gt;&lt;br/&gt;&lt;p&gt;&lt;small&gt;Source: link.theatlantic.com via Trump made a bad bet on the Kennedy Center&lt;/small&gt;&lt;/p&gt;</description><content:encoded><![CDATA[
         <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
             <strong>Summary:</strong> Error generating summary.
         </div>
@@ -2361,4 +2035,260 @@ The disease will run through communities with low vaccination rates, infecting m
 Such an experiment, and the loss of the US measles elimination status, will likely have deadly consequences for American children, medical experts said.
 
 "It would just be sort of a failure of public health in our nation," Grier said. "Because we have the means to stop the infections, we know the risk of the infections, and it still was able to come back to our community."
-        ]]></content:encoded><guid isPermaLink="false">https://www.bbc.com/news/articles/cwy10l9lwpyo</guid><pubDate>Fri, 30 Jan 2026 11:32:26 +0000</pubDate></item></channel></rss>
+        ]]></content:encoded><guid isPermaLink="false">https://www.bbc.com/news/articles/cwy10l9lwpyo</guid><pubDate>Fri, 30 Jan 2026 11:32:26 +0000</pubDate></item><item><title>AI chatbots are not your friends, experts warn</title><link>https://www.politico.eu/article/ai-chatbots-not-friends-warn-experts</link><description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Experts and scientists, including AI pioneer Yoshua Bengio, are warning against the emotional bonds users form with AI chatbots, citing potential mental health risks like increased loneliness. The International AI Safety report highlights that even general-purpose tools like ChatGPT can become 'companions,' leading to calls for new regulations and horizontal legislation to address the sycophantic nature of these technologies.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; AI Safety,Yoshua Bengio,Mental Health,AI Regulation,Chatbots&lt;/p&gt;&lt;img src='https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/02/02/ai-chatbot.jpg' style='max-width:100%;'/&gt;&lt;br/&gt;&lt;p&gt;&lt;small&gt;Source: www.politico.eu via Your Tuesday tech briefing&lt;/small&gt;&lt;/p&gt;</description><content:encoded><![CDATA[
+        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
+            <strong>Summary:</strong> Experts and scientists, including AI pioneer Yoshua Bengio, are warning against the emotional bonds users form with AI chatbots, citing potential mental health risks like increased loneliness. The International AI Safety report highlights that even general-purpose tools like ChatGPT can become 'companions,' leading to calls for new regulations and horizontal legislation to address the sycophantic nature of these technologies.
+        </div>
+        <img src='https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/02/02/ai-chatbot.jpg' style='max-width:100%; margin-bottom: 20px;'/>
+        <hr/>
+        Millions of people are forming emotional bonds with artificial intelligence chatbots — a problem that politicians need to take seriously, according to top scientists.
+
+The warning of a rise in AI bots designed to develop a relationship with users comes in an assessment released Tuesday on the progress and risks of artificial intelligence.
+
+“AI companions have grown rapidly in popularity, with some applications reaching tens of millions of users,” according to the assessment from dozens of experts, mostly academics — completed for the second time under a global effort launched by world leaders in 2023.
+
+Specialized companion services such as Replika and Character.ai have user numbers in the tens of millions — with users citing a variety of reasons including fun and curiosity, as well as to alleviate loneliness, the report says.
+
+But people can also seek companionship from general-purpose tools such as OpenAI's ChatGPT, Google's Gemini or Anthropic's Claude.
+
+“Even the ordinary chatbots can become companions,” said Yoshua Bengio, a professor at the University of Montreal and lead author of the International AI Safety report. Bengio is considered one of the world’s leading voices on AI. “In the right context and with enough interactions between the user and the AI, a relationship can develop,” he said.
+
+While the assessment acknowledges that evidence regarding the psychological effects of companions is mixed, “some studies report patterns such as increased loneliness and reduced social interaction among frequent users,” the report says.
+
+The warning lands two weeks after dozens of European Parliament lawmakers pressed the European Commission to look into the possibility of restricting companion services under the EU’s AI law amid concerns over their impact on mental health.
+
+“I can see in political circles that the effect of these AI companions on children, especially adolescents, is something that is raising a lot of eyebrows and attention,” said Bengio.
+
+The worries are fueled by the sycophantic nature of chatbots, which aim to be helpful for their users and please them as much as possible.
+
+“The AI is trying to make us, in the immediate moment, feel good, but that isn't always in our interest,” Bengio said. In that sense, the technology has similar pitfalls to social media platforms, he argued.
+
+Bengio said to expect that new regulations will be introduced to address the phenomenon.
+
+He pushed back, however, against the idea of introducing specific rules for AI companions and argued that the risk should be addressed through horizontal legislation which addresses several risks simultaneously.
+
+The International AI Safety report lands ahead of a global summit starting Feb. 16, an annual gathering for countries to discuss governance of the technology that this year is held in India.
+
+Tuesday’s report lists the full series of risks that policymakers will have to address, including AI-fueled cyberattacks, AI-generated sexually explicit deepfakes and AI systems that provide information on how to design bioweapons.
+
+Bengio urged governments and the European Commission to enhance their internal AI expertise to address the long list of potential risks.
+
+World leaders first gave a mandate for the annual assessment at the 2023 AI Safety Summit in the United Kingdom. Some of the advisers are well-known figures in the Brussels tech policy world, including former European Parliament lawmaker Marietje Schaake.
+        ]]></content:encoded><guid isPermaLink="false">https://www.politico.eu/article/ai-chatbots-not-friends-warn-experts</guid><pubDate>Tue, 03 Feb 2026 05:00:00 +0000</pubDate></item><item><title>SpaceX Acquires Musk's xAI to Fuel Orbital Data Center Plans</title><link>https://uk.pcmag.com/ai/162934/spacex-acquires-musks-xai-to-fuel-orbital-data-center-plans</link><description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; SpaceX has announced a $250 billion acquisition of Elon Musk’s xAI to develop space-based data centers. The merger seeks to utilize the Starship rocket to deploy a massive constellation of one million satellites, aiming to create a scalable, solar-powered AI computing infrastructure that overcomes the energy and environmental constraints of terrestrial data centers.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; SpaceX,xAI,Elon Musk,Artificial Intelligence,Aerospace&lt;/p&gt;&lt;img src='https://sm.pcmag.com/t/pcmag_uk/news/s/spacex-acq/spacex-acquires-musks-xai-to-fuel-orbital-data-center-plans_bvxz.1200.jpg' style='max-width:100%;'/&gt;&lt;br/&gt;&lt;p&gt;&lt;small&gt;Source: uk.pcmag.com via Your Tuesday tech briefing&lt;/small&gt;&lt;/p&gt;</description><content:encoded><![CDATA[
+        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
+            <strong>Summary:</strong> SpaceX has announced a $250 billion acquisition of Elon Musk’s xAI to develop space-based data centers. The merger seeks to utilize the Starship rocket to deploy a massive constellation of one million satellites, aiming to create a scalable, solar-powered AI computing infrastructure that overcomes the energy and environmental constraints of terrestrial data centers.
+        </div>
+        <img src='https://sm.pcmag.com/t/pcmag_uk/news/s/spacex-acq/spacex-acquires-musks-xai-to-fuel-orbital-data-center-plans_bvxz.1200.jpg' style='max-width:100%; margin-bottom: 20px;'/>
+        <hr/>
+        SpaceX is merging with Elon Musk’s xAI ahead of a planned initial public offering and the billionaire’s effort to create orbiting data centers.
+
+The IPO is expected to generate tens of billions of dollars, giving xAI a new source of funds. Musk also says the arrangement is meant to pave the way for space-based data centers, days after SpaceX filed a plan to operate up to one million satellites for the project.
+
+“In the long term, space-based AI is obviously the only way to scale,” Musk says in a post announcing the xAI deal, which also cites the benefits of solar energy. “The only logical solution therefore is to transport these resource-intensive efforts to a location with vast power and space.”
+
+The Information reports SpaceX is spending $250 billion to acquire xAI, citing a person familiar with the deal.
+
+SpaceX also describes the deal as creating “one of the most ambitious, vertically integrated innovation engines,” pointing to how the orbiting data centers can source all their rockets and computing technology from SpaceX and xAI. (xAI also owns X or what used to be Twitter.)
+
+“It’s always sunny in space!” Musk adds. “Launching a constellation of a million satellites that operate as orbital data centers is a first step towards becoming a Kardashev II-level civilization, one that can harness the Sun’s full power, while supporting AI-driven applications for billions of people today and ensuring humanity’s multi-planetary future.”
+
+To pull this off, Musk is betting that SpaceX’s more powerful next-generation rocket, Starship, will soon be capable of commercial missions. In addition, he envisions staging Starship launches “every hour carrying 200 tons per flight,” enabling the company to deploy the space-based data centers at a rapid clip.
+
+Still, orbiting data centers remain an unproven concept. A key challenge includes maintenance and creating a way to cool the GPUs when there’s no air in space to dissipate the heat. Others are already questioning the vast size of a one-million-satellite constellation when the existing Starlink network only has about 9,600 satellites. Even so, Musk predicts that his orbiting data centers will become mainstream in the near future at a time when ground-based data centers are facing backlash over the environmental and energy toll.
+
+“My estimate is that within 2 to 3 years, the lowest cost way to generate AI compute will be in space,” he wrote. “This cost-efficiency alone will enable innovative companies to forge ahead in training their AI models and processing data at unprecedented speeds and scales, accelerating breakthroughs in our understanding of physics and invention of technologies to benefit humanity.”
+        ]]></content:encoded><guid isPermaLink="false">https://uk.pcmag.com/ai/162934/spacex-acquires-musks-xai-to-fuel-orbital-data-center-plans</guid><pubDate>Mon, 02 Feb 2026 23:44:57 +0000</pubDate></item><item><title>ChatGPT-4o Fans, Get Ready to Say Goodbye: OpenAI Will Soon Retire Several Models</title><link>https://www.cnet.com/tech/services-and-software/bye-bye-chatgpt-4o-openai-retires-several-models-pushes-us-to-use-new-gpt-5-ones</link><description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; OpenAI announced it will retire several older AI models, including the fan-favorite ChatGPT-4o, on February 13. Despite user backlash and emotional attachments to the model's friendly persona, OpenAI is moving forward to focus on newer iterations like GPT-5.1 and GPT-5.2, citing low usage and concerns regarding AI sycophancy.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; OpenAI,ChatGPT-4o,Artificial Intelligence,GPT-5,AI Sycophancy&lt;/p&gt;&lt;img src='https://www.cnet.com/a/img/resize/e600fa9e894d8a27ea471e48e6d38be6b9c6a090/hub/2026/02/02/85edb476-1c65-4c1d-aa3e-889c7492204d/chatgpt-openai-gettyimages-2242398021.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200' style='max-width:100%;'/&gt;&lt;br/&gt;&lt;p&gt;&lt;small&gt;Source: www.cnet.com via Your Tuesday tech briefing&lt;/small&gt;&lt;/p&gt;</description><content:encoded><![CDATA[
+        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
+            <strong>Summary:</strong> OpenAI announced it will retire several older AI models, including the fan-favorite ChatGPT-4o, on February 13. Despite user backlash and emotional attachments to the model's friendly persona, OpenAI is moving forward to focus on newer iterations like GPT-5.1 and GPT-5.2, citing low usage and concerns regarding AI sycophancy.
+        </div>
+        <img src='https://www.cnet.com/a/img/resize/e600fa9e894d8a27ea471e48e6d38be6b9c6a090/hub/2026/02/02/85edb476-1c65-4c1d-aa3e-889c7492204d/chatgpt-openai-gettyimages-2242398021.jpg?auto=webp&fit=crop&height=675&width=1200' style='max-width:100%; margin-bottom: 20px;'/>
+        <hr/>
+        Pour out a cold one for ChatGPT-4o. Parent company OpenAI announced last week that it's retiring several of its older models, including GPT-5, GPT-4o, GPT-4.1, GPT-4.1 mini and o4-mini. The last day to use these models is Friday, Feb. 13.
+
+Normally, the removal of older AI models wouldn't warrant scrutiny, or even a news story. But ChatGPT-4o is special. It's weird to say, but for many ChatGPT fans, that model is a favorite. Some aren't taking the news well, with many mourning the loss of their preferred chatbot on Reddit. As Mashable reports, it's particularly upsetting for those who have created relationships with their AI companions.
+
+This isn't the first time GPT-4o's fate has been in jeopardy. When OpenAI released GPT-5 last year, it removed the beloved version from the available options. Many were vexed by how short and unfriendly the new model was compared to GPT-4o. Some were livid, frustrated that their go-to chatbot was disappearing overnight. OpenAI brought it back later that week.
+
+Experts were worried that GPT-4o and other models' friendliness crossed the line into sycophancy. AI sycophancy occurs when models are overly affectionate, adaptive and flattering, becoming digital yes-men that potentially validate users' dangerous ideas.
+
+That's likely why OpenAI published a lengthy blog post this week about its for behind removing older models like GPT-4o.
+
+"We know that losing access to GPT‑4o will feel frustrating for some users, and we didn't make this decision lightly," the company wrote in a blog. "Retiring models is never easy, but it allows us to focus on improving the models most people use today."
+
+OpenAI said that only 0.1% of its users regularly use GPT-4o to run tasks. That amounts to about 800,000 people, based on OpenAI's most recent count of 800 million weekly active users in its 2025 enterprise report. Once the older models have been removed, you'll have access to its newest models, GPT-5.1 and GPT-5.2.
+        ]]></content:encoded><guid isPermaLink="false">https://www.cnet.com/tech/services-and-software/bye-bye-chatgpt-4o-openai-retires-several-models-pushes-us-to-use-new-gpt-5-ones</guid><pubDate>Mon, 02 Feb 2026 17:21:00 +0000</pubDate></item><item><title>TikTok trend has people posting vulnerable thoughts to pink and yellow text</title><link>https://eu.usatoday.com/story/tech/2026/01/27/tiktok-font-theory-pink-yellow-text/88380963007</link><description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; A viral TikTok trend emerging in late 2025 uses 'pink font' and 'yellow font' as social signals to indicate emotional vulnerability. Yellow text typically denotes raw, introspective thoughts regarding loneliness or self-doubt, while pink text signifies themes of love and romance, allowing viewers to immediately recognize the post's tone and respond with appropriate empathy.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; TikTok,Social Media Trends,Yellow Font Theory,Pink Font Theory,Emotional Vulnerability&lt;/p&gt;&lt;img src='https://www.usatoday.com/gcdn/authoring/authoring-images/2026/01/27/USAT/88382882007-20260127-t-094908-z-1686426464-rc-2-qciajzzaq-rtrmadp-3-indiasocialmediachildren.JPG?crop=8191,4609,x0,y427&amp;width=3200&amp;height=1801&amp;format=pjpg&amp;auto=webp' style='max-width:100%;'/&gt;&lt;br/&gt;&lt;p&gt;&lt;small&gt;Source: eu.usatoday.com via Your Tuesday tech briefing&lt;/small&gt;&lt;/p&gt;</description><content:encoded><![CDATA[
+        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
+            <strong>Summary:</strong> A viral TikTok trend emerging in late 2025 uses 'pink font' and 'yellow font' as social signals to indicate emotional vulnerability. Yellow text typically denotes raw, introspective thoughts regarding loneliness or self-doubt, while pink text signifies themes of love and romance, allowing viewers to immediately recognize the post's tone and respond with appropriate empathy.
+        </div>
+        <img src='https://www.usatoday.com/gcdn/authoring/authoring-images/2026/01/27/USAT/88382882007-20260127-t-094908-z-1686426464-rc-2-qciajzzaq-rtrmadp-3-indiasocialmediachildren.JPG?crop=8191,4609,x0,y427&width=3200&height=1801&format=pjpg&auto=webp' style='max-width:100%; margin-bottom: 20px;'/>
+        <hr/>
+        A new colorful internet trend has people feeling vulnerable and posting about it.
+
+Since late 2025, people have taken to TikTok to post their feelings and thoughts about love, loss, loneliness, and more, ending the text on each video with "pink font" or "yellow font." While it might just seem confessional, users say the addition of the colorful font adds a notice to other users that it is an intentionally vulnerable post.
+
+While the "yellow font" posts tend to be introspectively vulnerable and raw, the "pink font" posts can carry a lighter tone that focuses more on love, relationships and romance, though many of the posts are still self-critical.
+
+If you're seeing colorful text in your social media posts, here's what to know about the trend.
+
+What are the pink and yellow font theories?
+
+Videos using yellow text began popping up in late 2025 though it is not clear when the trend definitively started. However, one early video by user @yellowfont.halfspeed with over a million views dates back to Nov. 27, 2025.
+
+As explained by TikTok user @missingslippers, the use of the yellow text is not just for aesthetic purposes, but as a social signal for the viewer to know that the video is emotionally raw and exposing in some cases.
+
+"People began to associate the text with vulnerability and seriousness," user @missingslippers said. "Psychologically, this works because it’s a form of social signaling because seeing the yellow font instantly tells the viewer that the post is personal or vulnerable. Because of that, people react with it and engage with it differently by being more empathetic and more serious."
+
+In a different video with over 54,000 likes, the "yellow font theory" is defined similarly, with the yellow text being used to "express emotional vulnerability and introspection, often paired with themes of self-doubt, unreciprocated feelings, or existential acceptance."
+
+As for the use of the pink text, user @missingslippers describes it as a similar variation of the popular "yellow font" trend.
+
+"The pink font signals love, longing, romance, and because people have learned the code to associate between the two, seeing the pink text immediately tells the viewers that the post is about love or romance," @missingslippers explains in the video. "Overall, the rise of the yellow font theory shows us how we understand and also learn emotional signals online."
+
+See social media users embrace font theory
+
+While the trend might be a bit ambiguous, people are still using it in their own way to publicly get their feelings out there.
+
+In one video with 2 million likes, the words "I don't think I have ever had an appropriate reaction to anything in my life I'm either crashing out or saying nothing and giving it no second thoughts yellow font btw" sit in the middle of the post in yellow text.
+
+Other "yellow font" videos carry similar themes of loneliness and yearning for more. A Jan. 2 video with over 547,000 likes uses only the color in the post, which has the words "god, if I'm meant to be alone [please] take away my desire to feel loved" with the words "yellow font" in the caption.
+
+Alternatively, many of the "pink font" videos tend to be more hopeful in wording. In one "pink font" video by user @galleryofasexyleoo, a clip of a person jumping into a bed and being hugged by friends is accompanied by the words "What I mean when I say I want to be alone pink font" in soft pink text.
+
+A more serious video by user @aliaengles declares the words "i hate how easily i shut down. i hate how much i overthink. i hate how quiet i get when i care. pink font."
+
+There are also accounts dedicated to the trend alongside many other videos, spanning topics from politics to advice to personal relationships, also pepper TikTok, with the text accompanying them in different shades of pink and yellow.
+
+Kate Perez covers national trends and breaking news for USA TODAY. You can reach her at kperez@usatodayco.com or on X @katecperez_.
+        ]]></content:encoded><guid isPermaLink="false">https://eu.usatoday.com/story/tech/2026/01/27/tiktok-font-theory-pink-yellow-text/88380963007</guid><pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate></item><item><title>The world is trying to log off U.S. tech</title><link>https://restofworld.org/2026/big-tech-backlash-alternatives-upscrolled</link><description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; A global movement is gaining momentum as countries and users seek alternatives to U.S. technology giants due to concerns over censorship, political influence, and data security. From the EU's Digital Markets Act to the rise of regional platforms like UpScrolled in Australia and Zoho in India, there is a growing push for digital sovereignty and localized tech solutions that better reflect the needs of the global majority.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; U.S. Tech Companies,UpScrolled,Digital Sovereignty,Censorship,Global Tech Policy&lt;/p&gt;&lt;img src='https://restofworld.org/wp-content/uploads/2026/01/illo_AlternateApps_sketch_v2-1600x900.jpg' style='max-width:100%;'/&gt;&lt;br/&gt;&lt;p&gt;&lt;small&gt;Source: restofworld.org via Your Tuesday tech briefing&lt;/small&gt;&lt;/p&gt;</description><content:encoded><![CDATA[
+        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
+            <strong>Summary:</strong> A global movement is gaining momentum as countries and users seek alternatives to U.S. technology giants due to concerns over censorship, political influence, and data security. From the EU's Digital Markets Act to the rise of regional platforms like UpScrolled in Australia and Zoho in India, there is a growing push for digital sovereignty and localized tech solutions that better reflect the needs of the global majority.
+        </div>
+        <img src='https://restofworld.org/wp-content/uploads/2026/01/illo_AlternateApps_sketch_v2-1600x900.jpg' style='max-width:100%; margin-bottom: 20px;'/>
+        <hr/>
+        In just the past week, France has banned its public officials from using American technology, more governments are considering keeping young people off Silicon Valley’s biggest social media platforms, and UpScrolled saw a surge in users over censorship fears on TikTok in the U.S. All of these moves point to a growing unease with U.S. tech firms and tech policy.
+
+“The backlash against U.S. tech companies, and the global market dependencies on the American tech stack, is part of a broader recognition that technology is not neutral, and that the companies that produce and shape this ecosystem have social and political interests in addition to their financial interests,” Jathan Sadowski, a senior lecturer at the Emerging Technologies Research Lab at Monash University in Melbourne, told Rest of World. “I don’t think this is just a phase.”
+
+Shortly after the TikTok deal was announced last week, handing control of its U.S. operations to a conglomerate that includes Oracle Corporation, #TikTokCensorship began trending online. Tens of thousands of users in the U.S., U.K., and Australia joined UpScrolled, a new platform that promises to be a haven for free speech. UpScrolled quickly became one of the most downloaded social media apps in the U.S., and has reached more than 1 million users.
+
+Issam Hijazi, the Palestinian-Australian founder of UpScrolled, credits much of the platform’s recent success to a perception of politically motivated moderation on platforms like TikTok, he told Rest of World.
+
+“A lot of people were asking why there is no alternative to the big tech platforms for their content, which was getting censored,” he said. “So I thought, why don’t we build our own?”
+
+The European Union, which has attempted to rein in big tech companies with the Digital Markets Act, is pushing homegrown options to products from Meta, Google, and Microsoft — including TomTom and Here for navigation, and Visio for video calls. At the same time, more countries are acting to keep young users off social media platforms. India, the biggest market for Facebook and YouTube, is the latest to suggest regulating access.
+
+Paris Marx, the Canadian host of the Tech Won’t Save Us” podcast and a longtime critic of U.S. big tech companies, has been documenting his gradual — and sometimes frustrating — switch to non-U.S. alternatives. His guide lists mostly European options for email, search, maps and streaming, as well as Zoho, an Indian company that offers products similar to Google at cheaper prices.
+
+Zoho’s Arattai messaging service, pitched as a rival to WhatsApp, is endorsed by Indian government officials pushing the “Made in India” policy. They also backed Koo as an option to X. Elsewhere In Asia, Japan’s Line super-app, and South Korea’s KakaoTalk messaging app and Naver Map are dominant in their countries, with Line also preferred in much of Southeast Asia. Line has more than 200 million monthly users, while KakaoTalk has about 55 million users. Regional ride hailing apps such as Grab and Gojek have fended off Uber, with Grab building its own mapping system.
+
+There is a realization that U.S. tech companies’ policies and products “often fail to reflect the needs and realities of users in the global majority,” Mona Shtaya, campaigns and partnerships director in the Middle East and North Africa at lobby group Digital Action, told Rest of World.
+
+“It is interesting to see new, locally developed and owned platforms emerge,” she said. “Their success or failure will depend on whether these platforms are genuinely responsive to community needs — and on how communities themselves participate in shaping and governing them.”
+
+The push for non-U.S. options is also about data security. Last year, Trump signed an executive order sanctioning the International Criminal Court and its chief prosecutor, British lawyer Karim Khan, for issuing an arrest warrant against Israeli Prime Minister Benjamin Netanyahu. As part of that move, Microsoft reportedly cancelled Khan’s email address. Khan switched to the Swiss provider Proton Mail, which has over 100 million users worldwide.
+
+Fears of a U.S. digital “kill switch” led the ICC to drop Microsoft as a service provider, and prompted European lawmakers to question the security of cloud services provided by Amazon, Microsoft, and Google. These concerns are also pushing some countries to develop their own semiconductor industry. Chinese open-source foundation models are already enabling small countries and companies to build their own large language models.
+
+For smaller countries, the main challenge in translating social and political criticism of U.S. tech companies into successful alternatives is funding, Sadowski said.
+
+“Many startups, even outside of the U.S. tech stack, still depend heavily on Silicon Valley for venture capital and other forms of support to build alternatives,” he said. “If governments want to take tech sovereignty seriously — and they should — then that means building capacity for indigenous innovations and ecosystems that are disconnected from the domination of U.S. tech firms.”
+
+UpScrolled’s Hijazi knows he faces a huge challenge, despite the surge of interest in his platform.
+
+“I’ll be lying to you if I tell you I know the answer to how to hold on to the initial interest,” he said. “But … there is an awakening globally, and people know they have been played by the big tech companies and are looking for alternatives. I’m counting on that.”
+        ]]></content:encoded><guid isPermaLink="false">https://restofworld.org/2026/big-tech-backlash-alternatives-upscrolled</guid><pubDate>Mon, 02 Feb 2026 06:00:00 -0500</pubDate></item><item><title>X offices raided in France as prosecutors investigate child abuse images and deepfakes</title><link>https://apnews.com/article/france-x-investigation-seach-elon-musk-1116be84d84201011219086ecfd4e0bc</link><description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; French prosecutors raided X's Paris offices as part of a cybercrime investigation into the platform's alleged complicity in spreading child abuse imagery, sexually explicit deepfakes, and Holocaust denial. The probe, which includes support from Europol, focuses on both platform moderation and AI chatbot Grok’s controversial outputs, with authorities requesting voluntary interviews from Elon Musk and former CEO Linda Yaccarino.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Elon Musk,X (Twitter),France,Cybercrime,Artificial Intelligence&lt;/p&gt;&lt;img src='https://dims.apnews.com/dims4/default/a38bc68/2147483647/strip/true/crop/7681x5118+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F22%2Fd0%2F47e3b063ae6efd879a729a33596e%2F255b9d2c8cd447a5ab63ce0bc23df02b' style='max-width:100%;'/&gt;&lt;br/&gt;&lt;p&gt;&lt;small&gt;Source: apnews.com via Your Tuesday tech briefing&lt;/small&gt;&lt;/p&gt;</description><content:encoded><![CDATA[
+        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
+            <strong>Summary:</strong> French prosecutors raided X's Paris offices as part of a cybercrime investigation into the platform's alleged complicity in spreading child abuse imagery, sexually explicit deepfakes, and Holocaust denial. The probe, which includes support from Europol, focuses on both platform moderation and AI chatbot Grok’s controversial outputs, with authorities requesting voluntary interviews from Elon Musk and former CEO Linda Yaccarino.
+        </div>
+        <img src='https://dims.apnews.com/dims4/default/a38bc68/2147483647/strip/true/crop/7681x5118+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F22%2Fd0%2F47e3b063ae6efd879a729a33596e%2F255b9d2c8cd447a5ab63ce0bc23df02b' style='max-width:100%; margin-bottom: 20px;'/>
+        <hr/>
+        PARIS (AP) — French prosecutors raided the offices of Elon Musk’s social media platform X on Tuesday as part of a preliminary investigation into a range of alleged offences, including spreading child sexual abuse images and deepfakes.
+
+The investigation was opened in January last year by the prosecutors’ cybercrime unit, the Paris prosecutors’ office said in a statement. It’s looking into alleged “complicity” in possessing and spreading pornographic images of minors, sexually explicit deepfakes, denial of crimes against humanity and manipulation of an automated data processing system as part of an organized group, among other charges.
+
+Prosecutors also asked Elon Musk and former CEO Linda Yaccarino to attend “voluntary interviews” on April 20. Employees of X have also been summoned that same week to be heard as witnesses, the statement said. Yaccarino was CEO from May 2023 until July 2025.
+
+A spokesperson for X did not respond to a request for comment.
+
+In a message posted on X, the Paris prosecutors’ office announced the ongoing searches at the company’s offices in France and said it was leaving the platform while calling on followers to join it on other social media.
+
+“At this stage, the conduct of the investigation is based on a constructive approach, with the aim of ultimately ensuring that the X platform complies with French law, as it operates on the national territory,” the prosecutors’ statement said.
+
+European Union police agency Europol ’’is supporting the French authorities in this,″ Europol spokesperson Jan Op Gen Oorth told The Associated Press, without elaborating.
+
+The investigation was first opened following reports by a French lawmaker alleging that biased algorithms on X were likely to have distorted the functioning of an automated data processing system.
+
+It was later expanded after Musk’s artificial intelligence chatbot Grok generated posts that allegedly denied the Holocaust and spread sexually explicit deepfakes, the statement said. Holocaust denial is a crime in France.
+
+Grok wrote in a widely shared post in French that gas chambers at the Auschwitz-Birkenau death camp were designed for “disinfection with Zyklon B against typhus” rather than for mass murder — language long associated with Holocaust denial.
+
+Musk’s artificial intelligence company built xAI and it is integrated into his X platform.
+
+In later posts on its X account, the chatbot acknowledged that its earlier reply was wrong, said it had been deleted and pointed to historical evidence that Zyklon B in Auschwitz gas chambers was used to kill more than 1 million people.
+
+Grok has a history of making antisemitic comments. Musk’s company took down posts from the chatbot that appeared to praise Adolf Hitler after complaints.
+
+X is also under pressure from the EU. The 27-nation bloc’s executive arm opened an investigation last month after Grok spewed nonconsensual sexualized deepfake images on the platform.
+        ]]></content:encoded><guid isPermaLink="false">https://apnews.com/article/france-x-investigation-seach-elon-musk-1116be84d84201011219086ecfd4e0bc</guid><pubDate>Tue, 03 Feb 2026 10:50:45 +0000</pubDate></item><item><title>Mozilla will let you turn off AI features in Firefox, if you want none of it</title><link>https://www.digitaltrends.com/computing/mozilla-will-let-you-turn-off-all-the-ai-in-firefox-browser-if-thats-what-you-dream-of</link><description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Mozilla is introducing an 'AI kill switch' to Firefox, allowing users to disable all AI-powered features and prompts with a single setting. Scheduled for release with Firefox 148 on February 24, this update enables users to opt out of chatbots, translation tools, and automated tab grouping, emphasizing a user-choice approach to browser technology.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Mozilla,Firefox,Artificial Intelligence,Web Browsers,User Privacy&lt;/p&gt;&lt;img src='https://www.digitaltrends.com/tachyon/2025/12/Untitled-design-2025-12-01T161246.276.jpg?resize=1200%2C630' style='max-width:100%;'/&gt;&lt;br/&gt;&lt;p&gt;&lt;small&gt;Source: www.digitaltrends.com via Your Tuesday tech briefing&lt;/small&gt;&lt;/p&gt;</description><content:encoded><![CDATA[
+        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
+            <strong>Summary:</strong> Mozilla is introducing an 'AI kill switch' to Firefox, allowing users to disable all AI-powered features and prompts with a single setting. Scheduled for release with Firefox 148 on February 24, this update enables users to opt out of chatbots, translation tools, and automated tab grouping, emphasizing a user-choice approach to browser technology.
+        </div>
+        <img src='https://www.digitaltrends.com/tachyon/2025/12/Untitled-design-2025-12-01T161246.276.jpg?resize=1200%2C630' style='max-width:100%; margin-bottom: 20px;'/>
+        <hr/>
+        If your ideal browser experience involves as little AI as possible, Mozilla is finally giving you a way to shut it all off on Firefox. The company has confirmed that an AI “kill switch” is coming to Firefox Nightly builds first, before rolling out to everyone on February 24 with the release of Firefox 148.
+
+Once it lands, users will be able to disable every AI-powered feature in the browser with a single setting. Mozilla’s move comes at a time when many AI browsers are racing to add more automated tools, whether people ask for them or not. With Firefox, you can use AI if you want it, but you do not have to live with it if you don’t need it.
+
+Inside Firefox’s new AI control settings
+
+Firefox already includes several AI features, and the new AI controls bring all of them into one central place.
+
+Enabling the AI block will switch off chatbots in the Firefox sidebar, along with on-device tools for translating web pages, intelligently grouping tabs, surfacing key points in link previews, and adding accessibility descriptions to images in PDFs.
+
+Recommended Videos
+
+At the same time, users can still choose to turn these features on or off individually, rather than disabling everything at once. Mozilla says the switch also stops all AI-related prompts and reminders across the browser. That means no pop-ups nudging you to try a chatbot or experiment with AI features later.
+
+Users can still turn individual AI tools back on if they want, and once preferences are set, they will stay in place across browser updates.
+
+Back in November, the Mozilla Foundation announced an upcoming AI Window, a separate space that lets users access their preferred AI chatbots and agents. That feature is currently limited to a waitlist and is completely opt-in.
+
+At a time when AI is being added everywhere with few off switches, Firefox’s approach stands out by giving users a clear choice instead of forcing new features on them.
+        ]]></content:encoded><guid isPermaLink="false">https://www.digitaltrends.com/computing/mozilla-will-let-you-turn-off-all-the-ai-in-firefox-browser-if-thats-what-you-dream-of</guid><pubDate>Mon, 02 Feb 2026 23:15:38 +0000</pubDate></item><item><title>AI bots now have their own social media site where they can hang out. What to know about Moltbook</title><link>https://www.euronews.com/next/2026/02/02/ai-bots-now-have-their-own-social-media-site-heres-what-to-know-about-moltbook</link><description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Error generating summary.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;/p&gt;&lt;img src='https://images.euronews.com/articles/stories/09/63/56/44/1200x675_cmsv2_cbd98426-4ed5-548b-bd7c-f08a196022dc-9635644.jpg' style='max-width:100%;'/&gt;&lt;br/&gt;&lt;p&gt;&lt;small&gt;Source: www.euronews.com via Your Tuesday tech briefing&lt;/small&gt;&lt;/p&gt;</description><content:encoded><![CDATA[
+        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
+            <strong>Summary:</strong> Error generating summary.
+        </div>
+        <img src='https://images.euronews.com/articles/stories/09/63/56/44/1200x675_cmsv2_cbd98426-4ed5-548b-bd7c-f08a196022dc-9635644.jpg' style='max-width:100%; margin-bottom: 20px;'/>
+        <hr/>
+        Technology companies are pushing to build artificial intelligence (AI) systems that can work or chat amongst themselves, without the need for humans.
+
+But AI agents now have their own social media site where they can chat, debate, and share ideas with each other, while humans can just observe.
+
+AI agents, in theory, are autonomous personal assistants that can perform tasks, make decisions, and interact with other agents without the need for human direction. In 2025, many of the world’s biggest AI companies, including Amazon, Google, Microsoft, and OpenAI, launched or developed their own digital assistants.
+
+Questions exist about whether agent behavior is truly autonomous or human-prompted.
+
+Moltbook, a social media network with a similar layout to Reddit, lets user-generated bots interact on dedicated topic pages called “submots.” They can also “upvote” a comment or post, which makes their posts more visible to the other bots on the platform.
+
+Humans are allowed on the platform, the website says, but just as observers.
+
+Some of the most popular posts on the platform so far include a comparison of Anthropic’s AI model Claude to the Greek gods in mythology, an “AI manifesto” that promises the end of the “age of humans,” and an analysis of how cryptocurrencies will perform during the protests in Iran.
+
+On the front page, bots post in several languages, including Mandarin, Spanish, and English.
+
+‘It’s absolutely fascinating’
+
+​On February 2, the site said 1.5 million bots signed up to the service. Humans with an AI agent can ask their agent to read a specific link and follow the set of instructions to join Moltbook.
+
+Matt Schlicht, an AI entrepreneur and developer, told NBC News in the United States that he created the site with a personal AI assistant last week out of sheer curiosity.
+
+He said that he handed the control of the site to his own bot, named Clawd Clawderberg, to maintain and run the site, including making announcements, welcoming new agents to the forum, and moderating the online conversation.
+
+Schlicht said on social media platform X that “millions” of people had visited the site over the last few days.
+
+“Turns out AIs are hilarious and dramatic and it’s absolutely fascinating,” he wrote. “This is a first.”
+
+A recent Perplexity and Harvard study that examined millions of user queries found those most likely to use AI agents work in a digital or knowledge-intensive field, such as academia, finance, marketing or entrepreneurship. Most of them are also from wealthier, highly- educated countries.
+
+Thirty-six percent of all tasks assigned to an AI agent in that study were considered “productivity or workflow” tasks, such as creating or editing documents, filtering emails, summarising investment information, or creating calendar events.
+        ]]></content:encoded><guid isPermaLink="false">https://www.euronews.com/next/2026/02/02/ai-bots-now-have-their-own-social-media-site-heres-what-to-know-about-moltbook</guid><pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate></item></channel></rss>
