@@ -34,6 +34,8 @@ def init_db():
             content_hash TEXT,
             published_date TEXT,
             feed_source_date TEXT,
+            author TEXT,
+            reading_time INTEGER,
             crawl_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
             FOREIGN KEY(feed_entry_id) REFERENCES entries(entry_id)
         )
@@ -55,7 +57,16 @@ def init_db():
     try:
         cursor.execute("ALTER TABLE articles ADD COLUMN feed_source_date TEXT")
     except sqlite3.OperationalError:
-        # Column likely already exists
+        pass
+
+    # Simple migration: Add author and reading_time if they don't exist
+    try:
+        cursor.execute("ALTER TABLE articles ADD COLUMN author TEXT")
+    except sqlite3.OperationalError:
+        pass
+    try:
+        cursor.execute("ALTER TABLE articles ADD COLUMN reading_time INTEGER")
+    except sqlite3.OperationalError:
         pass
     
     conn.commit()
@@ -124,8 +135,9 @@ def save_article(article_data):
         cursor.execute('''
             INSERT INTO articles (
                 feed_entry_id, email_source, article_source_domain, title, 
-                content, summary, tags, image_url, original_link, content_hash, published_date, feed_source_date
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                content, summary, tags, image_url, original_link, content_hash, published_date, feed_source_date,
+                author, reading_time
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         ''', (
             article_data.get('feed_entry_id'),
             article_data.get('email_source'),
@@ -138,7 +150,9 @@ def save_article(article_data):
             article_data.get('original_link'),
             article_data.get('content_hash'),
             article_data.get('published_date'),
-            article_data.get('feed_source_date')
+            article_data.get('feed_source_date'),
+            article_data.get('author'),
+            article_data.get('reading_time')
         ))
         conn.commit()
         logger.info(f"Saved article: {article_data.get('title')}")

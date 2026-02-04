@@ -164,6 +164,14 @@ def main():
                 image = article.top_image
                 source_domain = urlparse(url).netloc
                 
+                # Extract Author(s)
+                authors = ", ".join(article.authors) if article.authors else "Unknown Author"
+
+                # Calculate Reading Time
+                # Standard reading speed is ~200-250 wpm
+                text_len = len(text.split())
+                reading_time = max(1, round(text_len / 200))
+
                 # Gemini Analysis
                 analysis = gemini.analyze_article(title, text[:4000])
                 summary = analysis.get("summary", "")
@@ -181,7 +189,9 @@ def main():
                     'original_link': url,
                     'content_hash': content_hash,
                     'published_date': publish_date,
-                    'feed_source_date': entry_date
+                    'feed_source_date': entry_date,
+                    'author': authors,
+                    'reading_time': reading_time
                 }
                 
                 db.save_article(article_data)
@@ -209,9 +219,25 @@ def main():
         fe.title(row['title'])
         fe.link(href=row['original_link'])
         
-        # Construct rich content for the feed
-        # Description is often used for the "excerpt" view
-        description_html = f"<p><strong>Summary:</strong> {row['summary']}</p><p><strong>Tags:</strong> {row['tags']}</p><img src='{row['image_url']}' style='max-width:100%;'/><br/><p><small>Source: {row['article_source_domain']} via {row['email_source']}</small></p>"
+        # Prepare metadata for description
+        source_domain = row['article_source_domain']
+        email_source = row['email_source']
+        author = row['author'] if 'author' in row.keys() and row['author'] else "Unknown"
+        reading_time = row['reading_time'] if 'reading_time' in row.keys() and row['reading_time'] else "?"
+        
+        description_html = f"""
+        <p><strong>Summary:</strong> {row['summary']}</p>
+        <p><strong>Tags:</strong> {row['tags']}</p>
+        <p>
+            <strong>Source:</strong> {source_domain}<br/>
+            <strong>Author:</strong> {author}<br/>
+            <strong>Reading Time:</strong> ~{reading_time} min
+        </p>
+        <img src='{row['image_url']}' style='max-width:100%;'/>
+        <br/>
+        <p><small>Via: {email_source}</small></p>
+        """
+        
         fe.description(description_html)
         
         # Content is the full view: Prepend summary and image to the main text

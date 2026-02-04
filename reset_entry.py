@@ -6,7 +6,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 DB_PATH = "articles.db"
-ENTRY_ID = "urn:kill-the-newsletter:cuakzsi42elj3qkfcdq8"
+ENTRY_ID = "urn:kill-the-newsletter:usj34hqxf8ounvnzj4qd"
 
 def reset_entry():
     conn = sqlite3.connect(DB_PATH)
