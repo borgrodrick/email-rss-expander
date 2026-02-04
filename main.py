@@ -243,7 +243,12 @@ def main():
         # Content is the full view: Prepend summary and image to the main text
         full_content_html = f"""
         <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
-            <strong>Summary:</strong> {row['summary']}
+            <p><strong>Summary:</strong> {row['summary']}</p>
+            <p>
+                <strong>Source:</strong> {source_domain}<br/>
+                <strong>Author:</strong> {author}<br/>
+                <strong>Reading Time:</strong> ~{reading_time} min
+            </p>
         </div>
         <img src='{row['image_url']}' style='max-width:100%; margin-bottom: 20px;'/>
         <hr/>
