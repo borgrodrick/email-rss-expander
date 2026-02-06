@@ -9,6 +9,7 @@ from newspaper import Article
 from feedgen.feed import FeedGenerator
 from datetime import datetime
 from urllib.parse import urlparse
+import lxml.html
 from dotenv import load_dotenv
 
 # Import helper modules
@@ -37,7 +38,34 @@ OUTPUT_FILE = "output.xml"
 def parse_date(date_str):
     return date_str
 
-def main():
+def hash_content(content):
+    if not content:
+        return ""
+    return hashlib.sha256(content.encode('utf-8')).hexdigest()
+
+def clean_html_content(node):
+    """
+    Extracts HTML from a lxml node and cleans it for RSS.
+    Removes attributes like class, id, style to keep it clean.
+    """
+    if node is None:
+        return ""
+    
+    # Create a copy to avoid modifying the original tree if needed, 
+    # though here we are just taking the node from newspaper's parse tree.
+    
+    # Iterate over all elements and strip attributes
+    for element in node.iter():
+        # Keep href and src, strip others
+        keys = list(element.attrib.keys())
+        for key in keys:
+            if key not in ['href', 'src', 'alt', 'title']:
+                del element.attrib[key]
+                
+    # Serialize to string
+    return lxml.html.tostring(node, encoding='unicode', method='html')
+
+def process_feed(feed_path):
     logger.info("Starting Email RSS Expander")
     
     # Check for API Key
@@ -149,12 +177,26 @@ def main():
                 title = article.title
                 text = article.text
                 
+                # Extract HTML Content with formatting
+                html_content = ""
+                if article.top_node is not None:
+                    try:
+                        html_content = clean_html_content(article.top_node)
+                    except Exception as e:
+                        logger.warning(f"Failed to extract HTML content: {e}")
+                        html_content = text # Fallback
+                else:
+                    html_content = text
+                
+                # Prefer HTML content for DB
+                db_content = html_content if html_content else text
+
                 if not text or len(text.strip()) < 100:
                     logger.warning(f"Skipping article with insufficient content: {url}")
                     continue
 
                 # Content Hashing for Deduplication
-                content_hash = hashlib.sha256(text.encode('utf-8')).hexdigest()
+                content_hash = hash_content(text)
                 
                 if db.article_exists(content_hash=content_hash):
                     logger.info(f"Skipping duplicate content (hash match): {url}")
@@ -182,7 +224,7 @@ def main():
                     'email_source': email_title,
                     'article_source_domain': source_domain,
                     'title': title,
-                    'content': text,
+                    'content': db_content,
                     'summary': summary,
                     'tags': ",".join(tags),
                     'image_url': image,
@@ -275,6 +317,9 @@ def main():
         logger.info(f"Successfully wrote RSS feed to {OUTPUT_FILE}")
     except Exception as e:
         logger.error(f"Failed to write RSS file: {e}")
+
+def main():
+    process_feed(FEED_URL)
 
 if __name__ == "__main__":
     main()
