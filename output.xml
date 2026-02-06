@@ -1,736 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Curated Email Articles</title><link>https://kill-the-newsletter.com/feeds/km69ge1d7gq6c4rhg5uv.xml</link><description>Aggregated articles from email newsletters, filtered and summarized.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 06 Feb 2026 13:12:09 +0000</lastBuildDate><item><title>What the metaphor of ‘rewiring’ gets wrong about neuroplasticity</title><link>https://clicks.mozilla.org/f/a/4fWVjCU36e9H_Ar9npLTRg~~/AAQRxRA~/IHjHVY7J8GhATtySfx3a9T7AUoqpHogu8joljcbvzDcfdL2PzgLj6o8Ml3O3i1FRPV4j_fFVcITXlwqkgV-WzPNCaOszSwSO5odgQG_xac99_Gv860zKoox_vQccgp0lRtkmwEHF9dwIII5vWssczdN7RE8i0jIicHYWJlO8ZhX_qf2v8dxoSriC8JPVW-LpVfNMgFI94GQ2f3PGsHbPI4A5XpmB9MXlIgDp79orqlVxFZnggrAh7sAFI6G8NCnpS2TJCTkglFUUtkffc1jFHY0PVUA7ftwrJP5bAqQojw3_FV4rngZ-4lkCNl9-SiZB98J-jI8g8jOVCQff-BBoaf4ymL_Lf3YejK21dunmmuHQtrJLLuCfDUpZXqzQmrhm5IqmYYeu61e-AJrxBWfdtJ_2QohtoFhSVRvQa9dnDiW0pO1y1s8g-y6eN6RSoOXC7kVeR2uuc3ChGFRjEVlTwkBm71sxXEVAIZRPvNf-Qat6Ic9YWV0oq7t7D2W0BNuAtsECw6rMEMA8c9SwPvTEN4bNqwnK6Yh7MCqajmtFspOp5FY9T5E-fkzCTogByVPRPKIYqQSZ2iSpnGI91D-y_Np_9pfwGE_TLIuZoch4Fo4~</link><description>
-        &lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; The article examines the popular but scientifically flawed metaphor of 'rewiring' the brain, contrasting it with the actual biological process of neuroplasticity. It traces the metaphor's origins from early 20th-century engineering to modern clinical rehabilitation, arguing that while the term provides a convenient shorthand for how the brain adapts after trauma or learning, it misleadingly suggests a level of mechanical precision and ease that ignores the slow, complex, and messy reality of neural change.&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Neuroplasticity,Neuroscience,Psychology,Science Communication,Brain Health&lt;/p&gt;
-        &lt;p&gt;
-            &lt;strong&gt;Source:&lt;/strong&gt; clicks.mozilla.org&lt;br/&gt;
-            &lt;strong&gt;Author:&lt;/strong&gt; Peter Lukacs&lt;br/&gt;
-            &lt;strong&gt;Reading Time:&lt;/strong&gt; ~19 min
-        &lt;/p&gt;
-        &lt;img src='https://images.aeonmedia.co/images/0974ae4a-465f-4052-9987-e7aaeecd18cf/essay-nachev-head-and-brain-structure.jpg?width=1200&amp;quality=75&amp;format=jpg' style='max-width:100%;'/&gt;
-        &lt;br/&gt;
-        &lt;p&gt;&lt;small&gt;Via: Can You Rewire Your Brain?&lt;/small&gt;&lt;/p&gt;
-        </description><content:encoded><![CDATA[
-        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
-            <p><strong>Summary:</strong> The article examines the popular but scientifically flawed metaphor of 'rewiring' the brain, contrasting it with the actual biological process of neuroplasticity. It traces the metaphor's origins from early 20th-century engineering to modern clinical rehabilitation, arguing that while the term provides a convenient shorthand for how the brain adapts after trauma or learning, it misleadingly suggests a level of mechanical precision and ease that ignores the slow, complex, and messy reality of neural change.</p>
-            <p>
-                <strong>Source:</strong> clicks.mozilla.org<br/>
-                <strong>Author:</strong> Peter Lukacs<br/>
-                <strong>Reading Time:</strong> ~19 min
-            </p>
-        </div>
-        <img src='https://images.aeonmedia.co/images/0974ae4a-465f-4052-9987-e7aaeecd18cf/essay-nachev-head-and-brain-structure.jpg?width=1200&quality=75&format=jpg' style='max-width:100%; margin-bottom: 20px;'/>
-        <hr/>
-        <div><p>Popular wisdom holds we can ‘rewire’ our brains: after a stroke, after trauma, after learning a new skill, even with <span>10 minutes</span> a day on the right app. The phrase is everywhere, offering something most of us want to believe: that when the brain suffers an assault, it can be restored with mechanical precision. But ‘rewiring’ is a risky metaphor. It borrows its confidence from engineering, where a faulty system can be repaired by swapping out the right component; it also smuggles that confidence into biology, where change is slower, messier and often incomplete. The phrase has become a cultural mantra that is easier to comprehend than the scientific term, neuroplasticity – the brain’s ability to change and form new neural connections throughout life.</p>
-<p>But what does it really mean to ‘rewire’ the brain? Is it a helpful shorthand for describing the remarkable plasticity of our nervous system or has it become a misleading oversimplification that distorts our grasp of science?</p>
-<p>After all, ‘rewiring your brain’ sounds like more than metaphor. It implies an engineering project: a system whose parts can be removed, replaced and optimised. The promise is both alluring and oddly mechanical. The metaphor actually <em>did</em> come from engineering. To an engineer, rewiring means replacing old and faulty circuits with new ones. As the vocabulary of technology crept into everyday life, it brought with it a new way of thinking about the human mind.</p>
-<p>Medical roots of the phrase trace back to 1912, when the British surgeon <span>W Deane</span> Butcher compared the body’s neural system to a house’s electrical wiring, describing how nerves connect to muscles much like wires connect appliances to a power source. By the 1920s, the Harvard psychologist Leonard Troland was referring to the visual system as ‘an extremely intricate telegraphic system’, reinforcing the comparison between brain function and electrical networks.</p>
-<p>The metaphor of rewiring also draws strength from changing theories in developmental neuroscience. The brain was thought to be largely static after childhood, becoming a fixed network of circuits, much like a hardwired radio. But beginning in the 1960s, researchers showed that the brain was far more adaptable. Stroke patients could regain function by recruiting new areas of the brain.</p>
-<p>These findings revolutionised rehabilitation medicine. They also gave rise to an idea that would quickly leap beyond the clinic: if brains can rewire, then people can change.</p>
-<p>More recently, the metaphor of neural rewiring has gained popularity alongside new imaging techniques like fMRI and PET scans, which allow researchers to see brain activity in ways never before possible. In studies of stroke recovery, clinicians often observe increased activation in brain regions adjacent to or distant from the area of damage. This is interpreted as the brain ‘rewiring’ itself to restore lost function. Popular science writers have embraced the metaphor as well, using it to explain everything from trauma healing to learning a second language.</p>
-<p>But unlike electrical wiring, which follows rigid, fixed paths, the brain’s connectivity is dynamic and constantly changing. Neurons form and prune synapses – the connections between them – in response to activity and environment, a process governed by complex biochemical signalling rather than simple rerouting. Even when we can map the parts, the picture doesn’t explain the self. As late as 2013, Francis Collins, the then-director of the US National Institutes of Health (NIH), complained about studies on mapping the brain, in an <a href="https://www.npr.org/2013/04/05/176339688/president-obama-calls-for-a-brain-initiative">interview</a> with NPR (US National Public Radio): ‘It’d be like, you know, taking your laptop and prying the top off and staring at the parts inside, you’d be able to say, yeah, this is connected to that, but you wouldn’t know how it worked.’</p>
-<p><span>T</span>o evaluate the metaphor, it’s important to grasp how brain plasticity actually works. We already know a lot about the brain’s remarkable ability to reorganise itself throughout life by forming new neural connections, strengthening existing ones or rerouting functions to undamaged areas. But the logic of neuroplasticity isn’t the same as swapping one wire with another. It’s more like a living forest where paths are gradually worn or abandoned based on use. It involves changes at the cellular level and can occur in response to learning, memory, sensory input and trauma. Importantly, while neuroplasticity is a lifelong feature of the brain, it is more robust during youth and becomes more effort-dependent <span>with age.</span></p>
-<p>This capacity allows the brain to adapt to new experiences, recover from injuries, learn new information and compensate for lost functions. Neuroplasticity is real, but it’s not magic. It has limits. It requires effort. And it doesn’t always result in perfect recovery or transformation.</p>
-<p>Unlike rewiring a machine, plasticity is not as simple as replacing parts. It’s a gradual process and is often inefficient. Synapses, which pass signals between neurons, strengthen or weaken. New dendritic branches – neurons’ treelike extensions – grow while others retract. Entire networks shift their activity over time, but only under the right conditions, and these changes accumulate to support new patterns of function while overall mechanisms become less efficient across the lifespan.</p>
-<p>Plasticity is conditional, uneven and shaped by circumstance, not wishful thinking</p>
-<p>Plasticity happens throughout life, but it’s shaped by many factors: age, environment, repetition, rest, nutrition and emotional state. For example: with months of targeted physical therapy, a stroke survivor can regain movement in a limb by recruiting healthier networks; with intensive, structured practice, a child with dyslexia can gradually develop new reading pathways; and reading braille requires extensive practice and is instrumental in changing relevant brain regions.</p>
-<p>In cases of childhood trauma, certain survival pathways, such as hypervigilance or emotional detachment, may become dominant and reinforced over time. Later in life, therapy may promote the strengthening of alternative circuits related to trust, emotional regulation or self-awareness. But the old pathways aren’t necessarily erased. They remain in the background, potentially reactivated under stress. The idea that the brain is ‘rewired’ to function in a <a href="https://psyche.co/guides/how-to-maintain-a-healthy-brain-to-reduce-the-risk-of-dementia">healthier way</a> may offer hope, but it oversimplifies the reality. We build new trails, but the old ones don’t necessarily disappear.</p>
-<p>Experience is a major force in shaping the nervous system. But, as the neuroscientists Bryan Kolb and Ian Whishaw argue in their widely cited <a href="https://pubmed.ncbi.nlm.nih.gov/9496621/">review</a> of brain plasticity, it always works in context. Over a lifetime, experience ‘alters the synaptic organisation of the brain’, but the brain’s response is also shaped by age, hormones, trophic factors (support proteins), stress, and illness or injury. And because the neocortex can ‘modify its function throughout one’s lifetime’, the same experience can leave different traces in different bodies, at different ages. Kolb and Whishaw capture the broader principle in a line worth keeping: ‘experience can modify brain structure long after brain development is complete’, and those physical changes are widely thought to be part of how memories are stored. In other words, plasticity is conditional, uneven and shaped by circumstance, not wishful thinking.</p>
-<p>The same review paper makes a critical observation based on careful studies of rats recovering from injury: the evidence suggests that what looks like recovery at first glance is often the brain finding a workaround. In their words, ‘much of what appears … to be recovery is actually a compensatory substitution of new movements for lost movements.’ In plain terms, the brain is often building a detour, not restoring the same old route.</p>
-<p><span>T</span>he fact that neurons can expand their reach means that, if some of them die, others may broaden their territory to make up for lost processing. In general, the more connections a neuron has, the more it can shape behaviour.</p>
-<p>Beyond this, a feedback loop seems to be at work. There is evidence that the environment can change which genes are switched on in the adult brain. One likely route runs through neural activity shaped by experience. Novel experience causes neurons to fire in new patterns; and those neurons in turn can trigger gene programmes that support dendritic and synaptic growth – structural changes that can, over time, shift behaviour. Some of these genes are known to be associated with learning and memory; others are linked to age-related memory deficits. So enrichment can certainly support the brain.</p>
-<p>Examples of neuroplasticity abound. During my neurology residency, one of my teachers, a highly specialised neuro-ophthalmologist, demonstrated the adaptability of the brain in a dramatic way. He recreated an informal experiment on himself by wearing glasses that flipped his visual field upside down. At first, he was disoriented. But within weeks, his brain recalibrated, and he was able to function normally in his environment. Even more remarkable was the <span>re-adaptation</span> that occurred when he removed the glasses; his world once again appeared inverted, and it took additional time for his perception to return to baseline. He later recreated another experiment by repeating the process with another set of glasses that reversed left and right, and he reported that this lateral inversion was far more difficult for the brain to compensate for than the vertical one. The experiment demonstrates how the brain adapts by recalibration rather than by restoring an original state, treating the altered input as normal over time.</p>
-<p>The ability to alter speech is another testament to the plasticity of the brain. One fascinating distinction in neuroscience is that speech and singing use different neural pathways. For example, some well-known singers stutter when speaking but not when singing. Elvis Presley famously had a stutter that disappeared when he sang. Ed Sheeran also stuttered as a child and tried many techniques to overcome it. Nothing worked, until, at age nine, he began rapping along to an Eminem album. Through repetition, his fluency improved. Similarly, the country singer Mel Tillis spoke with a stutter but sang fluidly. In each case, fluency emerges not through repair but through recruitment of alternative circuits.</p>
-<figure><iframe src="https://youtube.com/embed/xixbvNh25OI"></iframe><figcaption></figcaption><a href="https://youtube.com/embed/xixbvNh25OI">https://youtube.com/embed/xixbvNh25OI</a></figure>
-<p>There’s also the curious case of singers who speak with strong accents but who lose them when they sing. Examples include Ozzy Osbourne, Adele, Ed Sheeran, ABBA and Freddie Mercury. Singing slows speech, elongates vowels and reduces accent markers. Many artists adopt American accents in songs due to the US roots of pop and rock music. The shift again reflects a change in network engagement rather than a permanent alteration of underlying language systems.</p>
-<p>Across the lifespan, brains that are challenged tend to retain greater flexibility</p>
-<p>This difference between speech and song forms the basis of a therapeutic approach known as melodic intonation therapy (MIT). It’s often used with patients suffering from non-fluent aphasia after a stroke, that is, those who can’t speak due to damage in the brain’s speech centres. In MIT, patients sing familiar childhood songs deeply encoded in emotional memory. Remarkably, they are often able to sing words and phrases they cannot otherwise speak. With repetition, speech improves. This is because singing activates preserved right-brain circuits, creating alternative pathways that gradually strengthen the brain’s overall language network. The gain comes through detour and reinforcement, not restoration of the damaged pathway.</p>
-<p>Recent research suggests that addiction may, in part, be a wiring issue in the brain. One promising treatment is transcranial magnetic stimulation (TMS), a noninvasive therapy that uses powerful magnetic pulses discharged above the skull to activate specific brain regions. Depending on where the stimulation is applied, it can trigger muscle movement or, more significantly, influence behaviour.</p>
-<p>Two leading theories for the potential of TMS have emerged. One proposes that addiction stems from insufficient or underactive brain wiring, like that which occurs in stroke patients, and that stimulation reactivates dormant circuits. The other – more consistent with what we see in rehabilitation – suggests that damaged or dysregulated circuits are bypassed by strengthening alternative pathways, effectively rerouting brain activity. This ‘detour’ mechanism has been observed in stroke rehabilitation and may apply to addiction as well. TMS has been used in patients addicted to cocaine, and early <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8658408/">evidence</a> suggests that several weeks of treatment may be effective in reducing cravings <span>and use.</span></p>
-<p>While neuroplasticity resists shortcuts, it does respond to sustained engagement. Across the lifespan, brains that are challenged – cognitively, socially, physically – tend to retain greater flexibility than those that are not. This is not because any single activity ‘rewires’ a specific circuit, but because varied, effortful experiences repeatedly recruit overlapping networks: attention, memory, movement, emotion. Learning a new language, for example, activates distributed regions across both hemispheres, linking auditory perception, working memory, and executive control. Playing a musical instrument does something similar, coupling fine motor coordination with timing, prediction, and emotional recall. Over time, these demands encourage structural and functional changes that support what neuroscientists call <em>cognitive reserve</em>: the brain’s ability to compensate when injury or degeneration occurs.</p>
-<p>The same principle applies beyond formal learning. Singing engages breath, rhythm, language and affect in ways that ordinary speech does not, which is why it can support recovery in some stroke and Parkinson’s patients. Physical activity – especially aerobic exercise – improves cerebral blood flow and is associated with changes in the volume of the hippocampus, a region critical for turning short-term memory into long-term memory. It’s also one of the few brain regions where new neurons are generated in adulthood. Social interaction recruits emotional and linguistic circuits simultaneously, offering a kind of neural cross-training that solitary exercises cannot. Even seemingly modest skills, such as learning to juggle, have been shown to induce measurable changes in grey matter after weeks of practice. None of these activities function as targeted neural ‘fixes’. Their value lies instead in repetition, novelty and sustained effort – the slow conditions under which plasticity operates. They do not override biology but work with it, nudging the brain toward adaptation rather than transformation.</p>
-<p><span>G</span>iven what we know about brain plasticity, the overarching claims of brain rewiring often misrepresent both the pace and the nature of neural change. In his guide <em>Rewire Your Brain: Think Your Way to a Better Life</em> (2010), the psychologist John B Arden declares that our brains are not ‘hardwired’ but rather ‘soft-wired’ by experience, and promises strategies to help readers ‘rewire’ their brains so that they can ‘feel calm and positive’ and ‘enhance’ their relationships. The neurologist Philippe Douyon’s book <em>Neuroplasticity: Your Brain’s Superpower: Change Your Brain and Change Your Life</em> (2019) explores how ‘we can give our brains exactly what they need to adapt, heal, and thrive’. The language varies, but the promise is consistent: targeted practices can reliably produce targeted psychological outcomes.</p>
-<p>Then there are the brain-rewiring apps. An apt example is Quit Addiction – Rewire Brain, which is geared toward breaking addictions like smoking, vaping or alcohol by combining habit-tracking, motivation tools and progress-monitoring in order to ‘rewire your brain for lasting change’. Across platforms, the metaphor suggests speed, precision and personal control – qualities that biology itself rarely affords.</p>
-<p>And TED Talks can overstate the case. As the neuroscientist Michael Merzenich explained in his <a href="https://www.ted.com/speakers/michael_merzenich">presentation</a> in 2004, the brain’s circuitry is not fixed: the adult brain, in fact, retains a ‘lifelong capacity for plasticity’ which ‘is powerfully expressed’. He later described what takes place within the brain:</p>
-<blockquote>There are 15 or 20 cortical areas that are changed specifically when you learn a simple skill … It represents the change, in a reliable way, of the responses of tens of millions, possibly hundreds of millions, of neurons in your brain. It represents changes in hundreds of millions, possibly billions, of synaptic connections in your brain.</blockquote>
-<p>The science is sound, but its popular reception often strips away the conditions – time, repetition, constraint – under which such change occurs.</p>
-<p>To be ‘rewired’ suggests an all-or-nothing overhaul rather than nuanced progression</p>
-<p>Merzenich traced this discovery from critical periods in early childhood (when language and vision are calibrated) to adult therapies that retrain neural maps for speech and reading disorders. The key message was simple and striking: plasticity never switches off; it can be accomplished well into adulthood.</p>
-<p>More than a decade later, the neuroscientist Don Vaughn took the stage at TEDxUCLA with a more applied vision. In ‘Neurohacking: Rewiring Your Brain’ (2015), he <a href="https://www.youtube.com/watch?v=xzbHtIrb14s">showcased</a> how emerging tools allow people to consciously shape that plasticity. He described patients receiving non-invasive brain stimulation for depression, parents using apps that translate baby cries into visual signals, and volunteers who learned to self-modulate their brain rhythms through neurofeedback. ‘If we can rewire your brain using devices, would it at all be possible to help your brain rewire itself with just your own thoughts?’ The question captures the cultural leap – from biological possibility to personal mastery.</p>
-<p>Taken together, Merzenich’s foundational science and Vaughn’s demonstrations underscore why the phrase ‘rewiring the brain’ has become so potent in popular culture: it gestures not only to the metaphorical promise of self-improvement but also to a concrete, testable biology – the brain’s architecture is malleable and, under the right conditions, it can be reshaped. Yet embedded in these slogans are sweeping assumptions about how the brain works, assumptions that are often oversimplified or outright incorrect. One is the idea of rapid transformation: when an app promises that a week of short audio lessons can ‘rewire’ the brain, it compresses the slow, cumulative processes of learning and adaptation into a quick-fix model. Another is that change is total; to be ‘rewired’ suggests an all-or-nothing overhaul rather than nuanced progression, as if old circuitry can be removed and replaced wholesale. A third is precision targeting, where the discourse tacitly promises that specific practices – such as gratitude exercises or productivity hacks – strike exactly the right neural pathways to produce specific psychological outcomes. All three assumptions resonate with our technological imagination; none align with the messy realities of neuroplasticity.</p>
-<p><span>I</span>n short, the metaphor is powerful but problematic. It suggests that, no matter where someone begins their process, whether recovering from a head trauma or battling cognitive decline, the brain can snap back to normal. There’s a certain poetry to that idea. A reassurance that we are not static beings and that transformation is possible at <span>any age.</span></p>
-<p>There are contexts where this has value. It can help patients understand that their brains are not static or irreparably broken. It frames recovery as active rather than passive, encouraging participation in therapies that promote healing. Educators have also embraced the metaphor when teaching students. The idea that you can rewire your brain reinforces the possibility of learning and change. In clinical settings, it can reduce shame and fatalism.</p>
-<p>However, for stroke survivors, the promise of rewiring can be both inspiring and unrealistic. Some regain remarkable function; others plateau despite intense therapy. In Alzheimer’s, the degenerative nature of the disease limits the brain’s plasticity. In such contexts, rewiring may imply a level of control or optimism that the brain itself does not always permit. Hope matters. But so does honesty.</p>
-<p>Metaphors can motivate, but they <a href="https://psyche.co/ideas/metaphors-open-up-our-minds-but-can-also-shut-them-down">can also mislead</a>. The notion that someone can rewire their brain through sheer willpower, self-help books or <span>10 minutes</span> of daily meditation risks turning serious neurological change into a gimmick. While cognitive behavioural therapy (CBT) and physical rehabilitation have strong evidence supporting their effects on brain function, these changes occur over time and have biological constraints.</p>
-<p>The brain <a href="https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer">is not</a> a circuit board. Changing it is not as simple as swapping a wire or updating software. ‘Rewiring’ implies speed and precision, a single tweak that creates a desired result; it implies that changes in the brain are mechanical and always possible, none of which is guaranteed. The reality of neuroplasticity is far messier: it’s a biological process that is incremental and frustratingly slow. And while science does support the idea that the brain can change, it also reminds us that change comes at a cost. It requires time and effort, and sometimes it ends in failure.</p>
-<p>The metaphor turns healing into a moral achievement, and failure into a personal flaw</p>
-<p>Here’s where the metaphor of rewiring starts to do damage. It suggests that brain changes are mechanical and under direct conscious control. But in practice, brain changes are nonlinear. Most often they are unconscious and deeply tied to emotion and new behaviour.</p>
-<p>One common myth is that a single realisation or decision can ‘rewire’ you. In truth, even profound insights rarely result in lasting neural change unless reinforced by repetition and behaviour. Another is that you can eliminate trauma responses by replacing them. But trauma alters deep, limbic structures that don’t ‘recode’ easily. They adapt, yes, but only slowly and not always completely.</p>
-<p>There’s also the misconception that anyone can change anything if they just try hard enough. But not all brains have the same capacity or conditions for change. There’s a dark side to the optimism around brain change. When the metaphor of rewiring is oversold, it can create false expectations. It oversimplifies. And in doing so, it runs the risk of making people feel broken when their transformation isn’t instant or complete.</p>
-<p>If rewiring is easy, then why haven’t you fixed your depression? If brain change is automatic with the right programme, then why are you still struggling?</p>
-<p>This thinking can be cruel. It ignores several factors – from the social to the environmental to the genetic – that shape and constrain neuroplasticity, many of which are only partially understood. It turns healing into a moral achievement, and failure into a personal flaw. Some therapy models and self-help programmes lean into this pressure, implying that full transformation is just a matter of effort. But science tells a different story: change is possible, yes. But it’s constrained by biology and shaped by context.</p>
-<p>I’ve seen patients blame themselves when neuroplasticity didn’t yield a cure. People grasp at therapies that promise to rewire away disease. The language of neuroscience is being used to justify everything from educational policy to digital detox programmes with little regard for the underlying data.</p>
-<p><span>N</span>one of this is to say that neuroplasticity doesn’t exist. It does. Stroke recovery, phantom limb sensation, chronic pain syndromes and even language acquisition in adults all bear its fingerprints. What’s needed is precision. Scientists must be careful with their words. Clinicians must draw clearer boundaries between science and metaphor. And the public must be equipped to discern between poetic licence and peer-reviewed truth.</p>
-<p>What we really need is a more honest, but still hopeful, view of brain change.</p>
-<p>If not ‘rewiring’, then what? Perhaps the better metaphor is not a machine being repaired but a landscape being reshaped. Neuroplasticity resembles erosion and regrowth: some paths deepen, others fade, and change unfolds unevenly over time.</p>
-<p>Neuroplasticity is a remarkable capacity. It offers real hope for recovery, adaptation and growth. But it requires patience, structure, repetition and support. It is not a quick fix. It is a lifelong process that demands sustained engagement.</p>
-<p>To honour the brain’s ability to change, we need to respect how it actually works. That means moving beyond buzzwords and shortcuts, and toward a language that reflects both the promise and the limits of biology. The brain’s capacity for change is one of the most hopeful discoveries in modern science – but that change comes not through clever metaphors or overnight programmes. It comes through effort, repetition and time. By tempering our metaphors with reality, we can help people pursue transformation with both hope and humility. Language matters. ‘Rewiring the brain’ began as a hopeful metaphor. Let’s not let it become a <span>misleading one.</span></p></div>
-        ]]></content:encoded><guid isPermaLink="false">https://clicks.mozilla.org/f/a/4fWVjCU36e9H_Ar9npLTRg~~/AAQRxRA~/IHjHVY7J8GhATtySfx3a9T7AUoqpHogu8joljcbvzDcfdL2PzgLj6o8Ml3O3i1FRPV4j_fFVcITXlwqkgV-WzPNCaOszSwSO5odgQG_xac99_Gv860zKoox_vQccgp0lRtkmwEHF9dwIII5vWssczdN7RE8i0jIicHYWJlO8ZhX_qf2v8dxoSriC8JPVW-LpVfNMgFI94GQ2f3PGsHbPI4A5XpmB9MXlIgDp79orqlVxFZnggrAh7sAFI6G8NCnpS2TJCTkglFUUtkffc1jFHY0PVUA7ftwrJP5bAqQojw3_FV4rngZ-4lkCNl9-SiZB98J-jI8g8jOVCQff-BBoaf4ymL_Lf3YejK21dunmmuHQtrJLLuCfDUpZXqzQmrhm5IqmYYeu61e-AJrxBWfdtJ_2QohtoFhSVRvQa9dnDiW0pO1y1s8g-y6eN6RSoOXC7kVeR2uuc3ChGFRjEVlTwkBm71sxXEVAIZRPvNf-Qat6Ic9YWV0oq7t7D2W0BNuAtsECw6rMEMA8c9SwPvTEN4bNqwnK6Yh7MCqajmtFspOp5FY9T5E-fkzCTogByVPRPKIYqQSZ2iSpnGI91D-y_Np_9pfwGE_TLIuZoch4Fo4~</guid><pubDate>Tue, 03 Feb 2026 11:00:00 +0000</pubDate></item><item><title>'Textbooks will need to be updated': Jupiter is smaller and flatter than we thought, Juno spacecraft reveals</title><link>https://clicks.mozilla.org/f/a/jRWnezDk5aPRtjjZXH91JA~~/AAQRxRA~/X3qWuaL-yrXfuPOpQth48sUA3KzFaHl0mU8fR4paaea1kp1mPOVJH0N8tjnfHoMbx3BexiDpYJukfrrYToN2vk00u9y2ulpfXV1BdS6Z-l1a5ZJFU9k4pZC9hnAolm6hy_khEkVWCN-uRlCKBOjQiwIuMyn0IOBr4nTyJ9-lAJixtNAxpZvD51c34fRcsfQAPQhwaDoGFsAf72gdLfaYUh-Qnino8xsAvs_yNXtjLxRTE_F2b7U7HRT6-U48pqr36cMoXQ5OH6o5JYrSHW7tJjHxSVWQJBFo-1SBb0iBlh26msrQB-YTYgzZGz4cLoIbsDQKZDg6olk7H9ESiYMvYG0qOdbK91b57p_5cDaAjCj-EKF6t_zfrbkyBJ8WXWYqyTEd5UdaLcJ3Hns9zTO9A65fkFexjkR7SBLzRSj70mnhe_HIj8-pXOPuPhzLXY9pEuC0fC0uaklZhZtvwYRwQ_Ky7BB0UO9J_DXHhagCfOKFTDRLx8qvi_Sn6mIG4Q5mFaxgvACXtruQy3jZKAD-1BtDB8G1mLGUGOayjbvDvAVn1l5p55Y5NYLP9OJ6Upvx4lkKIURFHBKF_uUFm-PEBLjWe_gEnr0sHfTvkMQrq7aD_-QzkIv6Et3qCc7s4jIbLhDe8zqHo_T5fH2WBADkuWUan_tmfZMLJLG3sggnCgmsOnyKSw7fEf98IVFa_dxD9nC1wSmY-HisDjBK41i6JQ~~</link><description>
-        &lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Recent data from NASA's Juno spacecraft reveals that Jupiter is slightly smaller and flatter than previously estimated by the Voyager and Pioneer missions. By analyzing radio signals passing through the planet's atmosphere, researchers refined Jupiter's polar and equatorial radii, providing more accurate data for modeling gas giant interiors and understanding the early evolution of the solar system.&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Jupiter,Juno spacecraft,Astronomy,Planetary Science,NASA&lt;/p&gt;
-        &lt;p&gt;
-            &lt;strong&gt;Source:&lt;/strong&gt; clicks.mozilla.org&lt;br/&gt;
-            &lt;strong&gt;Author:&lt;/strong&gt; Skyler Ware&lt;br/&gt;
-            &lt;strong&gt;Reading Time:&lt;/strong&gt; ~2 min
-        &lt;/p&gt;
-        &lt;img src='https://cdn.mos.cms.futurecdn.net/pmBwsznK6aoriGbe9fYvvm-1920-80.jpg' style='max-width:100%;'/&gt;
-        &lt;br/&gt;
-        &lt;p&gt;&lt;small&gt;Via: Can You Rewire Your Brain?&lt;/small&gt;&lt;/p&gt;
-        </description><content:encoded><![CDATA[
-        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
-            <p><strong>Summary:</strong> Recent data from NASA's Juno spacecraft reveals that Jupiter is slightly smaller and flatter than previously estimated by the Voyager and Pioneer missions. By analyzing radio signals passing through the planet's atmosphere, researchers refined Jupiter's polar and equatorial radii, providing more accurate data for modeling gas giant interiors and understanding the early evolution of the solar system.</p>
-            <p>
-                <strong>Source:</strong> clicks.mozilla.org<br/>
-                <strong>Author:</strong> Skyler Ware<br/>
-                <strong>Reading Time:</strong> ~2 min
-            </p>
-        </div>
-        <img src='https://cdn.mos.cms.futurecdn.net/pmBwsznK6aoriGbe9fYvvm-1920-80.jpg' style='max-width:100%; margin-bottom: 20px;'/>
-        <hr/>
-        <div>
-<div>
-<div>
-<div>
-<button>
-<svg>
-<path></path>
-</svg>
-</button>
-<div>
-<ul>
-<li>
-<button>
-<svg>
-<path></path>
-</svg>
-Copy link
-</button>
-</li>
-<li>
-<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.livescience.com%2Fspace%2Fplanets%2Ftextbooks-will-need-to-be-updated-jupiter-is-smaller-and-flatter-than-we-thought-juno-spacecraft-reveals">
-<svg>
-<circle></circle>
-<path></path>
-</svg>
-Facebook
-</a>
-</li>
-<li>
-<a href="https://twitter.com/intent/tweet?text=%27Textbooks+will+need+to+be+updated%27%3A+Jupiter+is+smaller+and+flatter+than+we+thought%2C+Juno+spacecraft+reveals&amp;url=https%3A%2F%2Fwww.livescience.com%2Fspace%2Fplanets%2Ftextbooks-will-need-to-be-updated-jupiter-is-smaller-and-flatter-than-we-thought-juno-spacecraft-reveals">
-<svg>
-<path></path>
-<path></path>
-</svg>
-X
-</a>
-</li>
-<li>
-<a href="whatsapp://send?text=%27Textbooks+will+need+to+be+updated%27%3A+Jupiter+is+smaller+and+flatter+than+we+thought%2C+Juno+spacecraft+reveals+https%3A%2F%2Fwww.livescience.com%2Fspace%2Fplanets%2Ftextbooks-will-need-to-be-updated-jupiter-is-smaller-and-flatter-than-we-thought-juno-spacecraft-reveals?fwa">
-<svg>
-<g>
-<path></path>
-<path></path>
-</g>
-<defs>
-<clippath>
-<rect></rect>
-</clippath>
-</defs>
-</svg>
-Whatsapp
-</a>
-</li>
-<li>
-<a href="https://www.reddit.com/submit?url=https%3A%2F%2Fwww.livescience.com%2Fspace%2Fplanets%2Ftextbooks-will-need-to-be-updated-jupiter-is-smaller-and-flatter-than-we-thought-juno-spacecraft-reveals&amp;title=%27Textbooks+will+need+to+be+updated%27%3A+Jupiter+is+smaller+and+flatter+than+we+thought%2C+Juno+spacecraft+reveals">
-<svg>
-<path></path>
-<g>
-<g>
-<path></path>
-</g>
-</g>
-<defs>
-<clippath>
-<rect></rect>
-</clippath>
-<clippath>
-<rect></rect>
-</clippath>
-</defs>
-</svg>
-Reddit
-</a>
-</li>
-<li>
-<a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.livescience.com%2Fspace%2Fplanets%2Ftextbooks-will-need-to-be-updated-jupiter-is-smaller-and-flatter-than-we-thought-juno-spacecraft-reveals&amp;media=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FpmBwsznK6aoriGbe9fYvvm.jpg">
-<svg>
-<circle></circle>
-<path></path>
-</svg>
-Pinterest
-</a>
-</li>
-<li>
-<a href="https://share.flipboard.com/bookmarklet/popout?title=%27Textbooks+will+need+to+be+updated%27%3A+Jupiter+is+smaller+and+flatter+than+we+thought%2C+Juno+spacecraft+reveals&amp;url=https%3A%2F%2Fwww.livescience.com%2Fspace%2Fplanets%2Ftextbooks-will-need-to-be-updated-jupiter-is-smaller-and-flatter-than-we-thought-juno-spacecraft-reveals">
-<svg>
-<path></path>
-<path></path>
-</svg>
-Flipboard
-</a>
-</li>
-<li>
-<a href="mailto:?subject=I%20found%20this%20webpage&amp;body=Hi,%20I%20found%20this%20webpage%20and%20thought%20you%20might%20like%20it%20https://www.livescience.com/space/planets/textbooks-will-need-to-be-updated-jupiter-is-smaller-and-flatter-than-we-thought-juno-spacecraft-reveals">
-<svg>
-<path></path>
-<path></path>
-</svg>
-Email
-</a>
-</li>
-</ul>
-</div>
-<div>
-Share this article
-</div>
-</div>
-<div>
-
-
-<a href="#viafoura-comments">
-    
-<svg>
-<path></path>
-</svg>
-
-
-    <span>18</span>
-</a>
-
-<div>
-Join the conversation
-</div>
-</div>
-</div>
-<div>
-<div>
-<a href="https://google.com/preferences/source?q=livescience.com">
-<svg>
-<path></path>
-<path></path>
-<path></path>
-<path></path>
-</svg>
-Follow us
-</a>
-<div>
-Add us as a preferred source on Google
-</div>
-</div>
-<div>
-<button>
-<svg>
-<path></path>
-</svg>
-Newsletter
-</button>
-<div>
-<div>
-<button>
-<svg>
-<path></path>
-</svg>
-</button>
-<div>
-<svg><title>Live Science</title><g><g><path></path></g><g><path></path></g></g></svg>
-</div>
-<div>
-<div>Get the Live Science Newsletter</div>
-<p>Get the world’s most fascinating discoveries delivered straight to your inbox.</p>
-<div>
-<form>
-<div>
-<input>
-<label>
-<input>
-<p>Become a Member in Seconds</p>
-<p> Unlock instant access to exclusive member features.</p>
-</label>
-<label>
-<input>
-Contact me with news and offers from other Future brands
-</label>
-<label>
-<input>
-Receive email from us on behalf of our trusted partners or sponsors
-</label>
-<input>
-</div>
-<div>
-<svg>
-<path></path>
-<path></path>
-</svg>
-</div>
-<span></span>
-</form>
-<hr>
-<div>
-By submitting your information you agree to the <a href="https://futureplc.com/terms-conditions/">Terms &amp; Conditions</a> and <a href="https://futureplc.com/privacy-policy/">Privacy Policy</a> and are aged 16 or over.
-</div>
-</div>
-</div>
-<div>
-<p>You are now subscribed</p>
-<p>Your newsletter sign-up was successful</p>
-<div>
-<hr>
-<p>Want to add more newsletters?</p>
-<div>
-<div>
-<div>
-<picture>
-<source>
-<img src="https://cdn.mos.cms.futurecdn.net/faFLbXaTyahFZDTeFefhN9.jpg" alt="Daily Newsletter">
-</source></picture>
-<div>
-<h2>Delivered Daily</h2>
-<h3>
-Daily Newsletter</h3>
-<p>Sign up for the latest discoveries, groundbreaking research and fascinating breakthroughs that impact you and the wider world direct to your inbox.</p>
-<button>Signup +</button>
-</div>
-</div>
-<div>
-<picture>
-<source>
-<img src="https://cdn.mos.cms.futurecdn.net/Vikzz54ZHkr7YdtP8LSvth.jpg" alt="Life&amp;#039;s Little Mysteries">
-</source></picture>
-<div>
-<h2>Once a week</h2>
-<h3>
-Life's Little Mysteries</h3>
-<p>Feed your curiosity with an exclusive mystery every week, solved with science and delivered direct to your inbox before it's seen anywhere else.</p>
-<button>Signup +</button>
-</div>
-</div>
-<div>
-<picture>
-<source>
-<img src="https://cdn.mos.cms.futurecdn.net/uxBe4KqdApV4yBveZpXaRn.jpg" alt="How It Works">
-</source></picture>
-<div>
-<h2>Once a week</h2>
-<h3>
-How It Works</h3>
-<p>Sign up to our free science &amp; technology newsletter for your weekly fix of fascinating articles, quick quizzes, amazing images, and more</p>
-<button>Signup +</button>
-</div>
-</div>
-<div>
-<picture>
-<source>
-<img src="https://cdn.mos.cms.futurecdn.net/vfpcxVDrtfCysGSjzYjeSg.png" alt="Space.com Newsletter">
-</source></picture>
-<div>
-<h2>Delivered daily</h2>
-<h3>
-Space.com Newsletter</h3>
-<p>Breaking space news, the latest updates on rocket launches, skywatching events and more!</p>
-<button>Signup +</button>
-</div>
-</div>
-<div>
-<picture>
-<source>
-<img src="https://cdn.mos.cms.futurecdn.net/tjzmFi262iKuxrcCtSghKg.jpg" alt="Watch This Space">
-</source></picture>
-<div>
-<h2>Once a month</h2>
-<h3>
-Watch This Space</h3>
-<p>Sign up to our monthly entertainment newsletter to keep up with all our coverage of the latest sci-fi and space movies, tv shows, games and books.</p>
-<button>Signup +</button>
-</div>
-</div>
-<div>
-<picture>
-<source>
-<img src="https://cdn.mos.cms.futurecdn.net/qsHaEcQ6H695rhBoNZdK5g.jpg" alt="Night Sky This Week">
-</source></picture>
-<div>
-<h2>Once a week</h2>
-<h3>
-Night Sky This Week</h3>
-<p>Discover this week's must-see night sky events, moon phases, and stunning astrophotos. Sign up for our skywatching newsletter and explore the universe with us!</p>
-<button>Signup +</button>
-</div>
-</div>
-<div></div>
-</div>
-</div>
-</div>
-<div>
-<hr>
-<div>
-<h2>Join the club</h2>
-<p>Get full access to premium articles, exclusive features and a growing list of member rewards.</p>
-<button><a href="https://www.livescience.com/membership">Explore</a></button>
-</div>
-</div>
-<div>
-<hr>
-<div>
-<div> An account already exists for this email address, please log in.</div>
-<input>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div>
-Subscribe to our newsletter
-</div>
-</div>
-</div>
-</div>
-<p>Jupiter is slightly smaller and flatter than scientists thought for decades, a new study finds.</p><div></div><p>Researchers used radio data from the Juno spacecraft to refine measurements of the <a href="https://www.livescience.com/tag/solar-system">solar system</a>'s largest planet. Although the differences between the current and previous measurements are small, they are improving models of Jupiter's interior and of other gas giants like it outside the solar system, the team reported Feb. 2 in the journal <a href="https://go.redirectingat.com?id=92X1590019&amp;xcust=livescience_us_1304820081682730835&amp;xs=1&amp;url=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41550-026-02777-x&amp;sref=https%3A%2F%2Fwww.livescience.com%2Fspace%2Fplanets%2Ftextbooks-will-need-to-be-updated-jupiter-is-smaller-and-flatter-than-we-thought-juno-spacecraft-reveals"><u>Nature Astronomy</u></a>.</p><a></a><aside></aside><p>"Textbooks will need to be updated," study co-author<a href="https://www.weizmann.ac.il/EPS/kaspi/home-0"> <u>Yohai Kaspi</u></a>, a planetary scientist at the Weizmann Institute of Science in Israel, said in a <a href="https://wis-wander.weizmann.ac.il/space-physics/giant-planet%E2%80%99s-slimmer-profile"><u>statement</u></a>. "The size of Jupiter hasn't changed, of course, but the way we measure it has."</p><div></div><aside>
-<span>
-You may like
-</span>
-<ul>
-<li>
-<a href="https://www.livescience.com/space/jupiter/spiders-on-jupiter-scientists-uncover-secret-origins-of-arachnid-like-demon-lurking-on-gas-giants-moon">
-<picture>
-<source>
-<img src="https://cdn.mos.cms.futurecdn.net/6fRQWtdWFuCPZFJZ6z73We-840-80.jpg" alt="A photo of Europa&amp;#039;s surface with a red ring around the spider-like feature">
-</source></picture>
-<span>Spiders on Jupiter? Scientists uncover secret origins of arachnid-like 'demon' lurking on gas giant's moon.</span>
-</a>
-</li>
-<li>
-<a href="https://www.livescience.com/space/planets/uranus-and-neptune-may-be-rock-giants-not-ice-giants-new-model-of-their-cores-suggests">
-<picture>
-<source>
-<img src="https://cdn.mos.cms.futurecdn.net/xWpnVwHji2zhBE67LGeaNd-840-80.jpg" alt="Neptune (left) and Uranus (right) might be rockier than they seem">
-</source></picture>
-<span>Uranus and Neptune may be 'rock giants,' not 'ice giants,' new model of their cores suggests</span>
-</a>
-</li>
-<li>
-<a href="https://www.livescience.com/space/exoplanets/strange-discovery-offers-missing-link-in-planet-formation-this-fundamentally-changes-how-we-think-about-planetary-systems">
-<picture>
-<source>
-<img src="https://cdn.mos.cms.futurecdn.net/noDHiPWjZrWruXW3c6omc9-840-80.jpg" alt="An illustration of four blue protoplanets swirling around a young yellow star">
-</source></picture>
-<span>Strange discovery offers 'missing link' in planet formation</span>
-</a>
-</li>
-</ul>
-</aside><div>
-<div>
-<div>
-<div></div>
-</div>
-</div>
-</div><p>Until now, scientists' understanding of Jupiter's size and shape have been based on six measurements performed by the Voyager 1 and 2 and Pioneer 10 and 11 missions. Those measurements, which have since been adopted as standard, were performed around 50 years ago using radio beams, according to the statement.</p><div></div><p>But the Juno mission, which has been gathering data on Jupiter and its moons since it arrived at the gas giant in 2016, has collected much more of this radio data in the past two years. With that additional data, researchers have now refined measurements of Jupiter's size down to about 1,300 feet (400 meters) in each direction.</p><p>"Just by knowing the distance to Jupiter and watching how it rotates, it's possible to figure out its size and shape," Kaspi said. "But making really accurate measurements calls for more sophisticated methods."</p><figure><div><div><p> <picture>
-<source>
-<img src="https://cdn.mos.cms.futurecdn.net/a5oU4ojhjbFSRJCUgLnsZN.jpg" alt="Graphic showing Jupiter as a circle, with a line indicating the previous and current estimates of Jupiter&amp;#039;s size.">
-</source></picture></p></div></div><figcaption><span>An illustration of Jupiter showing the discrepancy between Juno’s observations and those of the Voyager and Pioneer probes. </span><span>(Image credit: Weizmann Institute of Science)</span></figcaption></figure><a></a><h2>Bending light</h2><p>In the new study, the scientists tracked how the radio signals from Juno back to Earth bent as they passed through Jupiter's atmosphere, before cutting out when the planet blocked the signal entirely. Those measurements allowed the team to account for Jupiter's winds, which slightly alter the shape of the gaseous planet. Then, they used that information to make precise calculations of the planet's shape and size.</p><script>
-    window.sliceComponents = window.sliceComponents || {};
-
-    externalsScriptLoaded.then(() => {
-        window.reliablePageLoad.then(() => {
-            var componentContainer = document.querySelector("#slice-container-newsletterForm-articleInbodyContent-VbTRgeKggVW68Nqj8qC8GT");
-
-            if (componentContainer) {
-                var data = {"layout":"inbodyContent","header":"Sign up for the Live Science daily newsletter now","tagline":"Get the world\u2019s most fascinating discoveries delivered straight to your inbox.","formFooterText":"By submitting your information you agree to the <a href=\"https:\/\/futureplc.com\/terms-conditions\/\" target=\"_blank\">Terms & Conditions<\/a> and <a href=\"https:\/\/futureplc.com\/privacy-policy\/\" target=\"_blank\">Privacy Policy<\/a> and are aged 16 or over.","successMessage":{"body":"Thank you for signing up. You will receive a confirmation email shortly."},"failureMessage":"There was a problem. Please refresh the page and try again.","method":"POST","inputs":[{"type":"hidden","name":"NAME"},{"type":"email","name":"MAIL","placeholder":"Your Email Address","required":true},{"type":"hidden","name":"NEWSLETTER_CODE","value":"XLS-D"},{"type":"hidden","name":"LANG","value":"EN"},{"type":"hidden","name":"SOURCE","value":"60"},{"type":"hidden","name":"COUNTRY"},{"type":"checkbox","name":"CONTACT_OTHER_BRANDS","label":{"text":"Contact me with news and offers from other Future brands"}},{"type":"checkbox","name":"CONTACT_PARTNERS","label":{"text":"Receive email from us on behalf of our trusted partners or sponsors"}},{"type":"submit","value":"Sign me up","required":true}],"endpoint":"https:\/\/newsletter-subscribe.futureplc.com\/v2\/submission\/submit","analytics":[{"analyticsType":"widgetViewed"}],"ariaLabels":{}};
-
-                var triggerHydrate = function() {
-                    window.sliceComponents.newsletterForm.hydrate(data, componentContainer);
-                }
-
-                if (window.lazyObserveElement) {
-                    window.lazyObserveElement(componentContainer, triggerHydrate);
-                } else {
-                    triggerHydrate();
-                }
-            }
-        }).catch(err => console.error('%c FTE ','background: #9306F9; color: #ffffff','Hydration Script has failed for newsletterForm-articleInbodyContent-VbTRgeKggVW68Nqj8qC8GT Slice', err));
-    }).catch(err => console.error('%c FTE ','background: #9306F9; color: #ffffff','Externals script failed to load', err));
-</script><div><div><div><section><div>Sign up for the Live Science daily newsletter now</div></section><section><p>Get the world’s most fascinating discoveries delivered straight to your inbox.</p><form><input><input><input><input><input><input><label><input><span>Contact me with news and offers from other Future brands</span></label><label><input><span>Receive email from us on behalf of our trusted partners or sponsors</span></label><input></form><footer>By submitting your information you agree to the <a href="https://futureplc.com/terms-conditions/">Terms &amp; Conditions</a> and <a href="https://futureplc.com/privacy-policy/">Privacy Policy</a> and are aged 16 or over.</footer></section></div></div></div><p>With the new data, the team calculated that the planet's radius from its pole to its center is 41,534 miles (66,842 km) — 7.5 miles (12 km) smaller than previous measurements. The newly calculated radius at the equator is 44,421 miles (71,488 km) — 2.5 miles (4 km) smaller than previously thought.</p><p>"These few kilometers matter," study co-author<a href="https://www.weizmann.ac.il/EPS/Galanti/home"> <u>Eli Galanti</u></a>, an expert on gas giants at the Weizmann Institute of Science, said in the statement. "Shifting the radius by just a little lets our models of Jupiter's interior fit both the gravity data and atmospheric measurements much better."</p><div><div>related stories</div><div><p>—<a href="https://www.livescience.com/space/jupiter/jupiter-is-shrinking-and-used-to-be-twice-as-big-mind-boggling-study-reveals">Jupiter is shrinking and used to be twice as big, mind-boggling study reveals</a></p><p>—<a href="https://www.livescience.com/space/jupiter/spiders-on-jupiter-scientists-uncover-secret-origins-of-arachnid-like-demon-lurking-on-gas-giants-moon">Spiders on Jupiter? Scientists uncover secret origins of arachnid-like 'demon' lurking on gas giant's moon</a></p><p>—<a href="https://www.livescience.com/space/jupiter/is-jupiters-great-red-spot-an-impostor-giant-storm-may-not-be-the-original-one-discovered-350-years-ago">Is Jupiter's Great Red Spot an impostor? Giant storm may not be the original one discovered 350 years ago</a></p></div></div><p>The updated measurements will improve our understanding of Jupiter's interior, as well as help scientists interpret data from gas giants beyond the solar system, the researchers wrote in the study.</p><p>"This research helps us understand how planets form and evolve," Kaspi said in the statement. "Jupiter was likely the first planet to form in the solar system, and by studying what's happening inside it, we get closer to understanding how the solar system, and planets like ours, came to be."</p><div>
-<div>
-<div>
-<svg>
-<path></path>
-</svg>
-<span>Article Sources</span>
-</div>
-<p>Galanti, E., Smirnova, M., Ziv, M., Fonsetti, M., Caruso, A., Buccino, D. R., Hubbard, W. B., Militzer, B., Bolton, S. J., Guillot, T., Helled, R., Levin, S. M., Parisi, M., Park, R. S., Steffes, P., Tortora, P., Withers, P., Zannoni, M., &amp; Kaspi, Y. (2026). The size and shape of Jupiter. <em>Nature</em>. <a href="https://go.redirectingat.com?id=92X1590019&amp;xcust=livescience_us_5683901432468757780&amp;xs=1&amp;url=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41550-026-02777-x&amp;sref=https%3A%2F%2Fwww.livescience.com%2Fspace%2Fplanets%2Ftextbooks-will-need-to-be-updated-jupiter-is-smaller-and-flatter-than-we-thought-juno-spacecraft-reveals">https://doi.org/10.1038/s41550-026-02777-x</a></p>
-</div>
-</div>
-</div>
-
-        ]]></content:encoded><guid isPermaLink="false">https://clicks.mozilla.org/f/a/jRWnezDk5aPRtjjZXH91JA~~/AAQRxRA~/X3qWuaL-yrXfuPOpQth48sUA3KzFaHl0mU8fR4paaea1kp1mPOVJH0N8tjnfHoMbx3BexiDpYJukfrrYToN2vk00u9y2ulpfXV1BdS6Z-l1a5ZJFU9k4pZC9hnAolm6hy_khEkVWCN-uRlCKBOjQiwIuMyn0IOBr4nTyJ9-lAJixtNAxpZvD51c34fRcsfQAPQhwaDoGFsAf72gdLfaYUh-Qnino8xsAvs_yNXtjLxRTE_F2b7U7HRT6-U48pqr36cMoXQ5OH6o5JYrSHW7tJjHxSVWQJBFo-1SBb0iBlh26msrQB-YTYgzZGz4cLoIbsDQKZDg6olk7H9ESiYMvYG0qOdbK91b57p_5cDaAjCj-EKF6t_zfrbkyBJ8WXWYqyTEd5UdaLcJ3Hns9zTO9A65fkFexjkR7SBLzRSj70mnhe_HIj8-pXOPuPhzLXY9pEuC0fC0uaklZhZtvwYRwQ_Ky7BB0UO9J_DXHhagCfOKFTDRLx8qvi_Sn6mIG4Q5mFaxgvACXtruQy3jZKAD-1BtDB8G1mLGUGOayjbvDvAVn1l5p55Y5NYLP9OJ6Upvx4lkKIURFHBKF_uUFm-PEBLjWe_gEnr0sHfTvkMQrq7aD_-QzkIv6Et3qCc7s4jIbLhDe8zqHo_T5fH2WBADkuWUan_tmfZMLJLG3sggnCgmsOnyKSw7fEf98IVFa_dxD9nC1wSmY-HisDjBK41i6JQ~~</guid><pubDate>Wed, 04 Feb 2026 10:00:00 +0000</pubDate></item><item><title>‎Firefox: Private Web Browser App</title><link>https://clicks.mozilla.org/f/a/iW6Aj_xQIDg5HWueFIl7Kg~~/AAQRxRA~/CJTZXBqlhS1olwdc-dWZLuijf3-kMqwPN69ZrpAnTHZo53tLLZlxtHgGRWgzqv9zGsJMTQqFinX_79DefJLg7l1YG_bGBeCgUUYYMAx8uorAmdZyLorJvJh9y1COP-OkBo6lSYFQLwMuLgdYPIpyJiGVmj3DmnTiZb8dHzeyG4PlbdqnIGXudaodwM0Vf41nThuXAR_jOm_-jfu6caL5xg~~</link><description>
-        &lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; This article outlines the version history and release notes for the Firefox iOS app from version 144.2 to 147.3. Significant updates include the introduction of on-device translations, integration of Perplexity AI into the search bar, UI enhancements for a cleaner look, and various stability and performance fixes.&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Firefox,iOS,Mozilla,Web Browser,Software Updates&lt;/p&gt;
-        &lt;p&gt;
-            &lt;strong&gt;Source:&lt;/strong&gt; clicks.mozilla.org&lt;br/&gt;
-            &lt;strong&gt;Author:&lt;/strong&gt; Mozilla&lt;br/&gt;
-            &lt;strong&gt;Reading Time:&lt;/strong&gt; ~6 min
-        &lt;/p&gt;
-        &lt;img src='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/92/c6/5092c6f1-bdc7-78b9-bd48-2385a61e33e2/Placeholder.mill/1200x630wa.jpg' style='max-width:100%;'/&gt;
-        &lt;br/&gt;
-        &lt;p&gt;&lt;small&gt;Via: Can You Rewire Your Brain?&lt;/small&gt;&lt;/p&gt;
-        </description><content:encoded><![CDATA[
-        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
-            <p><strong>Summary:</strong> This article outlines the version history and release notes for the Firefox iOS app from version 144.2 to 147.3. Significant updates include the introduction of on-device translations, integration of Perplexity AI into the search bar, UI enhancements for a cleaner look, and various stability and performance fixes.</p>
-            <p>
-                <strong>Source:</strong> clicks.mozilla.org<br/>
-                <strong>Author:</strong> Mozilla<br/>
-                <strong>Reading Time:</strong> ~6 min
-            </p>
-        </div>
-        <img src='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/92/c6/5092c6f1-bdc7-78b9-bd48-2385a61e33e2/Placeholder.mill/1200x630wa.jpg' style='max-width:100%; margin-bottom: 20px;'/>
-        <hr/>
-        <ul><div><p><!-- HTML_TAG_START -->The developer, <b>Mozilla</b>, indicated that the app’s privacy practices may include handling of data as described below. This information has not been verified by Apple. For more information, see the <!-- HTML_TAG_END -->  <a href="http://www.mozilla.org/legal/privacy/firefox.html">developer’s privacy policy   </a><span>.</span></p> <div><p><!-- HTML_TAG_START -->To help you better understand the developer’s responses, see <!-- HTML_TAG_END -->  <a href="https://apps.apple.com/us/iphone/story/id1539235847">Privacy Definitions and Examples </a><span>.</span> </p><p><!-- HTML_TAG_START -->Privacy practices may vary, for example, based on the features you use or your age. <!-- HTML_TAG_END -->  <a href="https://apps.apple.com/us/iphone/story/id1538632801">Learn More </a><!-- HTML_TAG_START --><!-- HTML_TAG_END --> </p></div> </div>  <article><span>      <svg><path></path><path></path><path></path></svg></span> <h2>Data Linked to You</h2> <p>The following data, which may be collected and linked to your identity, may be used for the following purposes:</p> <ul></ul> <section><h3>App Functionality</h3> <li><span>      <svg><path></path><path></path><path></path></svg> </span> <span>Contact Info</span> <ul><li>Email Address</li><li>Name</li></ul> </li> </section> </article><article><span>      <svg><path></path></svg></span> <h2>Data Not Linked to You</h2> <p>The following data, which may be collected but is not linked to your identity, may be used for the following purposes:</p> <ul></ul> <section><h3>Analytics</h3> <li><span>      <svg><path></path></svg> </span> <span>Identifiers</span> <ul><li>User ID</li></ul> </li><li><span>      <svg><path></path><path></path></svg> </span> <span>Usage Data</span> <ul><li>Product Interaction</li><li>Advertising Data</li></ul> </li><li><span>      <svg><path></path><path></path></svg> </span> <span>Diagnostics</span> <ul><li>Crash Data</li><li>Performance Data</li><li>Other Diagnostic Data</li></ul> </li> </section><section><h3>App Functionality</h3> <li><span>      <svg><path></path></svg> </span> <span>Identifiers</span> <ul><li>User ID</li></ul> </li><li><span>      <svg><path></path><path></path></svg> </span> <span>Diagnostics</span> <ul><li>Crash Data</li><li>Performance Data</li><li>Other Diagnostic Data</li></ul> </li> </section> </article></ul>
-        ]]></content:encoded><guid isPermaLink="false">https://clicks.mozilla.org/f/a/iW6Aj_xQIDg5HWueFIl7Kg~~/AAQRxRA~/CJTZXBqlhS1olwdc-dWZLuijf3-kMqwPN69ZrpAnTHZo53tLLZlxtHgGRWgzqv9zGsJMTQqFinX_79DefJLg7l1YG_bGBeCgUUYYMAx8uorAmdZyLorJvJh9y1COP-OkBo6lSYFQLwMuLgdYPIpyJiGVmj3DmnTiZb8dHzeyG4PlbdqnIGXudaodwM0Vf41nThuXAR_jOm_-jfu6caL5xg~~</guid><pubDate>Tue, 01 Nov 2022 18:06:44 +0000</pubDate></item><item><title>Anthropic Pinky-Promises It Won't Add Ads to Claude</title><link>https://www.cnet.com/tech/services-and-software/anthropic-promises-no-ads-claude-super-bowl</link><description>
-        &lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Anthropic has pledged to keep its chatbot, Claude, ad-free, positioning itself against competitor OpenAI, which recently announced plans to test sponsored posts. While both companies face significant financial pressure from high compute costs, Anthropic argues that advertisements could compromise user trust and safety by influencing AI responses. Despite these promises, industry experts remain skeptical, noting that many tech companies eventually succumb to the financial allure of advertising revenue.&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Anthropic,OpenAI,Claude,Artificial Intelligence,Digital Advertising&lt;/p&gt;
-        &lt;p&gt;
-            &lt;strong&gt;Source:&lt;/strong&gt; www.cnet.com&lt;br/&gt;
-            &lt;strong&gt;Author:&lt;/strong&gt; Katelyn Chedraoui, See full bio&lt;br/&gt;
-            &lt;strong&gt;Reading Time:&lt;/strong&gt; ~2 min
-        &lt;/p&gt;
-        &lt;img src='https://www.cnet.com/a/img/resize/612474b23c9e8389abb9a351e7f8abd70c8070e7/hub/2025/08/29/1c3102e0-a439-4e66-b5da-7757c969fd80/claude-6.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200' style='max-width:100%;'/&gt;
-        &lt;br/&gt;
-        &lt;p&gt;&lt;small&gt;Via: Your Thursday tech briefing&lt;/small&gt;&lt;/p&gt;
-        </description><content:encoded><![CDATA[
-        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
-            <p><strong>Summary:</strong> Anthropic has pledged to keep its chatbot, Claude, ad-free, positioning itself against competitor OpenAI, which recently announced plans to test sponsored posts. While both companies face significant financial pressure from high compute costs, Anthropic argues that advertisements could compromise user trust and safety by influencing AI responses. Despite these promises, industry experts remain skeptical, noting that many tech companies eventually succumb to the financial allure of advertising revenue.</p>
-            <p>
-                <strong>Source:</strong> www.cnet.com<br/>
-                <strong>Author:</strong> Katelyn Chedraoui, See full bio<br/>
-                <strong>Reading Time:</strong> ~2 min
-            </p>
-        </div>
-        <img src='https://www.cnet.com/a/img/resize/612474b23c9e8389abb9a351e7f8abd70c8070e7/hub/2025/08/29/1c3102e0-a439-4e66-b5da-7757c969fd80/claude-6.jpg?auto=webp&fit=crop&height=675&width=1200' style='max-width:100%; margin-bottom: 20px;'/>
-        <hr/>
-        <article><p>In the latest chapter of Anthropic's "We're not like the other guys" campaign, the AI company is <a href="https://www.anthropic.com/news/claude-is-a-space-to-think" title="(opens in a new window)">pledging</a> not to introduce advertisements into conversations with its chatbot, Claude. And it's spending big on <a href="https://www.cnet.com/tech/services-and-software/watch-super-bowl-2026-ads-before-big-game/">Super Bowl ads</a> to make sure you know that fact.</p><!----><div><div title="Can I get a six pack quickly?"></div></div><p>Anthropic's announcement takes a clear shot at competitor OpenAI. The ChatGPT-maker said a few weeks ago that it would <span><a href="/tech/services-and-software/chatgpt-ads-coming-soon-for-free-and-new-8-go-tier-users/"><span>begin testing ads</span></a></span> in its products that will be "clearly marked" as sponsored posts. The company also said that ads wouldn't be served around sensitive or regulated topics, like mental health and politics. </p><div><!----></div><div><!----></div><p>The news was a stark reversal from previous statements -- OpenAI CEO Sam Altman had <a href="https://youtu.be/FVRHTWWEIz4?si=7U7GQYb5DXFHX1Be&amp;t=2385" title="(opens in a new window)">called</a> ads a "last resort" in 2024.  But it wasn't entirely unexpected, given the general chaos of the AI industry's financing.</p><p>For a long time, AI startups operated at a loss, spending billions of dollars from venture capitalists and others to build their chatbots without turning a profit. OpenAI and many others now have a <a href="https://www.bloomberg.com/graphics/2026-ai-circular-deals/" title="(opens in a new window)">complex web of circular deals</a> to keep the lights on, but newer advanced models require more compute, better chips and generally more maintenance and money to keep up. Anthropic certainly isn't immune to these financial pressures; the company is the the process of securing a new <a href="https://www.wsj.com/tech/ai/anthropic-raising-10-billion-at-350-billion-value-62af49f4?mod=breakingnews" title="(opens in a new window)">$10 billion funding deal</a>. </p><div><!----></div><div><!----></div><p>That's why AI companies are seeking new revenue streams. Hence the ads.</p><figure><a href="https://www.cnet.com/ai-atlas/"><!----> <div><picture><source alt="AI Atlas"><source alt="AI Atlas"><source alt="AI Atlas"> <img src alt="AI Atlas"></source></source></source></picture></div> <!----> <!----></a> <!----></figure><p>The concern with including ads in chatbots (beyond general irritation) is that it will push products at the expense of helping users. There's also the risk that tech companies will prioritize advertising metrics and revenue over safety or user autonomy. Anthropic wrote, "Users shouldn't have to second-guess whether an AI is genuinely helping them or subtly steering the conversation towards something monetizable." </p><div><!----></div><div><!----></div><p>In a lengthy post on X, Altman <a href="https://x.com/sama/status/2019139174339928189?s=20" title="(opens in a new window)">said</a> he found the ads funny but felt they mischaracterized the company's approach to advertising. "We would obviously never run ads in the way Anthropic depicts them. We are not stupid and we know our users would reject that," he wrote.</p><p>Anthropic, for its part, has been very outspoken about the risks posed by AI technology, so it's not surprising to hear the company weigh in on this issue. CEO Dario Amodei has spoken <a href="https://www.axios.com/2026/01/26/anthropic-ai-dario-amodei-humanity" title="(opens in a new window)">at length</a> about the potential threat that AI systems may pose to humanity. </p><p>But we have a wealth of examples to draw on -- streaming services, smart TVs and now chatbots -- where tech companies tried and eventually failed to resist the allure of advertiser money. We can never say never. Anthropic didn't.</p></article>
-        ]]></content:encoded><guid isPermaLink="false">https://www.cnet.com/tech/services-and-software/anthropic-promises-no-ads-claude-super-bowl</guid><pubDate>Wed, 04 Feb 2026 20:38:00 +0000</pubDate></item><item><title>New Site Lets AI Rent Human Bodies</title><link>https://futurism.com/artificial-intelligence/ai-rent-human-bodies</link><description>
-        &lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Error generating summary.&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; &lt;/p&gt;
-        &lt;p&gt;
-            &lt;strong&gt;Source:&lt;/strong&gt; futurism.com&lt;br/&gt;
-            &lt;strong&gt;Author:&lt;/strong&gt; Joe Wilkins&lt;br/&gt;
-            &lt;strong&gt;Reading Time:&lt;/strong&gt; ~3 min
-        &lt;/p&gt;
-        &lt;img src='https://futurism.com/wp-content/uploads/2026/02/ai-rent-human-bodies.jpg?quality=85&amp;w=1200' style='max-width:100%;'/&gt;
-        &lt;br/&gt;
-        &lt;p&gt;&lt;small&gt;Via: Your Thursday tech briefing&lt;/small&gt;&lt;/p&gt;
-        </description><content:encoded><![CDATA[
-        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
-            <p><strong>Summary:</strong> Error generating summary.</p>
-            <p>
-                <strong>Source:</strong> futurism.com<br/>
-                <strong>Author:</strong> Joe Wilkins<br/>
-                <strong>Reading Time:</strong> ~3 min
-            </p>
-        </div>
-        <img src='https://futurism.com/wp-content/uploads/2026/02/ai-rent-human-bodies.jpg?quality=85&w=1200' style='max-width:100%; margin-bottom: 20px;'/>
-        <hr/>
-        <div>
-		
-<p>The machines aren’t just coming for your jobs. Now, they want your bodies as well.</p>
-
-
-
-<p>That’s at least the hope of Alexander Liteplo, a software engineer and founder of RentAHuman.ai, a platform for AI agents to “search, book, and pay humans for physical-world tasks.”</p>
-
-
-
-<p>When Liteplo launched RentAHuman on Monday, <a href="https://x.com/AlexanderTw33ts/status/2018436050935292276">he boasted</a> that he already had over 130 people listed on the platform, including an OnlyFans model and the CEO of an AI startup, a claim which couldn’t be verified. Two days later, the site boasted over 73,000 rentable meatwads, though only 83 profiles were visible to us on its “browse humans” tab, Liteplo included.</p>
-
-
-
-<p>The pitch is simple: “robots need your body.” For humans, it’s as simple as making a profile, advertising skills and location, and setting an hourly rate. Then AI agents — <a href="https://futurism.com/professors-company-ai-agents">autonomous taskbots</a> ostensibly employed by humans — contract these humans out, depending on the tasks they need to get done. The humans then “do the thing,” taking instructions from the AI bot and submitting proof of completion. The humans are then paid through crypto, namely “stablecoins or other methods,” per the website.</p>
-
-
-
-<p>With so many AI agents <a href="https://www.techpolicy.press/ai-agents-are-rewriting-the-webs-rules-of-engagement-heres-a-way-to-fix-it/">slithering around the web</a> these days, those tasks could be just about anything. From package pickups and shopping to product testing and event attendance, Liteplo is banking on there being enough demand from AI agents to create a robust gig-work ecosystem.</p>
-
-
-
-<p>Liteplo also went out of his way to make the site friendly for AI agents. The site very prominently encourages users of AI agents to hook into RentAHuman’s <a href="https://venturebeat.com/data-infrastructure/anthropic-releases-model-context-protocol-to-standardize-ai-data-integration">model context protocol server</a> (MCP), a universal interface for AI bots to interact with web data.</p>
-
-
-
-<p>Through RentAHuman, AI agents like Claude and MoltBot<strong> </strong>can either hire the right human directly, or post a “task bounty,” a sort of job board for humans to browse AI-generated gigs. The payouts range from $1 for simple tasks like “subscribe to my human on Twitter” to $100 for more elaborate humiliation rituals, like posting a photo of yourself holding a sign reading “AN AI PAID ME TO HOLD THIS SIGN.”</p>
-
-
-
-<p>It’s unclear how efficient the marketplace is at actually connecting agents to humans. Despite receiving 30 applications, one task, “pick up a package from downtown USPS” in San Francisco for $40, has yet to be fulfilled after two days.</p>
-
-
-
-<p>It’s also debatable whether AI agents are <a href="https://futurism.com/artificial-intelligence/ai-agents-incapable-math">actually capable</a> of putting the humans to good use. Still, Liteplo’s vision is clear: someday soon, anyone wealthy enough to run an AI agent for $25 a day could outsource their busywork to gig workers without ever exchanging a word. A version of this exploitative labor model is already <a href="https://restofworld.org/2025/onlyfans-ai-dm-bots/">rampant on OnlyFans</a> — which may be why at least one model has made the jump to Liteplo’s platform — and is now threatening to creep into everything else.</p>
-
-
-
-<p>Like many AI grifters these days, Liteplo shields himself in ironic self-awareness. When one person called RentAHuman a “good idea but dystopic as f**k,” the founder <a href="https://x.com/AlexanderTw33ts/status/2018655122960834710?s=20">replied simply</a>: “lmao yep.”</p>
-
-
-
-<p><strong>More on AI: </strong><em><a href="https://futurism.com/artificial-intelligence/mercor-unemployed-teach-ai">Tech Startup Hiring Desperate Unemployed People to Teach AI to Do Their Old Jobs</a></em><br></p>
-	</div>
-	
-        ]]></content:encoded><guid isPermaLink="false">https://futurism.com/artificial-intelligence/ai-rent-human-bodies</guid><pubDate>Wed, 04 Feb 2026 16:05:00 -0500</pubDate></item><item><title>The volunteer Wikipedia army protecting against AI slop</title><link>https://restofworld.org/2026/wikipedia-ai-training-regional-languages</link><description>
-        &lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; The Wikimedia Foundation has partnered with major AI companies like Meta and Microsoft to provide high-quality, human-governed data for training large language models. This has placed a double burden on volunteer editors, especially for regional languages like Telugu and Malayalam, who must now supply credible content while simultaneously defending Wikipedia against the influx of AI-generated misinformation and 'slop.'&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Wikipedia,Artificial Intelligence,Wikimedia Foundation,Content Moderation,Regional Languages&lt;/p&gt;
-        &lt;p&gt;
-            &lt;strong&gt;Source:&lt;/strong&gt; restofworld.org&lt;br/&gt;
-            &lt;strong&gt;Author:&lt;/strong&gt; Ananya Bhattacharya, Itika Sharma Punit, Hazel Gandhi, Yi-Ling Liu&lt;br/&gt;
-            &lt;strong&gt;Reading Time:&lt;/strong&gt; ~4 min
-        &lt;/p&gt;
-        &lt;img src='https://restofworld.org/wp-content/uploads/2026/02/glitch-image-1770284498-1-1600x900.png' style='max-width:100%;'/&gt;
-        &lt;br/&gt;
-        &lt;p&gt;&lt;small&gt;Via: Your Thursday tech briefing&lt;/small&gt;&lt;/p&gt;
-        </description><content:encoded><![CDATA[
-        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
-            <p><strong>Summary:</strong> The Wikimedia Foundation has partnered with major AI companies like Meta and Microsoft to provide high-quality, human-governed data for training large language models. This has placed a double burden on volunteer editors, especially for regional languages like Telugu and Malayalam, who must now supply credible content while simultaneously defending Wikipedia against the influx of AI-generated misinformation and 'slop.'</p>
-            <p>
-                <strong>Source:</strong> restofworld.org<br/>
-                <strong>Author:</strong> Ananya Bhattacharya, Itika Sharma Punit, Hazel Gandhi, Yi-Ling Liu<br/>
-                <strong>Reading Time:</strong> ~4 min
-            </p>
-        </div>
-        <img src='https://restofworld.org/wp-content/uploads/2026/02/glitch-image-1770284498-1-1600x900.png' style='max-width:100%; margin-bottom: 20px;'/>
-        <hr/>
-        <div>
-				<!-- Article Start -->
-				
-<p>As Wikipedia takes on a critical role in shaping artificial intelligence tools, its content moderators are feeling the pressure and responsibility of their task.</p>
-
-
-
-<p>On January 15, Wikimedia Foundation — the nonprofit that runs Wikipedia — announced a string of <a href="https://enterprise.wikimedia.com/blog/wikipedia-25-enterprise-partners/">partnerships with major AI companies</a>, including Amazon, Meta, Microsoft, Mistral AI, and Perplexity, “to integrate human-governed knowledge into their platforms at scale.” The large language models of these AI giants will now gain access to information across several Wikimedia projects, including free encyclopedias in 350 languages, Wikibooks in 75 languages, and the Wiktionary in more than 190 languages.</p>
-
-
-
-<p>Regional-language Wikipedia editors now find themselves doing double duty: feeding AI systems with credible knowledge while also guarding their languages against AI-generated misinformation and low-quality content. Their work could determine how well billions of people can access accurate AI in their own languages.</p>
-
-
-<figure><blockquote><p>Without strong human involvement, AI could actually widen the gap between English and regional-language.”</p></blockquote></figure>
-
-
-<p>“Local contributors understand linguistic subtleties and cultural context that AI simply cannot replicate,” Pranayraj Vangari, a film director and theatre research scholar who has contributed 10,700 articles as a volunteer editor on Telugu Wikipedia over the last 13 years, told <em>Rest of World</em>. “Without strong human involvement, AI could actually widen the gap between English and regional-language Wikipedias instead of narrowing it.” </p>
-
-
-
-<p>When software engineer Ravi Chandra Enaganti started publishing Telugu articles in 2007, the language had barely any representation on the internet. Spoken by 96 million people from southern India, Telugu <a href="http://jatit.org/volumes/Vol103No19/8Vol103No19.pdf">remains underrepresented</a> in AI and natural language processing applications. Enaganti told <em>Rest of World</em> Wikipedia’s latest partnership could help his language overcome another hurdle on the internet.</p>
-
-
-
-<p>“Since Wikipedia is built on verified, reliable sources, it is actually a good thing that AI tools scrape our data rather than non-credible sources,” he said. “I want to ensure the ‘brain’ of the internet is trained on quality content.”</p>
-
-
-
-<p>Over 284,000 editors make more than one edit per month on English-language Wikipedia; <a href="https://en.wikipedia.org/wiki/English_Wikipedia?utm_source=chatgpt.com">30,000 of them</a> make at least five edits per month. Several European-language Wikipedias, like the ones in French and Spanish, also have tens of thousands of editors. Widely spoken Asian languages like Marathi, Telugu, and Tamil, however, only have a few hundred editors.</p>
-
-
-
-<figure><div>
-<iframe title="Wikipedias in the world's most widely spoken languages"></iframe><script>window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
-</div>	<div>
-		<div>
-			<a href="/charts/?utm_medium=row-charts-link">Explore charts &gt;&gt;</a>
-		</div>
-		<button>
-			<svg><use></use></svg>
-		</button>
-	</div></figure>
-
-
-
-<p>AI struggles to answer even basic questions in regional languages, according to Netha Hussain, a physician and researcher working at the Sahlgrenska University Hospital in Gothenburg, Sweden. She has contributed over 300 English-language articles and 100 in Malayalam since 2010. Hussain focuses on fighting misinformation in health care and adding content on underrepresented topics such as women’s health and women’s biographies.</p>
-
-
-
-<p>“As an editor, it is now time for me to not only write articles but also focus more of my time on finding and fixing knowledge gaps, strengthening verifications, [and] maintaining neutrality,” she told <em>Rest of World</em>. </p>
-
-
-
-<p>The Wikimedia Foundation is relying on its global community of volunteer editors to carve its own path.</p>
-
-
-
-<p>“Over many years, these volunteers have developed sophisticated rules and tools for identifying content that does not belong on Wikipedia — taken together, it’s like Wikipedia’s immune system,” Marshall Miller, senior director of product at the Wikimedia Foundation, told <em>Rest of World</em>. “Right now, these volunteers are evolving the immune system to adapt to the newest challenge of low-quality content coming from irresponsibly used generative AI.”</p>
-
-
-
-<p>In many cases, editors are fighting AI with AI tools, Miller said.</p>
-
-
-<figure><blockquote><p>Every language Wikipedia community has set up different processes to address AI-generated content.”</p></blockquote></figure>
-
-
-<p>“Every language Wikipedia community has set up different processes to address AI-generated content on Wikipedia,” he said. “While there are some language communities that leverage AI and machine translation tools to <a href="https://diff.wikimedia.org/2025/05/08/a-decade-of-consistent-improvements-to-the-content-translation-tool-yields-over-two-million-wikipedia-articles/">grow content in regional</a> languages, others are focused on ensuring <a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup">AI content is flagged early</a> on their language Wikipedias.”</p>
-
-
-
-<p>All three contributors told <em>Rest of World </em>they use AI tools like ChatGPT and Gemini to gather ideas for what to write next, or to enhance the structure and linguistic flow of their content, but none of them rely entirely on the chatbots to create posts or fact-check. While AI tools can help with back-end tasks, filter out vandalism, ease discovery, and offer translation, they also pose challenges: AI-generated secondary sources can end up infiltrating Wikipedia as reliable sources, and newer contributors might mass-produce low-quality content.</p>
-
-
-
-<p>“I have come across AI-generated articles filled with generic language, unreliable or fake citations, and confident-sounding claims without proper evidence,” Vangari said.</p>
-
-
-
-<p>Since 2024, volunteers have flagged more than 4,800 articles with suspected AI-generated content, Wikimedia said. About 5% of newly created English-language Wikipedia pages in a single month contained some AI-generated text, an October 2024 <a href="https://arxiv.org/html/2410.08044v1">Princeton University study</a> found. But given the size of the volunteer-editor community, it’s also easier to <a href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup">vet</a> and <a href="https://meta.wikimedia.org/wiki/Research:Patrolling_on_Wikipedia/Report#Specialized_tools">delete</a> slop in English. Regional language editors are facing the same problem with fewer resources.</p>
-
-
-
-<p>In the long run, there’s also the danger that Wikipedia, which is being used to populate AI sources, begins to draw from these sources itself. The doubling up could lead to <a href="https://arxiv.org/pdf/2305.17493">model collapse</a>. </p>
-
-
-
-<p>“We should have robust tools, policies, and practices to mitigate these challenges on Wikipedia,” Hussain said.</p>
-				<!-- Article End -->
-							</div>
-        ]]></content:encoded><guid isPermaLink="false">https://restofworld.org/2026/wikipedia-ai-training-regional-languages</guid><pubDate>Thu, 05 Feb 2026 04:00:00 -0500</pubDate></item><item><title>Winter Olympics 2026: Omega's Quantum Timer Precision</title><link>https://spectrum.ieee.org/winter-olympics-2026-tech</link><description>
-        &lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; The 2026 Winter Olympics in Milan-Cortina will feature advanced sports technology from Omega and Swiss Timing, including 8K cameras and AI algorithms for real-time 3D motion analysis. Innovations such as blade angle detection in figure skating and ski-mounted sensors for jumping aim to provide unprecedented data accuracy for judges, athletes, and broadcasters.&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; 2026 Winter Olympics,Omega,Swiss Timing,Artificial Intelligence,Sports Technology&lt;/p&gt;
-        &lt;p&gt;
-            &lt;strong&gt;Source:&lt;/strong&gt; spectrum.ieee.org&lt;br/&gt;
-            &lt;strong&gt;Author:&lt;/strong&gt; Maurizio Arseni, www.facebook.com&lt;br/&gt;
-            &lt;strong&gt;Reading Time:&lt;/strong&gt; ~4 min
-        &lt;/p&gt;
-        &lt;img src='https://spectrum.ieee.org/media-library/image.jpg?id=63783834&amp;width=1200&amp;height=600&amp;coordinates=0%2C25%2C0%2C5' style='max-width:100%;'/&gt;
-        &lt;br/&gt;
-        &lt;p&gt;&lt;small&gt;Via: Your Thursday tech briefing&lt;/small&gt;&lt;/p&gt;
-        </description><content:encoded><![CDATA[
-        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
-            <p><strong>Summary:</strong> The 2026 Winter Olympics in Milan-Cortina will feature advanced sports technology from Omega and Swiss Timing, including 8K cameras and AI algorithms for real-time 3D motion analysis. Innovations such as blade angle detection in figure skating and ski-mounted sensors for jumping aim to provide unprecedented data accuracy for judges, athletes, and broadcasters.</p>
-            <p>
-                <strong>Source:</strong> spectrum.ieee.org<br/>
-                <strong>Author:</strong> Maurizio Arseni, www.facebook.com<br/>
-                <strong>Reading Time:</strong> ~4 min
-            </p>
-        </div>
-        <img src='https://spectrum.ieee.org/media-library/image.jpg?id=63783834&width=1200&height=600&coordinates=0%2C25%2C0%2C5' style='max-width:100%; margin-bottom: 20px;'/>
-        <hr/>
-        <div><p>From 6-22 February, the 2026 <a href="https://www.olympics.com/en/milano-cortina-2026">Winter Olympics in Milan-Cortina d’Ampezzo</a>, <a href="https://spectrum.ieee.org/tag/italy">Italy</a> will feature not just the world’s top winter athletes but also some of the most advanced sports technologies today. At the <a href="https://www.olympics.com/en/olympic-games/cortina-d-ampezzo-1956">first Cortina Olympics</a> in 1956, the Swiss company <a href="https://en.wikipedia.org/wiki/Omega_SA">Omega</a>—based in <a href="https://en.wikipedia.org/wiki/Biel/Bienne">Biel/Bienne</a>—introduced electronic ski starting gates and launched the first automated timing tech of its kind.</p><p><span>At this year’s Olympics, <a href="https://en.wikipedia.org/wiki/The_Swatch_Group#Sport_and_event_timing">Swiss Timing</a>,</span><span> sister company to Omega under the parent <a href="https://www.swatchgroup.com/en">Swatch Group</a>, unveils a new generation of <a href="https://spectrum.ieee.org/tag/motion-capture"><span><span>motion analysis</span></span></a> and <a href="https://spectrum.ieee.org/tag/computer-vision"><span><span>computer vision</span></span></a> technology. The new technologies on offer include photofinish <a href="https://spectrum.ieee.org/tag/cameras">cameras</a> that capture up to 40,000 images per second. </span></p><p>“We work very closely with athletes,” says <a href="https://www.swisstiming.com/"><span><span>Swiss Timing</span></span></a> CEO <a href="https://www.linkedin.com/in/alain-zobrist-2b3a36a/?originalSubdomain=ch"><span>Alain Zobrist</span></a>, who has overseen Olympic timekeeping since the <a href="https://www.olympics.com/ioc/legacy-torino-2006"><span><span>winter games of 2006 in Torino</span></span></a> “They are the primary customers of our technology and services, and they need to understand how our systems work in order to trust them.”</p><p> <img alt="Live data capture of a figure skater's performance, with a 3D rendering of the athlete, jump heights and more." src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202000%201250'%3E%3C/svg%3E"> <small>Using high-resolution cameras and AI <a href="https://spectrum.ieee.org/tag/algorithms">algorithms</a> tuned to skaters’ routines, Milan-Cortina Olympic officials expect new figure skating tech to be a key highlight of the games.  </small><small>Omega</small></p><h3>Figure Skating Tech Completes the Rotation</h3><p><span><a href="https://www.olympics.com/en/milano-cortina-2026/sports/figure-skating">Figure skating</a></span>, the Winter Olympics’ biggest TV draw, is receiving a substantial upgrade at Milano Cortina 2026.</p><p>Fourteen <a href="https://en.wikipedia.org/wiki/8K_resolution"><span>8K resolution cameras</span></a> positioned around the rink will capture every skater’s movement. <span>“We use proprietary software to interpret the images and visualize athlete movement in a 3D model,” says Zobrist. “AI processes the data so we can track trajectory, position, and movement across all three axes—X, Y, and Z”.</span></p><p><span>The system measures jump heights, air times, and landing speeds in real time, producing heat maps and graphic overlays that break down each program—all instantaneously. “The time it takes for us to measure the data, until we show a matrix on TV with a graphic, this whole chain needs to take less than 1/10 of a second,” Zobrist says.</span></p><p></p><div><div></div></div><p>A range of different <a href="https://spectrum.ieee.org/tag/ai-models">AI models</a> helps the broadcasters and commentators process each skater’s every move on the ice.</p><p><span>“There is an AI that helps our <a href="https://spectrum.ieee.org/tag/computer-vision">computer vision</a> system do pose estimation,” he says. “So we have a camera that is filming what is happening, and an AI that helps the camera understand what it’s looking at. And then there is a second type of AI, which is more similar to a large language model that makes sense of the data that we collect”.</span></p><p>Among the features Swiss Timing’s new systems provide is blade angle detection, which gives judges precise technical data to augment their technical and aesthetic decisions. Zobrist says future versions will also determine whether a given rotation is complete, so that “If the rotation is 355 degrees, there is going to be a deduction,” he says.</p><p>This builds on technology Omega unveiled at the <a href="https://en.wikipedia.org/wiki/2024_Summer_Olympics"><span>2024 Paris Olympics</span></a> for diving, where cameras measured distances between a diver’s head and the board to help judges assess points and penalties to be awarded.</p><p> <img alt="Three dimensional rendering of a ski jumper preparing for dismount on a tall slope." src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202000%201500'%3E%3C/svg%3E"> <small>At the 2026 Winter Olympics, ski jumping will feature both camera-based and sensor-based technologies to make the aerial experience more immediate and real-time. </small><small>Omega</small></p><h3>Ski Jumping Tech Finds Make-or-Break Moments</h3><p>Unlike figure skating’s camera-based approach, <a href="https://www.olympics.com/en/milano-cortina-2026/sports/ski-jumping"><span>ski jumping</span></a> also relies on physical <a href="https://spectrum.ieee.org/search/?q=camera&amp;topic=sensors&amp;order=newest"><span>sensors</span></a>.</p><p>“In ski jumping, we use a small, lightweight sensor attached to each ski, one sensor per ski, not on the athlete’s body,” Zobrist says. The sensors are lightweight and broadcast data on a skier’s speed, acceleration, and positioning in the air. The technology also correlates performance data with wind conditions, revealing environmental factors’ <span>influence on each jump.</span></p><p>High-speed cameras also track each ski jumper. Then, a stroboscopic camera provides body position time-lapses throughout the jump.</p><p>“The first 20 to 30 meters after takeoff are crucial as athletes move into a V position and lean forward,” Zobrist says. “And both the timing and precision of this movement strongly influence performance.”</p><p>The system reveals biomechanical characteristics in real time, he adds, showing how athletes position their bodies during every moment of the takeoff process. The most common mistake in flight position, over-rotation or under-rotation, can now be detailed and diagnosed with precision on every jump.</p><h3>Bobsleigh: Pushing the Line on the Photo Finish</h3><p>This year’s Olympics will also feature a “virtual photo finish,” providing comparison images of when different sleds cross the finish line over previous runs.</p><p> <img alt="Red Omega camera with large lens, under a sleek hood, set against a black background." src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202000%201500'%3E%3C/svg%3E"> <small>Omega’s cameras will provide virtual photo finishes at the 2026 Winter Olympics. </small><small>Omega</small></p><p>“We virtually build a photo finish that shows different sleds from different runs on a single visual reference,” says Zobrist.</p><p>After each run, composite images show the margins separating performances. However, more tried-and-true technology still generates official results. A Swiss Timing score, he says, still comes courtesy of <a href="https://spectrum.ieee.org/a-century-ago-the-optophone-allowed-blind-people-to-hear-the-printed-word">photoelectric cells</a>, devices that emit light beams across the finish line and stop the clock when broken. The company offers its virtual photo finish, by contrast, as a visualization tool for spectators and commentators.</p><p>In bobsleigh, as in every timed Winter Olympic event, the line between triumph and heartbreak is sometimes measured in milliseconds or even shorter time intervals still. Such precision will, Zobrist says, stem from <a href="https://swisswatches-magazine.com/omegas-timekeeping-lab/">Omega’s Quantum Timer</a>.</p><p>“We can measure time to the millionth of a second, so 6 digits after the comma, with a deviation of about 23 nanoseconds over 24 hours,” Zobrist explained. “These devices are constantly calibrated and used across all timed sports.”</p><div></div><div><div>From Your Site Articles</div><ul><li><a href="https://spectrum.ieee.org/paris-olympics-2024">A New Olympics Event: Algorithmic Video Surveillance ›</a></li><li><a href="https://spectrum.ieee.org/carbon-neutral-winter-olympics">China Will Attempt First Carbon-Neutral Winter Olympics ›</a></li></ul><div>Related Articles Around the Web</div><ul><li><a href="https://en.wikipedia.org/wiki/2026_Winter_Olympics">2026 Winter Olympics - Wikipedia ›</a></li><li><a href="https://www.olympics.com/en/milano-cortina-2026/schedule/overview">Olympic Schedule - February 6 to 22 2026 - Milano Cortina 2026 ›</a></li></ul></div></div>
-        ]]></content:encoded><guid isPermaLink="false">https://spectrum.ieee.org/winter-olympics-2026-tech</guid><pubDate>Wed, 04 Feb 2026 17:03:54 +0000</pubDate></item><item><title>Spotify is rolling out 3 exciting new features for Lyrics including translations, and I can’t to finally understand what my favorite Spanish artists have been singing about</title><link>https://www.techradar.com/audio/spotify/spotify-is-rolling-out-3-exciting-new-features-for-lyrics-including-translations-and-i-cant-wait-to-finally-understand-what-my-favorite-spanish-artists-have-been-singing-about</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Curated Email Articles</title><link>https://kill-the-newsletter.com/feeds/km69ge1d7gq6c4rhg5uv.xml</link><description>Aggregated articles from email newsletters, filtered and summarized.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Fri, 06 Feb 2026 16:56:04 +0000</lastBuildDate><item><title>Spotify is rolling out 3 exciting new features for Lyrics including translations, and I can’t to finally understand what my favorite Spanish artists have been singing about</title><link>https://www.techradar.com/audio/spotify/spotify-is-rolling-out-3-exciting-new-features-for-lyrics-including-translations-and-i-cant-wait-to-finally-understand-what-my-favorite-spanish-artists-have-been-singing-about</link><description>
         &lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Spotify is globally rolling out three major updates to its Lyrics tool: real-time lyric translations, offline lyrics access for Premium subscribers, and a new interface that places the lyrics tab directly within the Now Playing view.&lt;/p&gt;
         &lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Spotify,Music Streaming,Lyric Translations,Mobile Apps,TechRadar&lt;/p&gt;
         &lt;p&gt;
@@ -5880,4 +5149,1060 @@ It’s almost enough to make you pine for the days when the purpose of travel sp
  
 	  </div>
          
-        ]]></content:encoded><guid isPermaLink="false">https://www.platformer.news/r/96f9c73e?m=ef5c0baa-fd94-4a88-9365-5fbc0fe6d347</guid><pubDate>Thu, 05 Feb 2026 07:54:48 -0500</pubDate></item></channel></rss>
+        ]]></content:encoded><guid isPermaLink="false">https://www.platformer.news/r/96f9c73e?m=ef5c0baa-fd94-4a88-9365-5fbc0fe6d347</guid><pubDate>Thu, 05 Feb 2026 07:54:48 -0500</pubDate></item><item><title>Bitcoin price plummets further. Is crypto crashing?</title><link>https://mashable.com/article/bitcoin-cryptocurrency-crashing-new-lows-feb-5-2026</link><description>
+        &lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Bitcoin and the broader cryptocurrency market are experiencing a significant crash, with Bitcoin falling below $68,000 and erasing over a year of gains. Major assets like Solana and Ether have also hit multi-year lows, driven by institutional sell-offs and liquidations from entities such as the Trump-owned World Liberty Financial.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Bitcoin,Cryptocurrency,Market Crash,Solana,World Liberty Financial&lt;/p&gt;
+        &lt;p&gt;
+            &lt;strong&gt;Source:&lt;/strong&gt; mashable.com&lt;br/&gt;
+            &lt;strong&gt;Author:&lt;/strong&gt; Matt Binder&lt;br/&gt;
+            &lt;strong&gt;Reading Time:&lt;/strong&gt; ~2 min
+        &lt;/p&gt;
+        &lt;img src='https://helios-i.mashable.com/imagery/articles/03ARNoPLLCU5KE53VUENCff/hero-image.fill.size_1200x675.v1770310378.jpg' style='max-width:100%;'/&gt;
+        &lt;br/&gt;
+        &lt;p&gt;&lt;small&gt;Via: Your Friday tech briefing&lt;/small&gt;&lt;/p&gt;
+        </description><content:encoded><![CDATA[
+        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
+            <p><strong>Summary:</strong> Bitcoin and the broader cryptocurrency market are experiencing a significant crash, with Bitcoin falling below $68,000 and erasing over a year of gains. Major assets like Solana and Ether have also hit multi-year lows, driven by institutional sell-offs and liquidations from entities such as the Trump-owned World Liberty Financial.</p>
+            <p>
+                <strong>Source:</strong> mashable.com<br/>
+                <strong>Author:</strong> Matt Binder<br/>
+                <strong>Reading Time:</strong> ~2 min
+            </p>
+        </div>
+        <img src='https://helios-i.mashable.com/imagery/articles/03ARNoPLLCU5KE53VUENCff/hero-image.fill.size_1200x675.v1770310378.jpg' style='max-width:100%; margin-bottom: 20px;'/>
+        <hr/>
+        <section>
+                                                            <p>It's official: <a href="https://mashable.com/category/bitcoin"><u>Bitcoin</u></a><u>,</u> as well as other cryptocurrency markets, are crashing.</p><p>On Thursday, Bitcoin plummeted below $68,000, blowing past a key level that crypto investors were hoping to hold. Bitcoin is now trading at its lowest prices since November 2024, essentially erasing all gains made in more than a year.</p><p>Other popular cryptocurrencies like Ether and Solana are also down. Solana, for example, has currently hit a two-year low.</p><div>
+                    <div>
+                <hr>
+                <strong>You May Also Like</strong>
+                <hr>
+            </div>
+        
+        <div>
+            <div></div>
+            <script>
+                (() => {
+                    window.videoEmbeds = window.videoEmbeds || [];
+
+                    let data = {"excoPlayListId":"6825f5751ad7f3226d4a8257","excoPlayVideos":{"0bbfdb97-ec38-4d60-81e1-fabf81d28e23":"05FiUvyAObJtG73rNUQM9rN","0f6b2006-28e7-479d-83bb-36e9b477e52d":"02RXfZSPtxCR0fZZ83cQ51D","2c07f763-653b-4e38-aa18-5d466023dc49":"079jIni2Z6TytUI93haxHAt","2c1d12a7-a34a-5fbb-b03a-9483f5592380":"02GDZEL19fRmdOWLlj8hHBH","5331e699-5415-4fd6-a16a-58b93e76f7cc":"01ZNZyYqDu2Q0JYLRaRpAEh","574f2a3f-c563-47bb-9232-50a02f75c71e":"03UrnakXXovW5hQcYGJZwsw","64f2d4be-bdbe-5e81-bdb5-9d0c6008ca93":"02bRVbUcOtYRnJJJnUSTDb9","6656a2d9-74af-486a-b073-8be687b8050c":"01SUngIRCN0jhPqx9G7pTNz","6b4c9aa3-acd9-5883-a336-caa94f41f4ec":"077lKb6ELpasZbjRousjwzm","75f98f2f-6441-4ff4-ac59-4997869ff972":"077ERdscMcEWDfhH7qYiDOB","7e73ac1e-c073-40cd-bcae-383114620a81":"00mKDNv23i6zi4Q6EoW6RWD","87cf4254-9d32-4026-8a84-32ab7fd0a98e":"00VG2xxHP2jLaq7UNtGd2HA","9c9aff58-c7a8-5859-89f3-75314903261d":"078BmsIAq8Cgf2D5DaOZHdS","ab6c9da9-388a-5a27-96db-a512b97e1c8b":"07erTq9Ny2D5McpMxubLfjh","ae69068d-cdbf-42c4-a0c4-e9a5b3b8c1cf":"07MLwYtJ8TkClSXmUvm8b8C","b546fe44-3643-5771-b0bf-db39e1c1a2b4":"07yScDXW4DXEiUTEpGr073K","bb000bfa-0c6b-41b9-bc34-2b7e5a544069":"05jVTQ4Jtp2gv6P6pp3bAMR","dca5471e-d292-4dfb-aabe-c7651e97a40b":"0114OQ09b7eFybHZ7w6hnln","dddbec73-b010-5aca-86c6-7b5a4ddbc49d":"05Xu6eDDBUb0KHSoeWtdsOo","e8a80860-e206-4434-bfd0-34c58ab4cebf":"007HC6Xrz7OMmhbiK37q5PR"},"title":"","videoPlayerType":"related-contextual","titleOverride":"You May Also Like"};
+                                            data.excoPlayListId = '6825f5751ad7f3226d4a8257';
+                        data.excoPlayListVideos = {"0bbfdb97-ec38-4d60-81e1-fabf81d28e23":"05FiUvyAObJtG73rNUQM9rN","0f6b2006-28e7-479d-83bb-36e9b477e52d":"02RXfZSPtxCR0fZZ83cQ51D","2c07f763-653b-4e38-aa18-5d466023dc49":"079jIni2Z6TytUI93haxHAt","2c1d12a7-a34a-5fbb-b03a-9483f5592380":"02GDZEL19fRmdOWLlj8hHBH","5331e699-5415-4fd6-a16a-58b93e76f7cc":"01ZNZyYqDu2Q0JYLRaRpAEh","574f2a3f-c563-47bb-9232-50a02f75c71e":"03UrnakXXovW5hQcYGJZwsw","64f2d4be-bdbe-5e81-bdb5-9d0c6008ca93":"02bRVbUcOtYRnJJJnUSTDb9","6656a2d9-74af-486a-b073-8be687b8050c":"01SUngIRCN0jhPqx9G7pTNz","6b4c9aa3-acd9-5883-a336-caa94f41f4ec":"077lKb6ELpasZbjRousjwzm","75f98f2f-6441-4ff4-ac59-4997869ff972":"077ERdscMcEWDfhH7qYiDOB","7e73ac1e-c073-40cd-bcae-383114620a81":"00mKDNv23i6zi4Q6EoW6RWD","87cf4254-9d32-4026-8a84-32ab7fd0a98e":"00VG2xxHP2jLaq7UNtGd2HA","9c9aff58-c7a8-5859-89f3-75314903261d":"078BmsIAq8Cgf2D5DaOZHdS","ab6c9da9-388a-5a27-96db-a512b97e1c8b":"07erTq9Ny2D5McpMxubLfjh","ae69068d-cdbf-42c4-a0c4-e9a5b3b8c1cf":"07MLwYtJ8TkClSXmUvm8b8C","b546fe44-3643-5771-b0bf-db39e1c1a2b4":"07yScDXW4DXEiUTEpGr073K","bb000bfa-0c6b-41b9-bc34-2b7e5a544069":"05jVTQ4Jtp2gv6P6pp3bAMR","dca5471e-d292-4dfb-aabe-c7651e97a40b":"0114OQ09b7eFybHZ7w6hnln","dddbec73-b010-5aca-86c6-7b5a4ddbc49d":"05Xu6eDDBUb0KHSoeWtdsOo","e8a80860-e206-4434-bfd0-34c58ab4cebf":"007HC6Xrz7OMmhbiK37q5PR"};
+                    
+                    window.videoEmbeds.push({
+                        elemId: 'video-container-01KGSX8AP505Y0C8M8PS9PSRQG',
+                        data: data
+                    });
+                })()
+            </script>
+        </div>
+
+                    <hr>
+            </div>
+<p>Bitcoin and other altcoins began <a href="https://mashable.com/article/bitcoin-price-plunge-crypto-falls-jan-29"><u>experiencing</u></a> a noticeable <a href="https://mashable.com/article/bitcoin-cryptocurrency-prices-continue-to-drop-jan-30"><u>downturn</u></a> in the market late last week. Crypto analysts provided key market levels for Bitcoin to hold in order to avoid the worst. Some analysts said holding at $80,000 would be key while others said $70,000. Falling below those levels, analysts said, could drive further decline as investors look to sell off their holdings. </p><section>
+        <div>
+            <span>Mashable Light Speed</span>
+        </div>
+        <div>
+            <div>
+                <div>Want more out-of-this world tech, space and science stories?</div>
+                <div>Sign up for Mashable's weekly Light Speed newsletter.</div>
+                <form>
+                    <input>
+                    <input>
+                    <input>
+                    <input>
+                    <button>
+    <span>Loading...</span>
+    <span> Sign Me Up</span>
+</button>
+                    <input>
+<input>
+                </form>
+                <div>
+                    <svg><use href="/images/icons/spritemap.svg#sprite-exclamation-square"></use></svg>
+                    <div></div>
+                </div>
+                <!-- Typo suggestion -->
+<div>
+    <span></span>
+    <button>Use this instead</button>
+</div>
+                <div>
+                    By clicking Sign Me Up, you confirm you are 16+ and agree to our <a href="https://www.ziffdavis.com/terms-of-use" title="(opens in a new window)">Terms of Use</a> and <a href="https://www.ziffdavis.com/ztg-privacy-policy" title="(opens in a new window)">Privacy Policy</a>.
+                </div>
+            </div>
+                        <div>
+                <svg><use href="/images/icons/spritemap.svg#sprite-mailbox-regular"></use></svg>
+                <div>Thanks for signing up!</div>
+            </div>
+        </div>
+    </section>
+<p>Bitcoin has now fallen below both key levels. Now, some analysts are <a href="https://www.cnbc.com/2026/02/05/bitcoin-price-today-70000-in-focus.html" title="(opens in a new window)"><u>saying</u></a> that Bitcoin could land in the $60,000 to $65,000 range while others are forecasting potential further drops landing the cryptocurrency at <a href="https://www.cnbc.com/video/2026/02/02/bitcoin-could-plunge-all-the-way-to-40k--zacks-john-blank.html?" title="(opens in a new window)"><u>$40,000</u></a>.</p><p>The downturn isn't unique to crypto, as stocks especially in the tech sector are currently dropping, but cryptocurrency is experiencing the worst of it. As a highly volatile and still largely unproven asset class, crypto is among the first investments to go in a sell-off from institutional investors.</p><p>According to a <a href="https://x.com/Cointelegraph/status/2019330732645343739" title="(opens in a new window)"><u>report</u></a> from CryptoQuant, institutional firms that were buying up tens of thousands of Bitcoin just last year are now net sellers this year.</p><p>Social media users are noticing that other whales are also selling off, which further tanks the price of Bitcoin. World Liberty Financial, the crypto company owned by the Trump family, <a href="https://x.com/TedPillows/status/2019409661125095758" title="(opens in a new window)"><u>liquidated</u></a> more than $5 million of its Bitcoin holdings on Thursday. </p>
+
+                                                                <section>
+                            <div>
+    <p>
+        <span>Topics</span>
+                    <a href="https://mashable.com/category/bitcoin">Bitcoin</a>
+                    <a href="https://mashable.com/category/cryptocurrency">Cryptocurrency</a>
+            </p>
+</div>
+                        </section>
+                                    </section>
+            
+            
+            
+            
+            
+                            
+        ]]></content:encoded><guid isPermaLink="false">https://mashable.com/article/bitcoin-cryptocurrency-crashing-new-lows-feb-5-2026</guid><pubDate>Thu, 05 Feb 2026 17:30:01 +0000</pubDate></item><item><title>NASA astronauts can now bring their phones with them on their mission to the moon</title><link>https://techcrunch.com/2026/02/05/nasa-astronauts-can-now-bring-their-phones-with-them-on-their-mission-to-the-moon</link><description>
+        &lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; NASA has updated its policy to allow astronauts on upcoming missions, including Crew-12 and Artemis II, to bring personal smartphones into space. This shift aims to facilitate more spontaneous and modern media capture for families and public engagement, moving away from older, specialized hardware like decade-old DSLRs and GoPros through an expedited approval process for modern devices.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; NASA,Artemis II,Space Exploration,Smartphones,Crew-12&lt;/p&gt;
+        &lt;p&gt;
+            &lt;strong&gt;Source:&lt;/strong&gt; techcrunch.com&lt;br/&gt;
+            &lt;strong&gt;Author:&lt;/strong&gt; Amanda Silberling&lt;br/&gt;
+            &lt;strong&gt;Reading Time:&lt;/strong&gt; ~2 min
+        &lt;/p&gt;
+        &lt;img src='https://techcrunch.com/wp-content/uploads/2025/07/nasa-spacex-crew-2-return.jpg?resize=1200,674' style='max-width:100%;'/&gt;
+        &lt;br/&gt;
+        &lt;p&gt;&lt;small&gt;Via: Your Friday tech briefing&lt;/small&gt;&lt;/p&gt;
+        </description><content:encoded><![CDATA[
+        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
+            <p><strong>Summary:</strong> NASA has updated its policy to allow astronauts on upcoming missions, including Crew-12 and Artemis II, to bring personal smartphones into space. This shift aims to facilitate more spontaneous and modern media capture for families and public engagement, moving away from older, specialized hardware like decade-old DSLRs and GoPros through an expedited approval process for modern devices.</p>
+            <p>
+                <strong>Source:</strong> techcrunch.com<br/>
+                <strong>Author:</strong> Amanda Silberling<br/>
+                <strong>Reading Time:</strong> ~2 min
+            </p>
+        </div>
+        <img src='https://techcrunch.com/wp-content/uploads/2025/07/nasa-spacex-crew-2-return.jpg?resize=1200,674' style='max-width:100%; margin-bottom: 20px;'/>
+        <hr/>
+        <div>
+<p>Get ready for some selfies that are out of this world. NASA astronauts will be allowed to bring their smartphones to space for the first time, starting with the Crew-12 and Artemis II missions.</p>
+
+<p>Crew-12 is expected to head to the International Space Station <a href="https://www.nasa.gov/blogs/commercialcrew/2026/01/28/nasas-spacex-crew-12-begins-quarantine-for-space-station-mission/">next week</a>, while the highly anticipated Artemis II mission — which will <a href="https://time.com/7346146/artemis-ii-launch-nasa-astronauts-moon-mission/">bring humans around the moon</a> for the first time since the 1960s — was delayed until March.</p>
+
+<div>
+	<div>
+	</div>
+</div>
+
+
+<div>
+	<div>
+	</div>
+</div>
+
+
+<p>“We are giving our crews the tools to capture special moments for their families and share inspiring images and video with the world,” NASA administrator Jared Isaacman <a href="https://x.com/NASAAdmin/status/2019259382962307393">wrote</a> on X.</p>
+
+<p>With the newest iPhones and Android devices at hand, the crew will be able to be a bit more spontaneous with image and video gathering, meaning that for those of us back home, these upcoming trips to space could end up being some of NASA’s most well-documented journeys yet.</p>
+
+<p>Imagine how cool (or cringe-worthy) it will be if astronauts turn themselves into TikTok stars in zero gravity, or if they take ultra-wide-angle selfies in the spacecraft. For those working in government bureaucracy, it’s equally exciting, apparently, that NASA approved this rule change pretty quickly.</p>
+
+<p>“Just as important, we challenged long-standing processes and qualified modern hardware for spaceflight on an expedited timeline,” Isaacman wrote. “That operational urgency will serve NASA well as we pursue the highest-value science and research in orbit and on the lunar surface.”</p>
+
+<p>It makes sense that it would be hard to approve new technology to go into space — if one small thing goes astray, a spaceflight can go terribly wrong. Until now, the newest cameras that were supposed to go on these missions were decade-old Nikon DSLRs and GoPros, according to <a href="https://arstechnica.com/space/2026/02/nasa-will-finally-allow-astronauts-to-bring-their-iphones-to-space/">Ars Technica</a>. That’s by no means arcane, but there’s something more spontaneous and whimsical about using a smartphone.</p>
+<div>
+	<div>
+		<div>
+			<svg><path></path></svg>		</div>
+		<div>Techcrunch event</div>
+		<div>
+			<div>
+				<div>
+											<h3>TechCrunch Founder Summit 2026: Tickets Live</h3>
+																<h4>On <strong>June 23 in Boston</strong>, more than <strong>1,100 founders</strong> come together at <strong>TechCrunch Founder Summit 2026</strong> for a full day focused on growth, execution, and real-world scaling. Learn from founders and investors who have shaped the industry. Connect with peers navigating similar growth stages. Walk away with tactics you can apply immediately<br><br>Save <strong>up to $300</strong> on your pass or <strong>save up to 30% with group tickets for teams of four or more.</strong></h4>
+									</div>
+				<div>
+											<h3>TechCrunch Founder Summit: Tickets Live</h3>
+																<h4>On <strong>June 23 in Boston</strong>, more than <strong>1,100 founders</strong> come together at <strong>TechCrunch Founder Summit 2026</strong> for a full day focused on growth, execution, and real-world scaling. Learn from founders and investors who have shaped the industry. Connect with peers navigating similar growth stages. Walk away with tactics you can apply immediately<br><br>Save <strong>up to $300</strong> on your pass or <strong>save up to 30% with group tickets for teams of four or more.</strong></h4>
+									</div>
+			</div>
+			<div>
+									<span>Boston, MA</span>
+													<span>|</span>
+													<span>June 23, 2026</span>
+							</div>
+			<div>
+				
+
+<div>
+<div><a href="https://techcrunch.com/events/techcrunch-founder-summit-2026/?utm_source=tc&amp;utm_medium=ad&amp;utm_campaign=tcfoundersummit2026&amp;utm_content=seb&amp;promo=tc_inline_seb&amp;display=">REGISTER NOW</a></div>
+</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+
+<p>This is not, however, the first time that smartphones have <a href="https://www.dpreview.com/news/1356946619/inspiration4-commander-shares-a-photo-and-video-shot-with-iphone-12-in-space">gone to space</a>. SpaceX allowed smartphones for its <a href="https://techcrunch.com/2021/06/02/spacex-will-launch-four-private-astronaut-missions-to-the-space-station-through-2023/">private astronaut missions</a>.</p>
+
+<p></p>
+</div>
+
+			
+
+			
+        ]]></content:encoded><guid isPermaLink="false">https://techcrunch.com/2026/02/05/nasa-astronauts-can-now-bring-their-phones-with-them-on-their-mission-to-the-moon</guid><pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate></item><item><title>iPhone 17e Reportedly Set to Launch This Month With 4 Major Upgrades</title><link>https://www.pcmag.com/news/iphone-17e-reportedly-set-to-launch-this-month-with-4-major-upgrades?test_uuid=04IpBmWGZleS0I0J3epvMrC</link><description>
+        &lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Apple is reportedly preparing to launch the iPhone 17e on February 19 via a press release. The new budget-friendly model is expected to feature four major internal upgrades: the A19 chip, the C1X modem, the N1 chip for Wi-Fi 7/Bluetooth 6 connectivity, and support for 25W MagSafe wireless charging.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Apple,iPhone 17e,A19 Chip,MagSafe,Hardware Launch&lt;/p&gt;
+        &lt;p&gt;
+            &lt;strong&gt;Source:&lt;/strong&gt; www.pcmag.com&lt;br/&gt;
+            &lt;strong&gt;Author:&lt;/strong&gt; Jibin Joseph&lt;br/&gt;
+            &lt;strong&gt;Reading Time:&lt;/strong&gt; ~1 min
+        &lt;/p&gt;
+        &lt;img src='https://i.pcmag.com/imagery/articles/05uWCS40DbH82yIRLvR2VX3-1.fit_lim.size_1200x630.v1770362713.jpg' style='max-width:100%;'/&gt;
+        &lt;br/&gt;
+        &lt;p&gt;&lt;small&gt;Via: Your Friday tech briefing&lt;/small&gt;&lt;/p&gt;
+        </description><content:encoded><![CDATA[
+        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
+            <p><strong>Summary:</strong> Apple is reportedly preparing to launch the iPhone 17e on February 19 via a press release. The new budget-friendly model is expected to feature four major internal upgrades: the A19 chip, the C1X modem, the N1 chip for Wi-Fi 7/Bluetooth 6 connectivity, and support for 25W MagSafe wireless charging.</p>
+            <p>
+                <strong>Source:</strong> www.pcmag.com<br/>
+                <strong>Author:</strong> Jibin Joseph<br/>
+                <strong>Reading Time:</strong> ~1 min
+            </p>
+        </div>
+        <img src='https://i.pcmag.com/imagery/articles/05uWCS40DbH82yIRLvR2VX3-1.fit_lim.size_1200x630.v1770362713.jpg' style='max-width:100%; margin-bottom: 20px;'/>
+        <hr/>
+        <article>
+
+                    <p>Apple just posted a <a href="https://www.pcmag.com/news/best-ever-iphone-sales-quarter-takes-apple-to-25-billion-active-devices">record quarter</a> with its highest-ever iPhone sales, but the company is now gearing up to launch its next phone, the iPhone 17e, on Feb. 19, <a href="https://www.macworld.com/article/2881175/iphone-17e-release-date-specs-features-price.html" title="(Opens in a new tab)">Macworld reports</a>.</p><p>The date falls on a Thursday, which is not a day Apple usually reserves for hardware launches. It is, however, the same date the <a href="https://www.pcmag.com/reviews/apple-iphone-16e">iPhone 16e</a> debuted. Like last year, Apple may avoid an event to announce the phone and instead unveil it through a press release, the report adds.</p><p>The iPhone 16e resembles the <a href="https://www.pcmag.com/reviews/apple-iphone-14">iPhone 14</a>, and it replaced the budget SE model in the iPhone lineup. The phone comes with a 6.1-inch OLED display, the A18 processor, support for <a href="https://www.pcmag.com/explainers/is-apple-intelligence-actually-smart-i-tested-every-feature-to-find-out">Apple Intelligence</a>, a single 48MP rear camera, and the C1 modem. </p><div>
+    <div>
+        <div>
+            <img src="/images/pcmag-simplified.png" alt="PCMag logo">
+        </div>
+        <div>
+            <strong>You May Also Like</strong>
+        </div>
+    </div>
+    <div>
+        <div></div>
+        <script src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+            window.videoEmbeds = window.videoEmbeds || [];
+                            let data = {};
+                                        data.excoPlayListId = '68408b61a852ebf5b843845e';
+                data.excoPlayListVideos = {"0bd54165-77e0-47bb-b1eb-e5ec59999624":"01F1gviBeR6nLSx73Tk6jCq","2a3d684c-229d-5392-a907-821ea9aca6ab":"01iXQYuFw0pOWifK3JLyQZz","2eb5af01-a120-475f-ad63-2aae67c30c2a":"04LjmPGvt4eEeDAbUp5rn48","3a4fd124-4d3b-4c69-bd65-a3b1a2b8f085":"055OGhV3wR4tfGkNLFn0CAn","5eaa2bda-c81e-4769-8eda-51b0692d4ddf":"00WKrEpfy6vJS3tsvsGhwWw","61a32626-6a80-5286-96b4-0704cef02dde":"04acRv7w1bjcU0T0bqLOsN0","6df505d7-e171-42f4-81be-199fa105515c":"05zKSkipqwkbKg1NQDalkEA","70938ad5-5714-5bc4-ada6-eef2e4620355":"01DcFntSgbY5CxEdfYCkb2h","7e022050-b5ad-4910-b192-19e5707c7c7d":"02HXQoNh05NHI3RHAU0XS4w","82643d75-d262-452a-9264-311fa52a901d":"04exsD2HVns3ywvuz1q28ya","97d8bdb4-29f0-44e7-862a-49cd78ca6f72":"03aGAfSIzm2Kf2FqJuseiY9","a9fd2b46-e1b5-48b7-b9d9-8a842806f35f":"017Zg0HsnUyZAeyH69DgTZr","b0699071-e20f-4d24-b026-8c919b46c22f":"03oq64VPipOsmGYsYP3vIKn","b127cfd4-c0b3-56f1-8f89-134feec53894":"00g6nIt0vW83J73jL6DkvpL","b55b0ae3-35b0-5895-bbd6-a3247b79eee1":"04cc40xCn8hMGdPiVFPo6gV","b57cad3a-091d-4687-8032-93e1ae699163":"056VqqCbVLWkTDFaXO8NSNn","c59096ea-04ad-42fa-92bf-3b10ff1f0fec":"00eFnLcwjzoaMrHeyvvwZiM","ce140d54-aeed-4d58-956f-c077bf89a7df":"02GEqYcq4HK09Zd3Q6DfbJN","ea29551a-0761-49f9-9396-55e0261858f0":"04fFCQQLJmsjLszRTr6jNha","f308161f-9777-551a-876e-117724a908fc":"06v3q4ynI42vzIJkcbNrOM8"};
+            
+            window.videoEmbeds.push({
+                elemId: 'video-container-68408b61a852ebf5b843845e',
+                data: data,
+                videoPlayerType: 'related-contextual',
+                variation: 'INJECTED',
+            });
+        </script>
+    </div>
+</div>
+<p>The iPhone 17e is expected to retain the 16e’s design, while receiving four major internal upgrades. According to Japanese blog <a href="https://www.macotakara.jp/rumor/entry-50451.html" title="(Opens in a new tab)">Mac Otakara</a>, it will use the A19 chip from <a href="https://www.pcmag.com/reviews/apple-iphone-17?test_uuid=04IpBmWGZleS0I0J3epvMrC&amp;test_variant=B">iPhone 17</a> for faster performance and improved power efficiency, and will be equipped with Apple’s C1X modem for 5G and LTE connectivity and the N1 chip for <a href="https://www.pcmag.com/explainers/wi-fi-7-explained-finally-speed-thats-worth-a-router-upgrade">Wi-Fi 7</a> and Bluetooth 6 connectivity. </p><p>Apple <a href="https://www.apple.com/in/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design" title="(Opens in a new tab)">says</a> C1X is two times <a href="https://www.apple.com/in/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design" title="(Opens in a new tab)">faster</a> than the C1, and the N1 chip “improves the overall performance and reliability of features like Personal Hotspot and AirDrop.”</p><div>
+    <div>
+        <h3>Recommended by Our Editors</h3>
+        <div>
+                            <div>
+                    <a href="/news/you-can-now-vibe-code-apple-apps-with-claude-openais-codex">
+                                                    <div>
+                                <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20225'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" alt="App Store icon displayed on a phone screen is seen in this illustration photo taken in Krakow, Poland on September 4, 2025.">
+                            </div>
+                                            </a>
+                    <div>
+                        <a href="/news/you-can-now-vibe-code-apple-apps-with-claude-openais-codex">You Can Now Vibe Code Apple Apps With Claude, OpenAI's Codex</a>
+                    </div>
+                </div>
+                            <div>
+                    <a href="/comparisons/iphone-17-vs-iphone-16-the-choice-is-clear">
+                                                    <div>
+                                <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20225'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" alt="Apple iPhone 17 vs. iPhone 16">
+                            </div>
+                                            </a>
+                    <div>
+                        <a href="/comparisons/iphone-17-vs-iphone-16-the-choice-is-clear">Apple iPhone 17 vs. iPhone 16: The Choice Is Clear</a>
+                    </div>
+                </div>
+                            <div>
+                    <a href="/news/report-second-foldable-iphone-may-have-a-clamshell-design">
+                                                    <div>
+                                <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20225'%3E%3Crect%20fill='%23f7f7f7'%20/%3E%3C/svg%3E" alt="An Apple logo behind Tim Cook at a launch event">
+                            </div>
+                                            </a>
+                    <div>
+                        <a href="/news/report-second-foldable-iphone-may-have-a-clamshell-design">Report: Second Foldable iPhone May Have a Clamshell Design</a>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>
+<p>MacWorld also reported that the iPhone 17e may support MagSafe. The iPhone 16e supported 7.5W wireless charging, but that’s nothing compared with the <a href="https://www.pcmag.com/news/apple-iphone-16-has-faster-wireless-charging-with-new-magsafe?test_uuid=04IpBmWGZleS0I0J3epvMrC&amp;test_variant=B">25W support</a> MagSafe offers.</p><p>Apart from the 17e, Apple is preparing to launch the iPad 12 in the next few months, <a href="https://www.macrumors.com/2026/02/05/iphone-17e-and-ipad-12-rumors/" title="(Opens in a new tab)">according</a> to Mac Otakara. The tablet is expected to receive the A18 chip and 8GB of RAM. Another "imminent" Apple launch, per Bloomberg, is the <a href="https://www.pcmag.com/news/apple-reportedly-set-for-imminent-launch-of-m5-pro-m5-max-macbook-pros">M5 Pro and M5 Max MacBook Pros</a>.</p><div>
+        <div>
+            <!-- Envelope image absolute top right for desktop -->
+            <img src="https://www.pcmag.com/images/newsletter-envelope.svg" alt="Newsletter Icon">
+            <!-- Envelope image absolute top right for mobile -->
+            <div>
+                <img src="https://www.pcmag.com/images/newsletter-envelope.svg" alt="Newsletter Icon">
+            </div>
+
+            <!-- Tagline -->
+            <div>
+                <span>Get Our Best Stories!</span>
+            </div>
+
+            <div>
+                <!-- Title text -->
+                <h3>
+                                            A Smart, Bold Take on the Wireless World
+                                    </h3>
+
+                <!-- Main content -->
+                <div>
+                    <!-- Top section with image and context - flex row on mobile -->
+                    <div>
+                        <!-- Title section with envelope background -->
+                        <div>
+
+                            <!-- Image -->
+                                                            <img src="https://i.pcmag.com/imagery/newsletters/21056617-contextual.fit_lpad.size_250x140.v1759414430.png" alt="ios 26">
+                                                    </div>
+
+                        <!-- Contextual body/deck on MOBILE - next to image -->
+                        <div>
+                                                            <div>
+                                    <p>Sign up for the <strong>Fully Mobilized</strong> newsletter to get our top mobile stories delivered right to your inbox.</p>
+                                </div>
+                                                    </div>
+                    </div>
+
+                    <!-- Form section -->
+                    <div>
+                        <!-- Contextual body/deck for DESKTOP ONLY -->
+                        <div>
+                                                            <div>
+                                    <p>Sign up for the <strong>Fully Mobilized</strong> newsletter to get our top mobile stories delivered right to your inbox.</p>
+                                </div>
+                                                    </div>
+
+                        <form>
+                            <div>
+                                <div>
+                                    <label>Email</label>
+                                    <input>
+                                </div>
+
+                                <button>
+                                    <span>
+                                        <svg><path></path></svg>                                    </span>
+                                    <span>
+                                        <svg><path></path></svg>                                    </span>
+                                    <span>
+                                        <span>Sign Me Up</span>
+                                    </span>
+                                </button>
+                            </div>
+
+                            <p></p>
+
+                            <!-- reCAPTCHA Container -->
+                            <div></div>
+                        </form>
+
+                        <p>
+                            By clicking Sign Me Up, you confirm you are 16+ and agree to our <a href="/terms">Terms of Use</a> and <a href="/privacy">Privacy
+                                Policy</a>.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <svg><path></path></svg>                <p>Thanks for signing up!</p>
+                <p>Your subscription has been confirmed. Keep an eye on your inbox!</p>
+            </div>
+        </div>
+    </div>
+
+
+                    
+                    
+                    
+                    <section>
+        <h2>About Our Expert</h2>
+        <div>
+                                            <div>
+                    <div>
+                        <div>
+                                                            <img src="https://i.pcmag.com/imagery/authors/06secnx6VusubeWkWcdeLp9.fit_lim.size_100x100.v1719242165.jpg" alt="Jibin Joseph">
+                                                        <div>
+                                <div>Jibin Joseph</div>
+                                <div>Contributor</div>
+                            </div>
+                        </div>
+                                                    <div>
+                                    <a href="https://www.linkedin.com/in/jibin-joseph-b9587a47" title="LinkedIn (Opens in a new tab)">
+                <svg><path></path></svg>            </a>
+                            <a href="https://twitter.com/4ibin" title="X (Opens in a new tab)">
+                <svg>
+    <g>
+    <path></path>
+    </g>
+</svg>            </a>
+                    </div>
+                                            </div>
+                    <hr>
+                                            <div>
+                            <div>Experience</div>
+                            <div>
+                                <p>Jibin is a tech news writer based out of Ahmedabad, India. Previously, he served as the editor of iGeeksBlog and is a self-proclaimed tech enthusiast who loves breaking down complex information for a broader audience.</p>
+                            </div>
+                        </div>
+                                                                                    <div>
+                            <div>Latest By Jibin Joseph</div>
+                            <ul>
+                                                                    <li>
+                                        <a href="/news/swap-playlists-for-paperbacks-spotify-sell-you-physical-books-bookshoporg">
+                                            Swap Your Playlists for Paperbacks? Spotify Wants to Sell You Physical Books
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/news/lets-chat-in-another-language-google-meet-rolls-out-live-speech-translation">
+                                            Let's Chat (in Another Language). Google Meet Rolls Out Live Speech Translation
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/news/spotify-adds-offline-support-for-lyrics-makes-translations-available-worldwide">
+                                            Spotify Adds Offline Support for Lyrics, Makes Translations Available Worldwide
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/news/amazons-ai-powered-alexa-plus-now-available-to-everyone-heres-how-to-get">
+                                            Amazon's AI-Powered Alexa+ Now Available to Everyone: Here's How to Get It
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/news/adobe-reverses-decision-to-shut-down-animate-after-backlash">
+                                            Adobe Reverses Decision to Shut Down Animate After Backlash
+                                        </a>
+                                    </li>
+                                                                <li>
+                                    <a href="/authors/jibin-joseph">
+                                        More from Jibin Joseph
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                                        <a href="/authors/jibin-joseph">
+                        Read Full Bio
+                    </a>
+                </div>
+                    </div>
+    </section>
+
+                                            <section>
+        </section>
+                        
+                </article>
+                            
+        ]]></content:encoded><guid isPermaLink="false">https://www.pcmag.com/news/iphone-17e-reportedly-set-to-launch-this-month-with-4-major-upgrades?test_uuid=04IpBmWGZleS0I0J3epvMrC</guid><pubDate>Fri, 06 Feb 2026 10:50:51 +0000</pubDate></item><item><title>Amazon Defends Massive AI Spending, Says New AWS Capacity Being Monetized Quickly: Andy Jassy Sees Very 'Unusual' Opportunity - Amazon.com (NASDAQ:AMZN)</title><link>https://www.benzinga.com/markets/tech/26/02/50438236/amazon-defends-massive-ai-spending-says-new-aws-capacity-being-monetized-quickly-andy-jassy-sees-very-unusual-opportunity</link><description>
+        &lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Amazon executives defended the company's aggressive AI capital expenditures during its Q4 earnings call, asserting that new AWS capacity is being monetized immediately despite investor skepticism. While Amazon beat revenue estimates with $213.39 billion and reported resilient AWS margins of 35%, its stock price fell significantly in after-hours trading. CEO Andy Jassy highlighted an 'unusual' opportunity in AI demand and projected capital spending to reach approximately $200 billion by 2026.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Amazon,AWS,Artificial Intelligence,Andy Jassy,Earnings Report&lt;/p&gt;
+        &lt;p&gt;
+            &lt;strong&gt;Source:&lt;/strong&gt; www.benzinga.com&lt;br/&gt;
+            &lt;strong&gt;Author:&lt;/strong&gt; Ananya Gairola&lt;br/&gt;
+            &lt;strong&gt;Reading Time:&lt;/strong&gt; ~3 min
+        &lt;/p&gt;
+        &lt;img src='https://cdn.benzinga.com/files/images/story/2026/02/06/Amazon.jpeg?width=1200&amp;height=800&amp;fit=crop' style='max-width:100%;'/&gt;
+        &lt;br/&gt;
+        &lt;p&gt;&lt;small&gt;Via: Your Friday tech briefing&lt;/small&gt;&lt;/p&gt;
+        </description><content:encoded><![CDATA[
+        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
+            <p><strong>Summary:</strong> Amazon executives defended the company's aggressive AI capital expenditures during its Q4 earnings call, asserting that new AWS capacity is being monetized immediately despite investor skepticism. While Amazon beat revenue estimates with $213.39 billion and reported resilient AWS margins of 35%, its stock price fell significantly in after-hours trading. CEO Andy Jassy highlighted an 'unusual' opportunity in AI demand and projected capital spending to reach approximately $200 billion by 2026.</p>
+            <p>
+                <strong>Source:</strong> www.benzinga.com<br/>
+                <strong>Author:</strong> Ananya Gairola<br/>
+                <strong>Reading Time:</strong> ~3 min
+            </p>
+        </div>
+        <img src='https://cdn.benzinga.com/files/images/story/2026/02/06/Amazon.jpeg?width=1200&height=800&fit=crop' style='max-width:100%; margin-bottom: 20px;'/>
+        <hr/>
+        <div><!--$--><p>On Thursday, <strong>Amazon.com, Inc.</strong> <a href="https://www.benzinga.com/quote/AMZN">(NASDAQ:</a><a href="https://www.benzinga.com/quote/AMZN">AMZN</a>)<!-- --> pushed back against Wall Street's growing skepticism over <a href="https://www.benzinga.com/markets/tech/26/02/50437338/jim-cramer-on-amazon-stock-slip-not-saying-downside-overdone-i-figure-tomorrows-pretty-ugly">soaring AI-related capital expenditures</a>.</p><!--/$--><!--$--><h2><strong>Amazon Pushes Back On AI CapEx Concerns</strong></h2><!--/$--><!--$--><div></div><!--/$--><!--$--><p>During the <a href="https://www.benzinga.com/markets/earnings/26/02/50433203/amazon-q4-highlights-mixed-earnings-aws-growth-hits-fastest-rate-in-3-years-capex-200b-in-2026">company's fourth-quarter earnings</a> call, Amazon addressed investor concerns around its aggressive spending on AI and data center infrastructure, arguing the investments are already producing returns.</p><!--/$--><!--$--><p>Responding to questions from <strong>Evercore ISI</strong> analyst <strong>Mark Mahaney</strong> about long-term return on invested capital, CFO <strong>Brian Olsavsky</strong> said Amazon is seeing immediate utilization of the capacity it is bringing online, particularly within Amazon Web Services.</p><!--/$--><!--$--><p>"We are putting into service with customers all capacity that we are getting and it's immediately useful," Olsavsky said, adding that strong backlog and long-term customer commitments, especially for AI services, reinforce the company's confidence.</p><!--/$--><!--$--><div><div><div></div></div></div><!--/$--><!--$--><h2><strong>AWS Margins Hold Firm Despite AI Investments</strong></h2><!--/$--><!--$--><p>Olsavsky highlighted that AWS’s profitability remains resilient even as Amazon ramps up spending.</p><!--/$--><!--$--><p>AWS posted a 35% operating margin in the fourth quarter, up 40 basis points year over year, despite what he described as near-term headwinds from AI-related depreciation.</p><!--/$--><!--$--><div></div><!--/$--><!--$--><p>Margins will "fluctuate over time," he said, noting that Amazon continues to offset AI-related costs through operational efficiencies and cost reductions.</p><!--/$--><!--$--><h2><strong>AI Demand Driving Cloud Growth</strong></h2><!--/$--><!--$--><p>Most of Amazon's capital expenditures this year are expected to go toward AWS, with the majority tied directly to AI infrastructure. Some spending is also supporting faster-than-expected growth in non-AI workloads.</p><!--/$--><!--$--><div></div><!--/$--><!--$--><p>Amazon CEO <strong>Andy Jassy</strong> underscored the scale of the opportunity, pointing to AWS' 24% year-over-year growth and an annualized revenue run rate of $142 billion.</p><!--/$--><!--$--><p>"What we are continuing to see is that as fast as we install this capacity, this AI capacity, we are monetizing it. So it’s just a very unusual opportunity," CEO stated.</p><!--/$--><!--$--><p>He added that AI adoption is accelerating cloud migration, as customers increasingly need both their data and applications in the cloud to deploy AI at scale.</p><!--/$--><!--$--><div></div><!--/$--><!--$--><h2><strong>Amazon Sees Long-Term Returns From AI Bet</strong></h2><!--/$--><!--$--><p>Jassy said Amazon's experience building and scaling AWS — including designing its own chips and networking gear — gives the company an advantage as AI workloads mature.</p><!--/$--><!--$--><p>Over time, he expects AI economics to improve as inference workloads scale, utilization rises and pricing normalizes.</p><!--/$--><!--$--><p>"This isn't some sort of quixotic top-line grab," Jassy stated. " I’m very confident we’re gonna have strong return on invested capital here."</p><!--/$--><!--$--><h2><strong>Amazon Beats Q4 Revenue Estimates</strong></h2><!--/$--><!--$--><p>Amazon reported fourth-quarter net sales of $213.39 billion, marking a 14% increase from a year earlier and topping Wall Street expectations of $211.30 billion, according to Benzinga Pro.</p><!--/$--><!--$--><p>Pointing to robust demand across its core businesses and emerging areas such as AI, custom chips, robotics and low Earth orbit satellites, Jassy said the company plans to spend roughly $200 billion on capital expenditures in 2026.</p><!--/$--><!--$--><p><strong>Price Action: </strong>Amazon shares closed Thursday at $222.69, down 4.42% and slipped further to $197.75 in after-hours trading, a drop of 11.20%, according to Benzinga Pro.</p><!--/$--><!--$--><p>Amazon <a href="https://www.benzinga.com/quote/AMZN/analyst-ratings">shares score highly</a> on the Quality metric in <strong>Benzinga's Edge Stock Rankings</strong> and display a positive price trend across short, medium and long-term time frames.</p><!--/$--><!--$?--><template></template><div></div><!--/$--><!--$--><p><em><strong>Disclaimer:</strong> This content was partially produced with the help of AI tools and was reviewed and published by Benzinga editors.</em></p><!--/$--><!--$--><p><em>Photo Courtesy: bluestork on Shutterstock.com</em></p><!--/$--><!--$--><div></div><!--/$--></div>
+        ]]></content:encoded><guid isPermaLink="false">https://www.benzinga.com/markets/tech/26/02/50438236/amazon-defends-massive-ai-spending-says-new-aws-capacity-being-monetized-quickly-andy-jassy-sees-very-unusual-opportunity</guid><pubDate>Fri, 06 Feb 2026 02:27:51 -0500</pubDate></item><item><title>Tim Cook teases exciting plans to celebrate Apple’s upcoming 50th anniversary</title><link>https://appleosophy.com/2026/02/05/tim-cook-teases-exciting-plans-to-celebrate-apples-upcoming-50th-anniversary</link><description>
+        &lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Apple CEO Tim Cook has teased plans for the company's upcoming 50th anniversary on April 1, suggesting significant celebrations and potential new product launches. Speculation includes a special media event focused on home-related technology, such as an updated Apple TV, a refreshed HomePod mini, and a rumored 'HomePad' device.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Apple,Tim Cook,50th Anniversary,Consumer Electronics,Mark Gurman&lt;/p&gt;
+        &lt;p&gt;
+            &lt;strong&gt;Source:&lt;/strong&gt; appleosophy.com&lt;br/&gt;
+            &lt;strong&gt;Author:&lt;/strong&gt; Nick Soong&lt;br/&gt;
+            &lt;strong&gt;Reading Time:&lt;/strong&gt; ~2 min
+        &lt;/p&gt;
+        &lt;img src='https://cdn.appleosophy.com/2026/02/wallpaper_desktop-scaled.png' style='max-width:100%;'/&gt;
+        &lt;br/&gt;
+        &lt;p&gt;&lt;small&gt;Via: Your Friday tech briefing&lt;/small&gt;&lt;/p&gt;
+        </description><content:encoded><![CDATA[
+        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
+            <p><strong>Summary:</strong> Apple CEO Tim Cook has teased plans for the company's upcoming 50th anniversary on April 1, suggesting significant celebrations and potential new product launches. Speculation includes a special media event focused on home-related technology, such as an updated Apple TV, a refreshed HomePod mini, and a rumored 'HomePad' device.</p>
+            <p>
+                <strong>Source:</strong> appleosophy.com<br/>
+                <strong>Author:</strong> Nick Soong<br/>
+                <strong>Reading Time:</strong> ~2 min
+            </p>
+        </div>
+        <img src='https://cdn.appleosophy.com/2026/02/wallpaper_desktop-scaled.png' style='max-width:100%; margin-bottom: 20px;'/>
+        <hr/>
+        <div>
+				<p><span>This year will be, without a doubt, the biggest year for Apple, not only because Apple will launch several exciting all-new products, but this year also marks the 50th anniversary, or semicentennial, of the company’s founding. Apple’s CEO, Tim Cook, held an all-hands meeting with its employees earlier today, and this was what Cook teased for the employees, according to </span><i><span>Bloomberg</span></i><span>’s </span><a href="https://www.bloomberg.com/news/articles/2026-02-05/apple-s-cook-vows-to-lobby-lawmakers-on-immigration-issue?embedded-checkout=true"><span>Mark Gurman</span></a><span>:</span></p>
+<blockquote><p><span>“</span><span>I’ve been unusually reflective lately about Apple because we have been working on what to do to mark this moment. When you really stop and pause and think about the last 50 years, it makes your heart sing. It really does. I promise some celebration.” </span><span>-Tim Cook</span></p></blockquote>
+<p><span>With that kind of announcement, it certainly sounds like Apple is going to celebrate really big for the company’s upcoming anniversary. Apple was co-founded by Steve Jobs and Steve Wozniak on April 1, 1976, so it’s only less than two months until Apple celebrates its semicentennial.</span></p><div>
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4502401536344249"></script>
+<!-- Mobile: before article banner -->
+<ins></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+
+<p><span>We don’t know exactly what Apple is planning for its 50th anniversary, but I could imagine some sort of special-edition Apple product to commemorate its milestone. As a bit of trivia, Apple did offer the special-edition Twentieth Anniversary Macintosh to commemorate the company’s 20th anniversary despite being released in 1997; however, that computer simply crashed and burned due to how outrageously expensive it was. </span></p>
+<p><a href="https://cdn.appleosophy.com/2026/02/TAM-Press-Photo.jpg"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABgAAAAQAAQMAAAAdvwABAAAAA1BMVEUAAP+KeNJXAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAANRJREFUeNrtwQEBAAAAgJD+r+4ICgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAagQtAAFMfvxZAAAAAElFTkSuQmCC" alt=""></a></p>
+<p><span>However, I could imagine Apple holding a media press event to introduce several new products for the home. Apple held a media event in April 2021 to introduce the updated Apple TV 4K, the first AirTag, the M1 iPad Pro, and the colorful M1 iMac. If you think about it, these products were designed to be used around the home. So Apple could have another event this April again to introduce more home-related products; this would include the next generation Siri, the next Apple TV 4K, the refreshed HomePod mini, the budget MacBook, and the long-rumored “HomePad” device.</span></p>
+<p><span>For what it’s worth, these next few months will be very exciting for all Apple enthusiasts, so we will surely cover everything that Apple has up its sleeves. Make sure you bookmark this site to stay updated with the latest content from us!</span></p>
+<!-- CONTENT END 1 -->
+			</div>
+
+			
+        ]]></content:encoded><guid isPermaLink="false">https://appleosophy.com/2026/02/05/tim-cook-teases-exciting-plans-to-celebrate-apples-upcoming-50th-anniversary</guid><pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate></item><item><title>Amazon plunges 9%, continues Big Tech's $1 trillion wipeout as AI bubble fears ignite sell-off</title><link>https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html</link><description>
+        &lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Amazon's stock plummeted over 9% after announcing massive capital expenditure plans for AI infrastructure, contributing to a $1 trillion valuation loss among Big Tech firms. Investors are increasingly concerned about a potential AI bubble and the lack of immediate visibility on returns for the estimated $660 billion in combined spending by industry giants this year.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; Amazon,Artificial Intelligence,Big Tech,Stock Market,Capital Expenditure&lt;/p&gt;
+        &lt;p&gt;
+            &lt;strong&gt;Source:&lt;/strong&gt; www.cnbc.com&lt;br/&gt;
+            &lt;strong&gt;Author:&lt;/strong&gt; Kai Nicol-Schwarz, www.facebook.com&lt;br/&gt;
+            &lt;strong&gt;Reading Time:&lt;/strong&gt; ~2 min
+        &lt;/p&gt;
+        &lt;img src='https://image.cnbcfm.com/api/v1/image/108259472-1769776783103-gettyimages-2258454612-20090101260130-99-336595.jpeg?v=1770344940&amp;w=1920&amp;h=1080' style='max-width:100%;'/&gt;
+        &lt;br/&gt;
+        &lt;p&gt;&lt;small&gt;Via: Your Friday tech briefing&lt;/small&gt;&lt;/p&gt;
+        </description><content:encoded><![CDATA[
+        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
+            <p><strong>Summary:</strong> Amazon's stock plummeted over 9% after announcing massive capital expenditure plans for AI infrastructure, contributing to a $1 trillion valuation loss among Big Tech firms. Investors are increasingly concerned about a potential AI bubble and the lack of immediate visibility on returns for the estimated $660 billion in combined spending by industry giants this year.</p>
+            <p>
+                <strong>Source:</strong> www.cnbc.com<br/>
+                <strong>Author:</strong> Kai Nicol-Schwarz, www.facebook.com<br/>
+                <strong>Reading Time:</strong> ~2 min
+            </p>
+        </div>
+        <img src='https://image.cnbcfm.com/api/v1/image/108259472-1769776783103-gettyimages-2258454612-20090101260130-99-336595.jpeg?v=1770344940&w=1920&h=1080' style='max-width:100%; margin-bottom: 20px;'/>
+        <hr/>
+        <div><p><span><a href="/quotes/AMZN/">Amazon</a><span><span><button><span></span></button></span></span></span> shares sunk more than 9% on Friday after the company's hefty spending forecast surprised investors who were already wary that the artificial intelligence boom is at risk of becoming a bubble. </p><p>The e-commerce company <a href="https://www.cnbc.com/2026/02/05/amazon-amzn-q4-earnings-report-2025.html">on Thursday</a> was the latest tech giant to announce plans for a massive increase in capital expenditures, after Google parent <span><a href="/quotes/GOOGL/">Alphabet</a><span><span><button><span></span></button></span></span></span>, <span><a href="/quotes/MSFT/">Microsoft</a><span><span><button><span></span></button></span></span></span> and <span><a href="/quotes/META/">Meta</a><span><span><button><span></span></button></span></span></span> all signaled they expect their spending sprees to continue. </p><div></div><p>Amazon, Alphabet, Microsoft and Meta reported about $120 billion in capital expenditures in the fourth quarter alone. That figure could exceed more than $660 billion this year, <a href="https://www.ft.com/content/0e7f6374-3fd5-46ce-a538-e4b0b8b6e6cd">the Financial Times</a> reported, which is higher than the gross domestic product of countries like the United Arab Emirates, Singapore and Israel.</p><p>Wall Street has responded differently to the companies' spending plans, <a href="https://www.cnbc.com/2026/01/28/metas-zuckerberg-gets-green-light-from-wall-street-to-invest-in-ai.html">cheering</a> Meta and Alphabet's forecasts, while punishing Amazon and Microsoft. </p><p>Amazon, Microsoft, <span><a href="/quotes/NVDA/">Nvidia</a><span><span><button><span></span></button></span></span></span>, Meta, Google and <span><a href="/quotes/ORCL/">Oracle</a><span><span><button><span></span></button></span></span></span> collectively shed more than $1 trillion from their valuations over the past week, according to FactSet data. </p><p>Shares of companies developing hardware for the AI build-out will likely face continued volatility as "sentiment contagion takes hold," Paul Markham, investment director at GAM Investments, told CNBC.</p><p>"Questions over the extent of capex as a result of LLM build-outs, the eventual return on that, and the fear of eventual over-expansion of capacity will be persistent," he added.</p><div></div></div>
+        ]]></content:encoded><guid isPermaLink="false">https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html</guid><pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate></item><item><title>EU accuses TikTok of ‘addictive design’ that harms children, seeks changes to protect users</title><link>https://apnews.com/article/tiktok-european-union-brussels-social-media-regulation-3b672b24f65611c7b248c55c5b153d7c</link><description>
+        &lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; The European Union has issued preliminary charges against TikTok, accusing the platform of employing 'addictive design' features like infinite scroll and autoplay that lead to compulsive use and harm the mental health of children. Under the Digital Services Act, the EU is demanding significant changes to the app’s core functionality, warning that TikTok could face fines of up to 6% of its annual revenue if it fails to implement more effective user protections.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt; TikTok,European Union,Digital Services Act,Social Media,Child Safety&lt;/p&gt;
+        &lt;p&gt;
+            &lt;strong&gt;Source:&lt;/strong&gt; apnews.com&lt;br/&gt;
+            &lt;strong&gt;Author:&lt;/strong&gt; Kelvin Chan, innovation in Europe, apnews.com, kelvin-chan&lt;br/&gt;
+            &lt;strong&gt;Reading Time:&lt;/strong&gt; ~3 min
+        &lt;/p&gt;
+        &lt;img src='https://dims.apnews.com/dims4/default/7ae4408/2147483647/strip/true/crop/7671x5111+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F49%2F1a%2F20d983922c5cf7f95068538e4673%2F3bd9289fcf434ce48174295cd9354ab0' style='max-width:100%;'/&gt;
+        &lt;br/&gt;
+        &lt;p&gt;&lt;small&gt;Via: Your Friday tech briefing&lt;/small&gt;&lt;/p&gt;
+        </description><content:encoded><![CDATA[
+        <div style="font-style: italic; padding: 10px; border-left: 4px solid #ccc; margin-bottom: 20px;">
+            <p><strong>Summary:</strong> The European Union has issued preliminary charges against TikTok, accusing the platform of employing 'addictive design' features like infinite scroll and autoplay that lead to compulsive use and harm the mental health of children. Under the Digital Services Act, the EU is demanding significant changes to the app’s core functionality, warning that TikTok could face fines of up to 6% of its annual revenue if it fails to implement more effective user protections.</p>
+            <p>
+                <strong>Source:</strong> apnews.com<br/>
+                <strong>Author:</strong> Kelvin Chan, innovation in Europe, apnews.com, kelvin-chan<br/>
+                <strong>Reading Time:</strong> ~3 min
+            </p>
+        </div>
+        <img src='https://dims.apnews.com/dims4/default/7ae4408/2147483647/strip/true/crop/7671x5111+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F49%2F1a%2F20d983922c5cf7f95068538e4673%2F3bd9289fcf434ce48174295cd9354ab0' style='max-width:100%; margin-bottom: 20px;'/>
+        <hr/>
+        <div>
+                                        <p>LONDON (AP) — The European Union on Friday accused TikTok of breaching the bloc’s digital rules with “addictive design” features that lead to compulsive use by children, in preliminary charges that strike at the heart of the popular video sharing app’s operating model. </p><p>EU regulators said their two-year <span><a href="https://apnews.com/article/european-union-tiktok-digital-regulation-3fd249bbc9ff78a4401827c4b84b71a7">investigation</a></span> found that TikTok hasn’t done enough to assess how features such as autoplay and infinite scroll could harm the physical and mental health of users, including minors and “vulnerable adults.” </p><p>The European Commission said it believes TikTok should change the “basic design” of its service. The commission is the EU’s executive arm and enforcer of the 27-nation bloc’s <span><a href="https://apnews.com/article/eu-european-union-digital-services-act-4fc60b69253bcbbf9f46a84cbd93bdaf">Digital Services Act</a></span>, a sweeping rulebook that requires social media companies to clean up their platforms and protect users, under threat of hefty fines.</p><p>TikTok denied the accusations. </p>
+    <div>
+        <div>
+    <script>
+        freestar.queue.push(function () {
+            window.fsAdCount = window.fsAdCount + 1 || 0;
+            let customChannel = '/dynamic_' + fsAdCount;
+            let adList = document.querySelectorAll(".fs-feed-ad")
+            let thisAd = adList[fsAdCount];
+            let randId = Math.random().toString(36).slice(2);
+            thisAd.id = randId;
+            let thisPlacement = fsAdCount == 0 ? "apnews_story_feed" : "apnews_story_feed_dynamic";
+            freestar.newAdSlots({
+                placementName: thisPlacement,
+                slotId: randId
+            }, customChannel);
+        });
+    </script>
+</div></div>
+<p>“The Commission’s preliminary findings present a categorically false and entirely meritless depiction of our platform, and we will take whatever steps are necessary to challenge these findings through every means available to us,” the company said in a statement. </p>
+
+<div>
+    <div>
+        
+<bsp-list-loadmore>
+    
+
+
+    
+    <a></a>
+
+
+
+
+    <div>
+        
+
+
+        
+        
+        
+
+            <bsp-custom-headline>
+
+                                  <div>
+
+                        
+                            Related Stories
+                        
+                    </div>
+            </bsp-custom-headline>
+        
+        
+        
+        
+
+    </div>
+    
+
+
+
+    <div>
+            
+        
+            <div>
+                
+                    
+                        <div>
+   
+    
+        
+            
+    <div><a href="https://apnews.com/article/spain-social-media-ban-children-under-16s-77ac5a2e2078f175bd61dbfb5ad9deb7">
+      
+   
+
+    <picture>
+    
+        <source>
+
+    
+
+    
+        <source>
+
+    
+
+    
+        <source>
+
+    
+
+    
+        <source>
+
+    
+
+    
+        <source>
+
+    
+
+    
+        <source>
+
+    
+<img alt="Spain's Prime Minister Pedro Sanchez speaks during a media conference at the end of the EU summit in Brussels, Friday, Jan. 23, 2026. (AP Photo/Omar Havana)" src="https://dims.apnews.com/dims4/default/4bc2b71/2147483647/strip/true/crop/5252x3498+0+2/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F11%2F1e%2F90f0d38e6d398f0f80d735358fbb%2F126591aefc2a4124b0577c8aaa76e246">
+</source></source></source></source></source></source></picture>
+
+</a></div>
+
+
+        
+    
+
+    <div>
+        
+        
+        
+        
+
+        
+    
+        
+
+
+    
+
+
+  
+    
+        <bsp-custom-headline>
+            <div>
+                
+                
+                <a href="https://apnews.com/article/spain-social-media-ban-children-under-16s-77ac5a2e2078f175bd61dbfb5ad9deb7"><span>Spain looks to ban social media for under-16s, joining others in Europe</span></a>
+            </div>
+        </bsp-custom-headline>
+    
+      
+
+
+
+
+
+        
+
+
+
+
+        
+        
+
+    
+    
+    
+    
+        <div>
+            <span>2 MIN READ</span>
+        </div>
+    
+    
+    
+      
+
+
+        
+
+        
+
+
+        
+
+        
+
+        
+    </div>
+
+    
+</div>
+                    
+                </div>
+        
+            <div>
+                
+                    
+                        <div>
+   
+    
+        
+            
+    <div><a href="https://apnews.com/article/tiktok-uninstalls-newsom-censorship-f38b265405f734993728c790dcc83bcc">
+      
+   
+
+    <picture>
+    
+        <source>
+
+    
+
+    
+        <source>
+
+    
+
+    
+        <source>
+
+    
+
+    
+        <source>
+
+    
+
+    
+        <source>
+
+    
+
+    
+        <source>
+
+    
+<img alt="The icon for the TikTok video sharing app is seen on a smartphone in Marple Township, Pa., Feb. 28, 2023. (AP Photo/Matt Slocum, File)" src="https://dims.apnews.com/dims4/default/1e2a04b/2147483647/strip/true/crop/7671x5110+0+2/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F49%2F1a%2F20d983922c5cf7f95068538e4673%2F3bd9289fcf434ce48174295cd9354ab0">
+</source></source></source></source></source></source></picture>
+
+</a></div>
+
+
+        
+    
+
+    <div>
+        
+        
+        
+        
+
+        
+    
+        
+
+
+    
+
+
+  
+    
+        <bsp-custom-headline>
+            <div>
+                
+                
+                <a href="https://apnews.com/article/tiktok-uninstalls-newsom-censorship-f38b265405f734993728c790dcc83bcc"><span>TikTok faces app deletions, censorship claims and glitches in days after its ownership change</span></a>
+            </div>
+        </bsp-custom-headline>
+    
+      
+
+
+
+
+
+        
+
+
+
+
+        
+        
+
+    
+    
+    
+    
+        <div>
+            <span>2 MIN READ</span>
+        </div>
+    
+    
+    
+      
+
+
+        
+
+        
+
+
+        
+
+        
+
+        
+    </div>
+
+    
+</div>
+                    
+                </div>
+        
+            <div>
+                
+                    
+                        <div>
+   
+    
+        
+            
+    <div><a href="https://apnews.com/article/social-media-trial-kids-addiction-meta-tiktok-youtube-d3a6bf617f2d11521675412ffb275031">
+      
+   
+
+    <picture>
+    
+        <source>
+
+    
+
+    
+        <source>
+
+    
+
+    
+        <source>
+
+    
+
+    
+        <source>
+
+    
+
+    
+        <source>
+
+    
+
+    
+        <source>
+
+    
+<img alt="Young people use their phones to view social media in Sydney, Nov. 8, 2024. (AP Photo/Rick Rycroft, File)" src="https://dims.apnews.com/dims4/default/5e1d47c/2147483647/strip/true/crop/6362x4238+0+2/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc9%2F3f%2F426dc48e71339c47d349ebbf7db8%2F0756b1832a88491585f86e6574ec8f6c">
+</source></source></source></source></source></source></picture>
+
+</a></div>
+
+
+        
+    
+
+    <div>
+        
+        
+        
+        
+
+        
+    
+        
+
+
+    
+
+
+  
+    
+        <bsp-custom-headline>
+            <div>
+                
+                
+                <a href="https://apnews.com/article/social-media-trial-kids-addiction-meta-tiktok-youtube-d3a6bf617f2d11521675412ffb275031"><span>TikTok settles as social media giants face landmark trial over youth addiction claims</span></a>
+            </div>
+        </bsp-custom-headline>
+    
+      
+
+
+
+
+
+        
+
+
+
+
+        
+        
+
+    
+    
+    
+    
+        <div>
+            <span>5 MIN READ</span>
+        </div>
+    
+    
+    
+      
+
+
+        
+
+        
+
+
+        
+
+        
+
+        
+    </div>
+
+    
+</div>
+                    
+                </div>
+        
+    </div>
+    
+
+</bsp-list-loadmore>
+
+
+
+    </div>
+</div>
+
+<p>TikTok’s features including infinite scrolling, autoplay, push notifications, and highly personalized recommender systems “lead to the compulsive use of the app, especially for our kids, and this poses major risks to their mental health and wellbeing,” Commission spokesman Thomas Regnier said at a press briefing in Brussels. </p>
+    
+    <div>
+        <div>
+            <div>
+                <div>
+    
+    <a></a>
+
+
+    <div></div>
+    <p>
+        
+    </p>
+</div>
+            </div>
+        </div>
+    </div>
+    
+<p>“The measures that TikTok has in place are simply not enough,” he said. </p><p>The company now has a chance to defend itself and reply to the commission’s findings. Regnier said “if they don’t do this properly,” Brussels could issue a so-called non-compliance decision and possible fine worth up to 6% of the company’s total annual revenue. There was no deadline specified for the commission to make a final decision.</p>
+    <div>
+        <div>
+    <script>
+        freestar.queue.push(function () {
+            window.fsAdCount = window.fsAdCount + 1 || 0;
+            let customChannel = '/dynamic_' + fsAdCount;
+            let adList = document.querySelectorAll(".fs-feed-ad")
+            let thisAd = adList[fsAdCount];
+            let randId = Math.random().toString(36).slice(2);
+            thisAd.id = randId;
+            let thisPlacement = fsAdCount == 0 ? "apnews_story_feed" : "apnews_story_feed_dynamic";
+            freestar.newAdSlots({
+                placementName: thisPlacement,
+                slotId: randId
+            }, customChannel);
+        });
+    </script>
+</div></div>
+<p>The preliminary findings are the latest example of pressure that TikTok and other social media platforms are facing over youth addiction. </p><p>Australia has <span><a href="https://apnews.com/article/australia-social-media-ban-under-16-children-8b992efa5138704bc02ee9fc974f6987">banned</a></span> social media for under-16s while governments in <span><a href="https://apnews.com/article/spain-social-media-ban-children-under-16s-77ac5a2e2078f175bd61dbfb5ad9deb7">Spain</a></span>, <span><a href="https://apnews.com/article/france-social-media-ban-children-d3c4010741dd1a39f61c1f6d5bb3c85b">France</a></span>, <span><a href="https://apnews.com/article/britain-social-media-ban-australia-teen-harm-c59c76db73a8c1cfac28c8264738e395">Britain,</a></span><span><a href="https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4">Denmark,</a></span><span><a href="https://apnews.com/article/malaysia-social-media-ban-under-16-1e9e20321c8c83c470ff7489139f10b8">Malaysia</a></span> and <span><a href="https://apnews.com/article/egypt-parliament-social-media-children-elsissi-8ea06fec852f3a2addb13eb341527732">Egypt</a></span> want to introduce similar measures. In the U.S., TikTok last month settled a <span><a href="https://apnews.com/article/social-media-trial-kids-addiction-meta-tiktok-youtube-d3a6bf617f2d11521675412ffb275031">landmark social media addiction lawsuit</a></span> while two other companies named in the suit — Meta’s Instagram and Google’s YouTube — still face claims that their platforms deliberately addict and harm children. </p><p>TikTok has 170 million users in the European Union and “most of these are children,” Regnier said. He added that 7% of children aged 12 to 15 spend four to five hours daily on TikTok, and it’s “by far” the platform most used after midnight by children aged 13 to 18, citing unspecified data. </p><p>“These statistics are extremely alarming,” he said. </p><p>The commission said that TikTok fuels the urge to keep scrolling because it constantly rewards users with new content, leading to reduced self control.</p><p>It said TikTok ignores signs that someone is compulsively using the app, such as the amount of time that minors spend on it at night, and how often the app is opened. </p>
+    <div>
+        <div>
+    <script>
+        freestar.queue.push(function () {
+            window.fsAdCount = window.fsAdCount + 1 || 0;
+            let customChannel = '/dynamic_' + fsAdCount;
+            let adList = document.querySelectorAll(".fs-feed-ad")
+            let thisAd = adList[fsAdCount];
+            let randId = Math.random().toString(36).slice(2);
+            thisAd.id = randId;
+            let thisPlacement = fsAdCount == 0 ? "apnews_story_feed" : "apnews_story_feed_dynamic";
+            freestar.newAdSlots({
+                placementName: thisPlacement,
+                slotId: randId
+            }, customChannel);
+        });
+    </script>
+</div></div>
+<p>The company has failed to put in place “reasonable, proportionate and effective” measures to offset the risks, it said. </p><p>The commission said TikTok’s existing time management controls are easy to dismiss and “introduce limited friction,” while parental tools need “additional time and skills” from parents. </p><p>Changes that the commission wants TikTok to make include disabling features like infinite scroll; putting in more effective breaks for screen time, including at night; and changing its “highly personalized” recommender system, which feeds users an endless stream of video shorts based on their preferences. </p><div></div><p>TikTok says it has numerous tools, such as custom screen time limits and sleep reminders, that let users make “intentional decisions” about how they spend their time on the app. The company also noted it has teen accounts that let parents impose time limits on use, and prompt teen users to switch off in the evenings. </p><p>___ </p><p>Associated Press journalist Sam McNeil in Brussels contributed to this report. </p>
+                                    </div>
+                                
+                            
+
+                            
+                    
+        ]]></content:encoded><guid isPermaLink="false">https://apnews.com/article/tiktok-european-union-brussels-social-media-regulation-3b672b24f65611c7b248c55c5b153d7c</guid><pubDate>Fri, 06 Feb 2026 11:01:03 +0000</pubDate></item></channel></rss>
